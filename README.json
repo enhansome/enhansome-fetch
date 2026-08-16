@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T01:15:04Z",
+            "last_commit": "2026-08-16T02:52:52Z",
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24203
+            "stars": 24212
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-08-09T05:50:51Z",
             "owner": "hykilpikonna",
             "repo": "hyfetch",
-            "stars": 2081
+            "stars": 2083
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-09T05:50:51Z",
             "owner": "hykilpikonna",
             "repo": "hyfetch",
-            "stars": 2081
+            "stars": 2083
           }
         },
         {
@@ -80,7 +80,7 @@
             "last_commit": "2025-03-08T00:31:31Z",
             "owner": "Macchina-CLI",
             "repo": "macchina",
-            "stars": 1960
+            "stars": 1962
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2026-05-15T07:38:30Z",
             "owner": "nidnogg",
             "repo": "zeitfetch",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -259,7 +259,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T01:05:22Z",
+            "last_commit": "2026-08-15T19:18:36Z",
             "owner": "alba4k",
             "repo": "albafetch",
             "stars": 75
@@ -856,7 +856,7 @@
             "last_commit": "2024-05-09T04:53:04Z",
             "owner": "lptstr",
             "repo": "winfetch",
-            "stars": 1787
+            "stars": 1788
           }
         },
         {
@@ -1203,6 +1203,20 @@
         },
         {
           "node_type": "item",
+          "title": "Haxefetch",
+          "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2026-08-16T00:56:42Z",
+            "owner": "ACoolioDude",
+            "repo": "Haxefetch",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "mycofetch",
           "description": "Mycofetch is fast and flexible system information tool written in OCaml.",
           "children": [],
@@ -1213,20 +1227,6 @@
             "owner": "sanngridhr",
             "repo": "mycofetch",
             "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Haxefetch",
-          "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haxe",
-            "last_commit": "2026-08-14T23:15:27Z",
-            "owner": "ACoolioDude",
-            "repo": "Haxefetch",
-            "stars": 0
           }
         },
         {
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:06:57.995Z",
+    "last_updated": "2026-08-16T03:14:59.436Z",
     "original_repository": "beucismis/awesome-fetch",
     "original_repository_sha": "640c7f879cfbc8be36cbc45eddf093acc61bb492",
     "enhanced_repository": "enhansome/enhansome-fetch",
