@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T02:52:52Z",
+            "last_commit": "2026-08-17T02:48:22Z",
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24212
+            "stars": 24228
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-03-02T03:08:18Z",
             "owner": "KittyKatt",
             "repo": "screenFetch",
-            "stars": 4068
+            "stars": 4069
           }
         },
         {
@@ -838,6 +838,20 @@
             "repo": "tinyscreen",
             "stars": 2
           }
+        },
+        {
+          "node_type": "item",
+          "title": "ferrisfetch",
+          "description": "A fast, lightweight Linux and Android system information fetch CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-16T19:55:55Z",
+            "owner": "Kk376",
+            "repo": "ferrisfetch",
+            "stars": 0
+          }
         }
       ],
       "title": "Cross Platform"
@@ -856,7 +870,7 @@
             "last_commit": "2024-05-09T04:53:04Z",
             "owner": "lptstr",
             "repo": "winfetch",
-            "stars": 1788
+            "stars": 1789
           }
         },
         {
@@ -870,7 +884,7 @@
             "last_commit": "2026-02-12T18:32:59Z",
             "owner": "horizonwiki",
             "repo": "horizonfetch",
-            "stars": 8
+            "stars": 9
           }
         }
       ],
@@ -1007,20 +1021,6 @@
         },
         {
           "node_type": "item",
-          "title": "tinyfetch",
-          "description": "Python and system information command-line fetch tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-08-07T20:22:45Z",
-            "owner": "beucismis",
-            "repo": "tinyfetch",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
           "title": "pokefetch",
           "description": "This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch).",
           "children": [],
@@ -1069,7 +1069,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T19:39:38Z",
+            "last_commit": "2026-08-16T19:37:00Z",
             "owner": "David17c",
             "repo": "Dfetch",
             "stars": 19
@@ -1175,6 +1175,20 @@
         },
         {
           "node_type": "item",
+          "title": "Haxefetch",
+          "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2026-08-17T00:53:58Z",
+            "owner": "ACoolioDude",
+            "repo": "Haxefetch",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "yarsi",
           "description": "Yet another rust system info fetcher.",
           "children": [],
@@ -1199,20 +1213,6 @@
             "owner": "solaaradotnet",
             "repo": "so-sysinfo",
             "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Haxefetch",
-          "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haxe",
-            "last_commit": "2026-08-16T00:56:42Z",
-            "owner": "ACoolioDude",
-            "repo": "Haxefetch",
-            "stars": 1
           }
         },
         {
@@ -1256,6 +1256,12 @@
             "repo": "slackfetch",
             "stars": 0
           }
+        },
+        {
+          "node_type": "item",
+          "title": "tinyfetch",
+          "description": "Python and system information command-line fetch tool.",
+          "children": []
         }
       ],
       "title": "GNU/Linux Only"
@@ -1389,20 +1395,6 @@
         },
         {
           "node_type": "item",
-          "title": "tinyfetch",
-          "description": "Python and system information command-line fetch tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-08-07T20:22:45Z",
-            "owner": "beucismis",
-            "repo": "tinyfetch",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
           "title": "phpfetch",
           "description": "Simple PHP and system information tool.",
           "children": [],
@@ -1429,10 +1421,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T22:33:52Z",
+            "last_commit": "2026-08-17T01:51:53Z",
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12022
+            "stars": 12023
           }
         },
         {
@@ -1670,9 +1662,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:14:59.436Z",
+    "last_updated": "2026-08-17T03:14:38.275Z",
     "original_repository": "beucismis/awesome-fetch",
-    "original_repository_sha": "640c7f879cfbc8be36cbc45eddf093acc61bb492",
+    "original_repository_sha": "cc9161bd722feeb6e601c3d75f60052cc29c28e0",
     "enhanced_repository": "enhansome/enhansome-fetch",
     "enhanced_repository_description": null,
     "title": "Awesome Fetch with stars"
