@@ -1,1301 +1,1391 @@
 {
   "items": [
     {
-      "description": "The file updates automatically with each commit, allowing you to request its raw format and use it as a static API.",
-      "items": [],
-      "title": "Static API"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fastfetch",
+              "description": "Like neofetch, but much faster because written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340181518,
+                "language": "C",
+                "last_commit": "2026-08-19T06:19:26Z",
+                "owner": "fastfetch-cli",
+                "repo": "fastfetch",
+                "stars": 24274
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "screenFetch",
+              "description": "Fetches system/theme information in terminal for Linux desktop screenshots.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574152,
+                "language": "Shell",
+                "last_commit": "2026-03-02T03:08:18Z",
+                "owner": "KittyKatt",
+                "repo": "screenFetch",
+                "stars": 4071
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hyfetch",
+              "description": "Neofetch with LGBTQ+ pride flags.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479913941,
+                "language": "Shell",
+                "last_commit": "2026-08-09T05:50:51Z",
+                "owner": "hykilpikonna",
+                "repo": "hyfetch",
+                "stars": 2088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neowofetch",
+              "description": "An updated, actively maintained fork of neofetch inside the HyFetch repo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479913941,
+                "language": "Shell",
+                "last_commit": "2026-08-09T05:50:51Z",
+                "owner": "hykilpikonna",
+                "repo": "hyfetch",
+                "stars": 2088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "macchina",
+              "description": "A system information fetcher, with an emphasis on performance and minimalism.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328027219,
+                "language": "Rust",
+                "last_commit": "2025-03-08T00:31:31Z",
+                "owner": "Macchina-CLI",
+                "repo": "macchina",
+                "stars": 1964
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "freshfetch",
+              "description": "A fresh take on neofetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286113027,
+                "language": "Rust",
+                "last_commit": "2024-06-05T16:23:00Z",
+                "owner": "K4rakara",
+                "repo": "freshfetch",
+                "stars": 507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rxfetch",
+              "description": "Custom system fetching tool which is made in bash script.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363877839,
+                "language": "Shell",
+                "last_commit": "2025-07-25T14:39:44Z",
+                "owner": "mngshm",
+                "repo": "rxfetch",
+                "stars": 498
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pfetch-rs",
+              "description": "A pretty system information tool written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602608913,
+                "language": "Rust",
+                "last_commit": "2026-05-25T12:01:07Z",
+                "owner": "Gobidev",
+                "repo": "pfetch-rs",
+                "stars": 364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "archey4",
+              "description": "Maintained fork of the original Archey (Linux) system tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89649908,
+                "language": "Python",
+                "last_commit": "2026-05-20T21:21:06Z",
+                "owner": "HorlogeSkynet",
+                "repo": "archey4",
+                "stars": 339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fetch-master-6000",
+              "description": "Dilbert themed fetch tool written in Perl.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353913168,
+                "language": "Perl",
+                "last_commit": "2023-08-10T14:42:12Z",
+                "owner": "anhsirk0",
+                "repo": "fetch-master-6000",
+                "stars": 312
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "diyfetch",
+              "description": "The ultimate fetch tool template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519134382,
+                "language": "Shell",
+                "last_commit": "2023-08-07T15:18:39Z",
+                "owner": "info-mono",
+                "repo": "diyfetch",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "afetch",
+              "description": "Simple system info written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299016458,
+                "language": "C",
+                "last_commit": "2024-05-02T16:05:42Z",
+                "owner": "13-CF",
+                "repo": "afetch",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bunnyfetch",
+              "description": "Tiny system info fetch utility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298659447,
+                "language": "Go",
+                "last_commit": "2025-01-14T02:15:38Z",
+                "owner": "sammy-ette",
+                "repo": "bunnyfetch",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sysfex",
+              "description": "Another system information tool written in C++.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 405681781,
+                "language": "C++",
+                "last_commit": "2024-12-28T20:04:11Z",
+                "owner": "mehedirm6244",
+                "repo": "sysfex",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "winfetch",
+              "description": "Neofetch/Screenfetch Alternative Written in Golang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266132124,
+                "language": "Go",
+                "last_commit": "2021-10-28T02:15:15Z",
+                "owner": "M4cs",
+                "repo": "winfetch",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bfetch",
+              "description": "Dynamic fetch displayer that SuperB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314834105,
+                "language": "Shell",
+                "last_commit": "2023-01-24T21:40:36Z",
+                "owner": "NNBnh",
+                "repo": "bfetch",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zeitfetch",
+              "description": "Instantaneous sysinfo, compatible with Windows, Linux, BSD and Mac OS X.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507221702,
+                "language": "Rust",
+                "last_commit": "2026-05-15T07:38:30Z",
+                "owner": "nidnogg",
+                "repo": "zeitfetch",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "albafetch",
+              "description": "Faster neofetch alternative, written in C. Still improving :).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464107126,
+                "language": "C",
+                "last_commit": "2026-08-15T19:18:36Z",
+                "owner": "alba4k",
+                "repo": "albafetch",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cutefetch",
+              "description": "Tiny coloured fetch script with cute little animals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337105235,
+                "language": "Shell",
+                "last_commit": "2026-08-02T00:01:46Z",
+                "owner": "cybardev",
+                "repo": "cutefetch",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hayabusa",
+              "description": "A daemonized fetch that is fully featured as well as fast.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692963475,
+                "language": "Rust",
+                "last_commit": "2025-08-16T20:22:48Z",
+                "owner": "Notarin",
+                "repo": "hayabusa",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pokefetch",
+              "description": "Command-line tool similar to neofetch for looking up pokemon in the terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86664514,
+                "language": "Python",
+                "last_commit": "2019-09-16T18:31:01Z",
+                "owner": "rmccorm4",
+                "repo": "Pokefetch",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terminal-widgets",
+              "description": "Shows system information as tiny widgets on terminal screen. .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385307598,
+                "language": "Python",
+                "last_commit": "2025-12-15T16:55:47Z",
+                "owner": "ankushbhagats",
+                "repo": "terminal-widgets",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rsfetch",
+              "description": "A WIP rewrite of rsfetch from scratch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284576274,
+                "language": "Rust",
+                "last_commit": "2023-09-09T23:34:31Z",
+                "owner": "Phate6660",
+                "repo": "rsfetch",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "archimede",
+              "description": "Unobtrusive directory information fetcher.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372167647,
+                "language": "Go",
+                "last_commit": "2023-04-05T09:07:27Z",
+                "owner": "gennaro-tedesco",
+                "repo": "archimede",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rsftch",
+              "description": "Lightning fast hardware fetch written in rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776434832,
+                "language": "Rust",
+                "last_commit": "2026-01-12T18:24:17Z",
+                "owner": "charklie",
+                "repo": "rsftch",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yafetch",
+              "description": "Yet another fetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312469209,
+                "language": "Rust",
+                "last_commit": "2026-01-21T04:48:42Z",
+                "owner": "yrwq",
+                "repo": "yafetch",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mfetch",
+              "description": "Minimalist fetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273013587,
+                "language": "Shell",
+                "last_commit": "2020-12-03T16:32:10Z",
+                "owner": "rachelambda",
+                "repo": "mfetch",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "richfetch",
+              "description": "A beautiful minimalistic fetch utility with a lot of dynamic features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 855218290,
+                "language": "Python",
+                "last_commit": "2024-10-18T15:41:15Z",
+                "owner": "s-atrn",
+                "repo": "richfetch",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tuatara",
+              "description": "Ziggidy *nix system info fetcher targeting speed and concepts of disfetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402180398,
+                "language": "Zig",
+                "last_commit": "2025-04-29T17:25:58Z",
+                "owner": "q60",
+                "repo": "tuatara",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unifetch",
+              "description": "An unofficial inheritor of Neofetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 535163720,
+                "language": "Shell",
+                "last_commit": "2025-12-10T11:06:00Z",
+                "owner": "nmimusic",
+                "repo": "unifetch",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rfetch",
+              "description": "A fast and minimal fetch program.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343614282,
+                "language": "Rust",
+                "last_commit": "2024-02-05T01:52:19Z",
+                "owner": "kamui-fin",
+                "repo": "rfetch",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "powerfetch",
+              "description": "PowerShell-based cross-platform 'screenfetch'-like tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102990244,
+                "language": "PowerShell",
+                "last_commit": "2021-09-28T05:04:53Z",
+                "owner": "jantari",
+                "repo": "powerfetch",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wretch",
+              "description": "This is my fetch script written in Rust, as one of my first projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 959544673,
+                "language": "Rust",
+                "last_commit": "2025-12-08T17:55:55Z",
+                "owner": "Addy10s",
+                "repo": "wretch",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "info.sh",
+              "description": "Info.sh is a little script that works like screenfetch or neofetch, it show infos.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157108757,
+                "language": "Shell",
+                "last_commit": "2022-08-23T23:19:14Z",
+                "owner": "bc1bb",
+                "repo": "info.sh",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "profetch",
+              "description": "System information fetcher written in GNU/Prolog.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318138857,
+                "language": "Prolog",
+                "last_commit": "2021-12-20T00:19:29Z",
+                "owner": "RustemB",
+                "repo": "profetch",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bfetch",
+              "description": "Fast system fetch written in brainf**k.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 834095001,
+                "language": "Brainfuck",
+                "last_commit": "2026-04-17T06:44:46Z",
+                "owner": "xlsft",
+                "repo": "bfetch",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rustor",
+              "description": "A blazing fast fetch tool written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 902224953,
+                "language": "Rust",
+                "last_commit": "2025-05-05T20:40:55Z",
+                "owner": "Evren-os",
+                "repo": "rustor",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "strlx",
+              "description": "A minimal and fast system resource viewer in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 786618862,
+                "language": "C",
+                "last_commit": "2026-05-16T20:53:34Z",
+                "owner": "stx3plus1",
+                "repo": "strlx",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "efetch",
+              "description": "Is a system information tool written in C++.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333069951,
+                "language": "C",
+                "last_commit": "2024-07-30T07:38:38Z",
+                "owner": "NoSequel",
+                "repo": "efetch",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tfetch",
+              "description": "Tree view like fetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314065174,
+                "language": "Python",
+                "last_commit": "2026-03-26T21:04:23Z",
+                "owner": "EndOfLine-py",
+                "repo": "tfetch",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mfetch",
+              "description": "A simple fetch tool for Linux written in Bash.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 842988651,
+                "language": "Shell",
+                "last_commit": "2025-11-18T03:31:01Z",
+                "owner": "Nighty3098",
+                "repo": "mfetch",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sjfetch",
+              "description": "A command-line tool to display colorful distro information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366068875,
+                "language": "C++",
+                "last_commit": "2023-06-25T14:56:27Z",
+                "owner": "855309",
+                "repo": "sjfetch",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wziumfecz",
+              "description": "Just like neofetch but better.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325397383,
+                "language": "Shell",
+                "last_commit": "2026-04-24T11:11:52Z",
+                "owner": "workonfire",
+                "repo": "wziumfecz",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blaeckfetch",
+              "description": "A fast, minimalist system fetch for your terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1145285047,
+                "language": "Rust",
+                "last_commit": "2026-02-05T11:04:06Z",
+                "owner": "gustafeden",
+                "repo": "blaeckfetch",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "brofetch",
+              "description": "A detailed and fun command-line system information tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815209222,
+                "language": "Shell",
+                "last_commit": "2024-11-10T17:23:05Z",
+                "owner": "ufuayk",
+                "repo": "brofetch",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zfetch",
+              "description": "This is a simple, fast, but pretty fetch script.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 466401556,
+                "language": "Shell",
+                "last_commit": "2023-09-09T16:40:32Z",
+                "owner": "emilydaemon",
+                "repo": "zfetch",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "101fetch",
+              "description": "Screenfetch but for 101 school.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218148843,
+                "language": "Shell",
+                "last_commit": "2019-11-22T18:05:32Z",
+                "owner": "salaaad2",
+                "repo": "101fetch",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gbfetch",
+              "description": "Gabubu's fetch (less bloated hehe) forked from sfetch by speediegamer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466827138,
+                "language": "Shell",
+                "last_commit": "2022-08-06T15:21:18Z",
+                "owner": "GabubuAvailable",
+                "repo": "gbfetch",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "myfetch",
+              "description": "My neofetch-like program.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353958550,
+                "language": "Shell",
+                "last_commit": "2023-12-25T15:36:41Z",
+                "owner": "Pippadi",
+                "repo": "myfetch",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "betterfetch",
+              "description": "Betterfetch is a quick system information tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 851216229,
+                "language": "Shell",
+                "last_commit": "2025-11-08T08:58:13Z",
+                "owner": "sctech-tr",
+                "repo": "betterfetch",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reifetch",
+              "description": "A light fetch script, based on Neofetch, for Linux, macOS, and BSD.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372628634,
+                "language": "Shell",
+                "last_commit": "2021-10-20T04:08:01Z",
+                "owner": "OkaVatti",
+                "repo": "reifetch",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scalafetch",
+              "description": "Neofetch alternative in Scala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289363309,
+                "language": "Scala",
+                "last_commit": "2020-10-29T19:51:19Z",
+                "owner": "Phate6660",
+                "repo": "scalafetch",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "smilefetch",
+              "description": "A system info tool written in Rust inspired by neofetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 321167888,
+                "language": "Rust",
+                "last_commit": "2022-09-22T09:10:12Z",
+                "owner": "ashedapuppy",
+                "repo": "smilefetch",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kiwifetch",
+              "description": "A simple system info script like neofetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743781515,
+                "language": "Shell",
+                "last_commit": "2024-07-03T05:55:09Z",
+                "owner": "Bitskiwi",
+                "repo": "kiwifetch",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sxl",
+              "description": "Minimal system information program.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843039427,
+                "language": "C",
+                "last_commit": "2025-07-29T13:33:02Z",
+                "owner": "stx3plus1",
+                "repo": "sxl",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fetch.scm",
+              "description": "System information fetcher written in GNU Guile Scheme.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 396956753,
+                "language": "Scheme",
+                "last_commit": "2023-03-24T06:38:20Z",
+                "owner": "KikyTokamuro",
+                "repo": "fetch.scm",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scfetch",
+              "description": "Minimal fetch program written in Python for Linux, Mac and Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 887115722,
+                "language": "Python",
+                "last_commit": "2025-02-02T09:20:52Z",
+                "owner": "sctech-tr",
+                "repo": "scfetch",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scrftch",
+              "description": "Screenfetch in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208427444,
+                "language": null,
+                "last_commit": "2019-09-14T11:41:15Z",
+                "owner": "wezm",
+                "repo": "scrftch",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tinyscreen",
+              "description": "Lightweight clone of screenfetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 361174093,
+                "language": "Python",
+                "last_commit": "2021-04-24T17:58:06Z",
+                "owner": "pbkangafoo",
+                "repo": "tinyscreen",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ferrisfetch",
+              "description": "A fast, lightweight Linux and Android system information fetch CLI written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1335991268,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:13:15Z",
+                "owner": "kk376",
+                "repo": "ferrisfetch",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cross Platform"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "winfetch",
+              "description": "A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179112846,
+                "language": "PowerShell",
+                "last_commit": "2024-05-09T04:53:04Z",
+                "owner": "lptstr",
+                "repo": "winfetch",
+                "stars": 1790
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "horizonfetch",
+              "description": "Forged in Rust, shaped by your style.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 960083217,
+                "language": "Rust",
+                "last_commit": "2026-02-12T18:32:59Z",
+                "owner": "horizonwiki",
+                "repo": "horizonfetch",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Windows Only"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nitch",
+              "description": "A incredibly fast system fetch written in nim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 511540716,
+                "language": "Nim",
+                "last_commit": "2024-06-22T19:57:29Z",
+                "owner": "ssleert",
+                "repo": "nitch",
+                "stars": 649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Catnap",
+              "description": "A playful, simple system-information concatenation tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708104952,
+                "language": "Nim",
+                "last_commit": "2026-07-01T14:12:41Z",
+                "owner": "iinsertNameHere",
+                "repo": "catnap",
+                "stars": 292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pokemon-icat",
+              "description": "Shows any Pokémon sprite in your terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433994483,
+                "language": "Python",
+                "last_commit": "2025-08-03T15:53:03Z",
+                "owner": "aflaag",
+                "repo": "pokemon-icat",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "disfetch",
+              "description": "Yet another *nix distro fetching program, but less complex.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320042790,
+                "language": "Shell",
+                "last_commit": "2023-03-19T07:02:13Z",
+                "owner": "q60",
+                "repo": "disfetch",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vfetch",
+              "description": "A simple fetch tool for Linux written in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 291322480,
+                "language": "Python",
+                "last_commit": "2021-05-18T07:02:37Z",
+                "owner": "Lorago",
+                "repo": "vfetch",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "androfetch",
+              "description": "A pretty system information tool written in bash for termux on android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317523535,
+                "language": "Shell",
+                "last_commit": "2021-08-01T18:49:33Z",
+                "owner": "laraib07",
+                "repo": "androfetch",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "customfetch",
+              "description": "Highly customizable and fast system information fetch (or neofetch-like) program. It's also a GTK3 app and android widget.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 796873419,
+                "language": "C++",
+                "last_commit": "2025-11-25T17:47:54Z",
+                "owner": "Toni500github",
+                "repo": "customfetch",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CrabFetch",
+              "description": "An extremely fast, featureful and customizable command-line fetcher.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771212215,
+                "language": "Rust",
+                "last_commit": "2025-12-07T02:07:40Z",
+                "owner": "LivacoNew",
+                "repo": "CrabFetch",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "richfetch",
+              "description": "A richly customisable fetch util which provides a ton lot of information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 855218290,
+                "language": "Python",
+                "last_commit": "2024-10-18T15:41:15Z",
+                "owner": "s-atrn",
+                "repo": "richfetch",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pokefetch",
+              "description": "This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 975960932,
+                "language": "Shell",
+                "last_commit": "2026-01-23T20:29:04Z",
+                "owner": "Discomanfulanito",
+                "repo": "pokefetch",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "archfetch",
+              "description": "Simple CLI system information tool for Arch Linux.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126236274,
+                "language": "Shell",
+                "last_commit": "2026-03-21T02:21:48Z",
+                "owner": "xxczaki",
+                "repo": "archfetch",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dfetch",
+              "description": "A clean and practical system information tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1242750236,
+                "language": "Go",
+                "last_commit": "2026-08-18T19:33:38Z",
+                "owner": "David17c",
+                "repo": "Dfetch",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ufetch",
+              "description": "System fetch tool written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429374995,
+                "language": "Rust",
+                "last_commit": "2024-05-14T02:49:18Z",
+                "owner": "tyroruyk",
+                "repo": "ufetch",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pridefetch",
+              "description": "Neofetch but gay.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383535568,
+                "language": "Python",
+                "last_commit": "2023-01-09T21:17:57Z",
+                "owner": "cartoon-raccoon",
+                "repo": "pridefetch",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "turbofetch",
+              "description": "A blazingly-fast, minimal fetch that uses Nerd Fonts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826947095,
+                "language": "C",
+                "last_commit": "2024-08-04T10:31:08Z",
+                "owner": "ajTronic",
+                "repo": "turbofetch",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gotcha",
+              "description": "Pretty system fetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1036417396,
+                "language": "Go",
+                "last_commit": "2026-04-02T17:29:14Z",
+                "owner": "yehorovye",
+                "repo": "gotcha",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sfetch",
+              "description": "A simple system fetch CLI tool written in Shell.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496475582,
+                "language": "Shell",
+                "last_commit": "2022-05-26T12:32:48Z",
+                "owner": "frolleks",
+                "repo": "sfetch",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "koghi",
+              "description": "A system fetch tool in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 696552217,
+                "language": "Go",
+                "last_commit": "2025-03-23T16:08:07Z",
+                "owner": "if-not-nil",
+                "repo": "koghi",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "smfetch",
+              "description": "A fetch tool written in bash with less than 150 lines of code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 463668298,
+                "language": "Shell",
+                "last_commit": "2022-03-13T13:33:21Z",
+                "owner": "agahemir",
+                "repo": "smfetch",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stupidfetch",
+              "description": "Like neofetch, but without colors, without distro logos and installer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 443100491,
+                "language": "Shell",
+                "last_commit": "2026-07-07T11:59:50Z",
+                "owner": "000rosiu",
+                "repo": "stupidfetch",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Haxefetch",
+              "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1324414643,
+                "language": "Haxe",
+                "last_commit": "2026-08-19T11:17:38Z",
+                "owner": "ACoolioDude",
+                "repo": "Haxefetch",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yarsi",
+              "description": "Yet another rust system info fetcher.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 592703716,
+                "language": null,
+                "last_commit": "2023-01-24T09:24:13Z",
+                "owner": "su-mangale",
+                "repo": "yarsi",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "so-sysinfo",
+              "description": "A Rust-made fetch-like program with a twist on presentation (and some personal branding).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 837962095,
+                "language": "Rust",
+                "last_commit": "2025-12-18T11:38:44Z",
+                "owner": "solaaradotnet",
+                "repo": "so-sysinfo",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mycofetch",
+              "description": "Mycofetch is fast and flexible system information tool written in OCaml.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767168696,
+                "language": "OCaml",
+                "last_commit": "2024-11-15T11:43:05Z",
+                "owner": "sanngridhr",
+                "repo": "mycofetch",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NerdFetch-C",
+              "description": "Fetch inspired by nerdfetch, but written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 985574734,
+                "language": "C",
+                "last_commit": "2025-05-18T04:45:05Z",
+                "owner": "AnmiTaliDev",
+                "repo": "nerdfetch-c",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "slackfetch",
+              "description": "Minimal system information utility for Slackware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1305121321,
+                "language": "Shell",
+                "last_commit": "2026-07-30T13:32:27Z",
+                "owner": "r1w1s1",
+                "repo": "slackfetch",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GNU/Linux Only"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vfetch",
+              "description": "System fetch written in Vlang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 516167777,
+                "language": "V",
+                "last_commit": "2026-04-21T14:02:53Z",
+                "owner": "carlosqsilva",
+                "repo": "vfetch",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mfetch-macos",
+              "description": "Minimalist fetch (forked and modified for MacOS).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 491348544,
+                "language": "Shell",
+                "last_commit": "2022-07-21T08:45:43Z",
+                "owner": "TechWiz-3",
+                "repo": "mfetch-macos",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MacOS Only"
+        }
+      ],
       "title": "Operation System"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fastfetch",
-          "description": "Like neofetch, but much faster because written in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T01:14:39Z",
-            "owner": "fastfetch-cli",
-            "repo": "fastfetch",
-            "stars": 24266
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "screenFetch",
-          "description": "Fetches system/theme information in terminal for Linux desktop screenshots.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-02T03:08:18Z",
-            "owner": "KittyKatt",
-            "repo": "screenFetch",
-            "stars": 4071
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hyfetch",
-          "description": "Neofetch with LGBTQ+ pride flags.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-09T05:50:51Z",
-            "owner": "hykilpikonna",
-            "repo": "hyfetch",
-            "stars": 2088
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "neowofetch",
-          "description": "An updated, actively maintained fork of neofetch inside the HyFetch repo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-09T05:50:51Z",
-            "owner": "hykilpikonna",
-            "repo": "hyfetch",
-            "stars": 2088
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "macchina",
-          "description": "A system information fetcher, with an emphasis on performance and minimalism.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-03-08T00:31:31Z",
-            "owner": "Macchina-CLI",
-            "repo": "macchina",
-            "stars": 1964
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "freshfetch",
-          "description": "A fresh take on neofetch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-06-05T16:23:00Z",
-            "owner": "K4rakara",
-            "repo": "freshfetch",
-            "stars": 507
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rxfetch",
-          "description": "Custom system fetching tool which is made in bash script.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-07-25T14:39:44Z",
-            "owner": "mngshm",
-            "repo": "rxfetch",
-            "stars": 498
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pfetch-rs",
-          "description": "A pretty system information tool written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-25T12:01:07Z",
-            "owner": "Gobidev",
-            "repo": "pfetch-rs",
-            "stars": 364
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "archey4",
-          "description": "Maintained fork of the original Archey (Linux) system tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-20T21:21:06Z",
-            "owner": "HorlogeSkynet",
-            "repo": "archey4",
-            "stars": 339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fetch-master-6000",
-          "description": "Dilbert themed fetch tool written in Perl.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2023-08-10T14:42:12Z",
-            "owner": "anhsirk0",
-            "repo": "fetch-master-6000",
-            "stars": 312
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "diyfetch",
-          "description": "The ultimate fetch tool template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-08-07T15:18:39Z",
-            "owner": "info-mono",
-            "repo": "diyfetch",
-            "stars": 251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "afetch",
-          "description": "Simple system info written in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-05-02T16:05:42Z",
-            "owner": "13-CF",
-            "repo": "afetch",
-            "stars": 240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bunnyfetch",
-          "description": "Tiny system info fetch utility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-01-14T02:15:38Z",
-            "owner": "sammy-ette",
-            "repo": "bunnyfetch",
-            "stars": 191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sysfex",
-          "description": "Another system information tool written in C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-12-28T20:04:11Z",
-            "owner": "mehedirm6244",
-            "repo": "sysfex",
-            "stars": 160
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "winfetch",
-          "description": "Neofetch/Screenfetch Alternative Written in Golang.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-10-28T02:15:15Z",
-            "owner": "M4cs",
-            "repo": "winfetch",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bfetch",
-          "description": "Dynamic fetch displayer that SuperB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-01-24T21:40:36Z",
-            "owner": "NNBnh",
-            "repo": "bfetch",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zeitfetch",
-          "description": "Instantaneous sysinfo, compatible with Windows, Linux, BSD and Mac OS X.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-15T07:38:30Z",
-            "owner": "nidnogg",
-            "repo": "zeitfetch",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "albafetch",
-          "description": "Faster neofetch alternative, written in C. Still improving :).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-15T19:18:36Z",
-            "owner": "alba4k",
-            "repo": "albafetch",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cutefetch",
-          "description": "Tiny coloured fetch script with cute little animals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-02T00:01:46Z",
-            "owner": "cybardev",
-            "repo": "cutefetch",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hayabusa",
-          "description": "A daemonized fetch that is fully featured as well as fast.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-08-16T20:22:48Z",
-            "owner": "Notarin",
-            "repo": "hayabusa",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pokefetch",
-          "description": "Command-line tool similar to neofetch for looking up pokemon in the terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-09-16T18:31:01Z",
-            "owner": "rmccorm4",
-            "repo": "Pokefetch",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terminal-widgets",
-          "description": "Shows system information as tiny widgets on terminal screen. .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-15T16:55:47Z",
-            "owner": "ankushbhagats",
-            "repo": "terminal-widgets",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rsfetch",
-          "description": "A WIP rewrite of rsfetch from scratch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-09-09T23:34:31Z",
-            "owner": "Phate6660",
-            "repo": "rsfetch",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "archimede",
-          "description": "Unobtrusive directory information fetcher.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-04-05T09:07:27Z",
-            "owner": "gennaro-tedesco",
-            "repo": "archimede",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rsftch",
-          "description": "Lightning fast hardware fetch written in rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-01-12T18:24:17Z",
-            "owner": "charklie",
-            "repo": "rsftch",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yafetch",
-          "description": "Yet another fetch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-01-21T04:48:42Z",
-            "owner": "yrwq",
-            "repo": "yafetch",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mfetch",
-          "description": "Minimalist fetch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2020-12-03T16:32:10Z",
-            "owner": "rachelambda",
-            "repo": "mfetch",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "richfetch",
-          "description": "A beautiful minimalistic fetch utility with a lot of dynamic features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-18T15:41:15Z",
-            "owner": "s-atrn",
-            "repo": "richfetch",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tuatara",
-          "description": "Ziggidy *nix system info fetcher targeting speed and concepts of disfetch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2025-04-29T17:25:58Z",
-            "owner": "q60",
-            "repo": "tuatara",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "unifetch",
-          "description": "An unofficial inheritor of Neofetch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-12-10T11:06:00Z",
-            "owner": "nmimusic",
-            "repo": "unifetch",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rfetch",
-          "description": "A fast and minimal fetch program.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-02-05T01:52:19Z",
-            "owner": "kamui-fin",
-            "repo": "rfetch",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "powerfetch",
-          "description": "PowerShell-based cross-platform 'screenfetch'-like tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2021-09-28T05:04:53Z",
-            "owner": "jantari",
-            "repo": "powerfetch",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wretch",
-          "description": "This is my fetch script written in Rust, as one of my first projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-08T17:55:55Z",
-            "owner": "Addy10s",
-            "repo": "wretch",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "info.sh",
-          "description": "Info.sh is a little script that works like screenfetch or neofetch, it show infos.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-08-23T23:19:14Z",
-            "owner": "bc1bb",
-            "repo": "info.sh",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "profetch",
-          "description": "System information fetcher written in GNU/Prolog.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Prolog",
-            "last_commit": "2021-12-20T00:19:29Z",
-            "owner": "RustemB",
-            "repo": "profetch",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bfetch",
-          "description": "Fast system fetch written in brainf**k.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Brainfuck",
-            "last_commit": "2026-04-17T06:44:46Z",
-            "owner": "xlsft",
-            "repo": "bfetch",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rustor",
-          "description": "A blazing fast fetch tool written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-05-05T20:40:55Z",
-            "owner": "Evren-os",
-            "repo": "rustor",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "strlx",
-          "description": "A minimal and fast system resource viewer in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-16T20:53:34Z",
-            "owner": "stx3plus1",
-            "repo": "strlx",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "efetch",
-          "description": "Is a system information tool written in C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-07-30T07:38:38Z",
-            "owner": "NoSequel",
-            "repo": "efetch",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tfetch",
-          "description": "Tree view like fetch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-26T21:04:23Z",
-            "owner": "EndOfLine-py",
-            "repo": "tfetch",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mfetch",
-          "description": "A simple fetch tool for Linux written in Bash.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-11-18T03:31:01Z",
-            "owner": "Nighty3098",
-            "repo": "mfetch",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sjfetch",
-          "description": "A command-line tool to display colorful distro information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-06-25T14:56:27Z",
-            "owner": "855309",
-            "repo": "sjfetch",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wziumfecz",
-          "description": "Just like neofetch but better.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-04-24T11:11:52Z",
-            "owner": "workonfire",
-            "repo": "wziumfecz",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "blaeckfetch",
-          "description": "A fast, minimalist system fetch for your terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-05T11:04:06Z",
-            "owner": "gustafeden",
-            "repo": "blaeckfetch",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "brofetch",
-          "description": "A detailed and fun command-line system information tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-11-10T17:23:05Z",
-            "owner": "ufuayk",
-            "repo": "brofetch",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zfetch",
-          "description": "This is a simple, fast, but pretty fetch script.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2023-09-09T16:40:32Z",
-            "owner": "emilydaemon",
-            "repo": "zfetch",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "101fetch",
-          "description": "Screenfetch but for 101 school.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-11-22T18:05:32Z",
-            "owner": "salaaad2",
-            "repo": "101fetch",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gbfetch",
-          "description": "Gabubu's fetch (less bloated hehe) forked from sfetch by speediegamer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-08-06T15:21:18Z",
-            "owner": "GabubuAvailable",
-            "repo": "gbfetch",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "myfetch",
-          "description": "My neofetch-like program.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-12-25T15:36:41Z",
-            "owner": "Pippadi",
-            "repo": "myfetch",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "betterfetch",
-          "description": "Betterfetch is a quick system information tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-11-08T08:58:13Z",
-            "owner": "sctech-tr",
-            "repo": "betterfetch",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reifetch",
-          "description": "A light fetch script, based on Neofetch, for Linux, macOS, and BSD.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-10-20T04:08:01Z",
-            "owner": "OkaVatti",
-            "repo": "reifetch",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scalafetch",
-          "description": "Neofetch alternative in Scala.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2020-10-29T19:51:19Z",
-            "owner": "Phate6660",
-            "repo": "scalafetch",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "smilefetch",
-          "description": "A system info tool written in Rust inspired by neofetch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-09-22T09:10:12Z",
-            "owner": "ashedapuppy",
-            "repo": "smilefetch",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kiwifetch",
-          "description": "A simple system info script like neofetch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-07-03T05:55:09Z",
-            "owner": "Bitskiwi",
-            "repo": "kiwifetch",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sxl",
-          "description": "Minimal system information program.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-07-29T13:33:02Z",
-            "owner": "stx3plus1",
-            "repo": "sxl",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fetch.scm",
-          "description": "System information fetcher written in GNU Guile Scheme.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Scheme",
-            "last_commit": "2023-03-24T06:38:20Z",
-            "owner": "KikyTokamuro",
-            "repo": "fetch.scm",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scfetch",
-          "description": "Minimal fetch program written in Python for Linux, Mac and Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-02T09:20:52Z",
-            "owner": "sctech-tr",
-            "repo": "scfetch",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scrftch",
-          "description": "Screenfetch in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-09-14T11:41:15Z",
-            "owner": "wezm",
-            "repo": "scrftch",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tinyscreen",
-          "description": "Lightweight clone of screenfetch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-24T17:58:06Z",
-            "owner": "pbkangafoo",
-            "repo": "tinyscreen",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ferrisfetch",
-          "description": "A fast, lightweight Linux and Android system information fetch CLI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T03:09:32Z",
-            "owner": "kk376",
-            "repo": "ferrisfetch",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Cross Platform"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "winfetch",
-          "description": "A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2024-05-09T04:53:04Z",
-            "owner": "lptstr",
-            "repo": "winfetch",
-            "stars": 1790
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "horizonfetch",
-          "description": "Forged in Rust, shaped by your style.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-12T18:32:59Z",
-            "owner": "horizonwiki",
-            "repo": "horizonfetch",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Windows Only"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nitch",
-          "description": "A incredibly fast system fetch written in nim.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nim",
-            "last_commit": "2024-06-22T19:57:29Z",
-            "owner": "ssleert",
-            "repo": "nitch",
-            "stars": 649
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Catnap",
-          "description": "A playful, simple system-information concatenation tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nim",
-            "last_commit": "2026-07-01T14:12:41Z",
-            "owner": "iinsertNameHere",
-            "repo": "catnap",
-            "stars": 291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pokemon-icat",
-          "description": "Shows any Pokémon sprite in your terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-03T15:53:03Z",
-            "owner": "aflaag",
-            "repo": "pokemon-icat",
-            "stars": 149
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "disfetch",
-          "description": "Yet another *nix distro fetching program, but less complex.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-03-19T07:02:13Z",
-            "owner": "q60",
-            "repo": "disfetch",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vfetch",
-          "description": "A simple fetch tool for Linux written in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-18T07:02:37Z",
-            "owner": "Lorago",
-            "repo": "vfetch",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "androfetch",
-          "description": "A pretty system information tool written in bash for termux on android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-08-01T18:49:33Z",
-            "owner": "laraib07",
-            "repo": "androfetch",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "customfetch",
-          "description": "Highly customizable and fast system information fetch (or neofetch-like) program. It's also a GTK3 app and android widget.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-11-25T17:47:54Z",
-            "owner": "Toni500github",
-            "repo": "customfetch",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CrabFetch",
-          "description": "An extremely fast, featureful and customizable command-line fetcher.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-07T02:07:40Z",
-            "owner": "LivacoNew",
-            "repo": "CrabFetch",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "richfetch",
-          "description": "A richly customisable fetch util which provides a ton lot of information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-18T15:41:15Z",
-            "owner": "s-atrn",
-            "repo": "richfetch",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pokefetch",
-          "description": "This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-01-23T20:29:04Z",
-            "owner": "Discomanfulanito",
-            "repo": "pokefetch",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "archfetch",
-          "description": "Simple CLI system information tool for Arch Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-21T02:21:48Z",
-            "owner": "xxczaki",
-            "repo": "archfetch",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dfetch",
-          "description": "A clean and practical system information tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T19:33:38Z",
-            "owner": "David17c",
-            "repo": "Dfetch",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ufetch",
-          "description": "System fetch tool written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-05-14T02:49:18Z",
-            "owner": "tyroruyk",
-            "repo": "ufetch",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pridefetch",
-          "description": "Neofetch but gay.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-09T21:17:57Z",
-            "owner": "cartoon-raccoon",
-            "repo": "pridefetch",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "turbofetch",
-          "description": "A blazingly-fast, minimal fetch that uses Nerd Fonts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-08-04T10:31:08Z",
-            "owner": "ajTronic",
-            "repo": "turbofetch",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gotcha",
-          "description": "Pretty system fetch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-02T17:29:14Z",
-            "owner": "yehorovye",
-            "repo": "gotcha",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sfetch",
-          "description": "A simple system fetch CLI tool written in Shell.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-05-26T12:32:48Z",
-            "owner": "frolleks",
-            "repo": "sfetch",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "koghi",
-          "description": "A system fetch tool in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-03-23T16:08:07Z",
-            "owner": "if-not-nil",
-            "repo": "koghi",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "smfetch",
-          "description": "A fetch tool written in bash with less than 150 lines of code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-03-13T13:33:21Z",
-            "owner": "agahemir",
-            "repo": "smfetch",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stupidfetch",
-          "description": "Like neofetch, but without colors, without distro logos and installer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-07T11:59:50Z",
-            "owner": "000rosiu",
-            "repo": "stupidfetch",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Haxefetch",
-          "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haxe",
-            "last_commit": "2026-08-19T00:44:46Z",
-            "owner": "ACoolioDude",
-            "repo": "Haxefetch",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yarsi",
-          "description": "Yet another rust system info fetcher.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-24T09:24:13Z",
-            "owner": "su-mangale",
-            "repo": "yarsi",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "so-sysinfo",
-          "description": "A Rust-made fetch-like program with a twist on presentation (and some personal branding).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-18T11:38:44Z",
-            "owner": "solaaradotnet",
-            "repo": "so-sysinfo",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mycofetch",
-          "description": "Mycofetch is fast and flexible system information tool written in OCaml.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2024-11-15T11:43:05Z",
-            "owner": "sanngridhr",
-            "repo": "mycofetch",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NerdFetch-C",
-          "description": "Fetch inspired by nerdfetch, but written in C.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2025-05-18T04:45:05Z",
-            "owner": "AnmiTaliDev",
-            "repo": "nerdfetch-c",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "slackfetch",
-          "description": "Minimal system information utility for Slackware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-30T13:32:27Z",
-            "owner": "r1w1s1",
-            "repo": "slackfetch",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "GNU/Linux Only"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "vfetch",
-          "description": "System fetch written in Vlang.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "V",
-            "last_commit": "2026-04-21T14:02:53Z",
-            "owner": "carlosqsilva",
-            "repo": "vfetch",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mfetch-macos",
-          "description": "Minimalist fetch (forked and modified for MacOS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-07-21T08:45:43Z",
-            "owner": "TechWiz-3",
-            "repo": "mfetch-macos",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "MacOS Only"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1304,6 +1394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126449599,
             "language": "C",
             "last_commit": "2025-11-01T09:07:03Z",
             "owner": "Dr-Noob",
@@ -1318,6 +1409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394679051,
             "language": "C++",
             "last_commit": "2025-10-26T09:52:07Z",
             "owner": "Dr-Noob",
@@ -1332,6 +1424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629868169,
             "language": "Shell",
             "last_commit": "2024-08-08T09:04:18Z",
             "owner": "ashish-kus",
@@ -1346,6 +1439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 532046752,
             "language": "C",
             "last_commit": "2024-05-01T00:06:46Z",
             "owner": "deivshon",
@@ -1360,6 +1454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1024224855,
             "language": "Rust",
             "last_commit": "2026-07-16T18:02:28Z",
             "owner": "ORG-FE",
@@ -1371,7 +1466,7 @@
       "title": "Hardware"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1380,6 +1475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350656455,
             "language": "Rust",
             "last_commit": "2024-05-28T06:33:07Z",
             "owner": "irevenko",
@@ -1394,6 +1490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372242518,
             "language": "PHP",
             "last_commit": "2021-06-03T06:53:53Z",
             "owner": "efectn",
@@ -1405,7 +1502,7 @@
       "title": "Programming Language"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1414,6 +1511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148829497,
             "language": "Rust",
             "last_commit": "2026-08-17T07:04:40Z",
             "owner": "o2sh",
@@ -1428,6 +1526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1079480902,
             "language": "Python",
             "last_commit": "2026-07-05T14:10:20Z",
             "owner": "Matars",
@@ -1442,6 +1541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254454878,
             "language": "Shell",
             "last_commit": "2021-02-22T13:39:50Z",
             "owner": "kiedtl",
@@ -1456,6 +1556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 834653915,
             "language": "Rust",
             "last_commit": "2024-08-26T23:23:51Z",
             "owner": "FabricSoul",
@@ -1470,6 +1571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 887184788,
             "language": "Rust",
             "last_commit": "2025-03-02T04:37:16Z",
             "owner": "SafarSoFar",
@@ -1481,7 +1583,7 @@
       "title": "Repository"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1490,6 +1592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 941678288,
             "language": "Rust",
             "last_commit": "2026-03-06T10:15:22Z",
             "owner": "nik-rev",
@@ -1504,6 +1607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370049517,
             "language": "Python",
             "last_commit": "2025-10-11T09:05:02Z",
             "owner": "egargo",
@@ -1518,6 +1622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1071132581,
             "language": "Python",
             "last_commit": "2025-11-16T23:50:33Z",
             "owner": "ekrlstd",
@@ -1532,6 +1637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 864002306,
             "language": "Python",
             "last_commit": "2024-10-23T10:12:06Z",
             "owner": "s-atrn",
@@ -1546,6 +1652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965100387,
             "language": "Rust",
             "last_commit": "2026-01-29T20:45:17Z",
             "owner": "koibtw",
@@ -1560,6 +1667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310076425,
             "language": "Python",
             "last_commit": "2020-11-05T01:03:18Z",
             "owner": "xfcisco",
@@ -1574,6 +1682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309206046,
             "language": "Python",
             "last_commit": "2021-11-23T21:03:03Z",
             "owner": "tfuxu",
@@ -1588,6 +1697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314702331,
             "language": "Lua",
             "last_commit": "2020-11-21T17:24:01Z",
             "owner": "garryspins",
@@ -1602,6 +1712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606902291,
             "language": "Rust",
             "last_commit": "2023-06-18T05:36:37Z",
             "owner": "TheBicPen",
@@ -1616,6 +1727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 942219476,
             "language": "Go",
             "last_commit": "2025-06-19T11:55:32Z",
             "owner": "ensomnatt",
@@ -1630,6 +1742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 886990824,
             "language": "C++",
             "last_commit": "2024-11-19T18:23:41Z",
             "owner": "monteluka",
@@ -1644,6 +1757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1210858137,
             "language": "Shell",
             "last_commit": "2026-04-15T02:15:55Z",
             "owner": "mdatz",
@@ -1656,9 +1770,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:12:43.117Z",
+    "last_updated": "2026-08-19T12:27:53.116Z",
     "original_repository": "beucismis/awesome-fetch",
-    "original_repository_sha": "2d00499d1470b622e43cd0fb5855080974f46c92",
+    "original_repository_id": 363142095,
+    "original_repository_sha": "95fda20c1dbbd86d1d9c4cb08a54d7595876a453",
     "enhanced_repository": "enhansome/enhansome-fetch",
     "enhanced_repository_description": null,
     "title": "Awesome Fetch with stars"
