@@ -24,7 +24,7 @@
             "last_commit": "2026-08-18T01:14:39Z",
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24247
+            "stars": 24266
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-08-09T05:50:51Z",
             "owner": "hykilpikonna",
             "repo": "hyfetch",
-            "stars": 2084
+            "stars": 2088
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-09T05:50:51Z",
             "owner": "hykilpikonna",
             "repo": "hyfetch",
-            "stars": 2084
+            "stars": 2088
           }
         },
         {
@@ -80,7 +80,7 @@
             "last_commit": "2025-03-08T00:31:31Z",
             "owner": "Macchina-CLI",
             "repo": "macchina",
-            "stars": 1962
+            "stars": 1964
           }
         },
         {
@@ -122,7 +122,7 @@
             "last_commit": "2026-05-25T12:01:07Z",
             "owner": "Gobidev",
             "repo": "pfetch-rs",
-            "stars": 363
+            "stars": 364
           }
         },
         {
@@ -847,7 +847,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:12:20Z",
+            "last_commit": "2026-08-19T03:09:32Z",
             "owner": "kk376",
             "repo": "ferrisfetch",
             "stars": 0
@@ -904,7 +904,7 @@
             "last_commit": "2024-06-22T19:57:29Z",
             "owner": "ssleert",
             "repo": "nitch",
-            "stars": 650
+            "stars": 649
           }
         },
         {
@@ -1049,6 +1049,20 @@
         },
         {
           "node_type": "item",
+          "title": "dfetch",
+          "description": "A clean and practical system information tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-18T19:33:38Z",
+            "owner": "David17c",
+            "repo": "Dfetch",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
           "title": "ufetch",
           "description": "System fetch tool written in Rust.",
           "children": [],
@@ -1059,20 +1073,6 @@
             "owner": "tyroruyk",
             "repo": "ufetch",
             "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dfetch",
-          "description": "A clean and practical system information tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T08:10:24Z",
-            "owner": "David17c",
-            "repo": "Dfetch",
-            "stars": 19
           }
         },
         {
@@ -1181,7 +1181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haxe",
-            "last_commit": "2026-08-17T23:53:24Z",
+            "last_commit": "2026-08-19T00:44:46Z",
             "owner": "ACoolioDude",
             "repo": "Haxefetch",
             "stars": 3
@@ -1256,12 +1256,6 @@
             "repo": "slackfetch",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "tinyfetch",
-          "description": "Python and system information command-line fetch tool.",
-          "children": []
         }
       ],
       "title": "GNU/Linux Only"
@@ -1424,7 +1418,7 @@
             "last_commit": "2026-08-17T07:04:40Z",
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12024
+            "stars": 12026
           }
         },
         {
@@ -1500,7 +1494,7 @@
             "last_commit": "2026-03-06T10:15:22Z",
             "owner": "nik-rev",
             "repo": "countryfetch",
-            "stars": 281
+            "stars": 282
           }
         },
         {
@@ -1662,9 +1656,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:11:04.083Z",
+    "last_updated": "2026-08-19T03:12:43.117Z",
     "original_repository": "beucismis/awesome-fetch",
-    "original_repository_sha": "cc9161bd722feeb6e601c3d75f60052cc29c28e0",
+    "original_repository_sha": "2d00499d1470b622e43cd0fb5855080974f46c92",
     "enhanced_repository": "enhansome/enhansome-fetch",
     "enhanced_repository_description": null,
     "title": "Awesome Fetch with stars"
