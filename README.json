@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 340181518,
                 "language": "C",
-                "last_commit": "2026-08-19T15:33:33Z",
+                "last_commit": "2026-08-21T02:50:39Z",
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24282
+                "stars": 24296
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-03-08T00:31:31Z",
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1964
+                "stars": 1962
               }
             },
             {
@@ -899,7 +899,7 @@
                 "archived": false,
                 "id": 1335991268,
                 "language": "Rust",
-                "last_commit": "2026-08-19T12:13:15Z",
+                "last_commit": "2026-08-20T13:43:40Z",
                 "owner": "kk376",
                 "repo": "ferrisfetch",
                 "stars": 1
@@ -1258,8 +1258,8 @@
                 "archived": false,
                 "id": 1324414643,
                 "language": "Haxe",
-                "last_commit": "2026-08-20T00:13:01Z",
-                "owner": "ACoolioDude",
+                "last_commit": "2026-08-20T20:29:21Z",
+                "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
                 "stars": 3
               }
@@ -1516,7 +1516,7 @@
             "last_commit": "2026-08-17T07:04:40Z",
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12026
+            "stars": 12025
           }
         },
         {
@@ -1531,7 +1531,7 @@
             "last_commit": "2026-07-05T14:10:20Z",
             "owner": "Matars",
             "repo": "gitfetch",
-            "stars": 392
+            "stars": 394
           }
         },
         {
@@ -1597,7 +1597,7 @@
             "last_commit": "2026-03-06T10:15:22Z",
             "owner": "nik-rev",
             "repo": "countryfetch",
-            "stars": 282
+            "stars": 281
           }
         },
         {
@@ -1770,7 +1770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:12:03.931Z",
+    "last_updated": "2026-08-21T03:18:00.170Z",
     "original_repository": "beucismis/awesome-fetch",
     "original_repository_id": 363142095,
     "original_repository_sha": "95fda20c1dbbd86d1d9c4cb08a54d7595876a453",

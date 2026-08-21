@@ -33,11 +33,11 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ### Cross Platform
 
-* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,282 | 🐛 76 | 🌐 C | 📅 2026-08-19 - Like neofetch, but much faster because written in C. `C`
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,296 | 🐛 76 | 🌐 C | 📅 2026-08-21 - Like neofetch, but much faster because written in C. `C`
 * [screenFetch](https://github.com/KittyKatt/screenFetch) ⭐ 4,071 | 🐛 169 | 🌐 Shell | 📅 2026-03-02 - Fetches system/theme information in terminal for Linux desktop screenshots. `Shell`
 * [hyfetch](https://github.com/hykilpikonna/hyfetch) ⭐ 2,089 | 🐛 9 | 🌐 Shell | 📅 2026-08-09 - Neofetch with LGBTQ+ pride flags. `Python`
 * [neowofetch](https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch) ⭐ 2,089 | 🐛 9 | 🌐 Shell | 📅 2026-08-09 - An updated, actively maintained fork of neofetch inside the HyFetch repo. `Shell`
-* [macchina](https://github.com/Macchina-CLI/macchina) ⭐ 1,964 | 🐛 11 | 🌐 Rust | 📅 2025-03-08 - A system information fetcher, with an emphasis on performance and minimalism. `Rust`
+* [macchina](https://github.com/Macchina-CLI/macchina) ⭐ 1,962 | 🐛 11 | 🌐 Rust | 📅 2025-03-08 - A system information fetcher, with an emphasis on performance and minimalism. `Rust`
 * [freshfetch](https://github.com/K4rakara/freshfetch) ⭐ 507 | 🐛 19 | 🌐 Rust | 📅 2024-06-05 - A fresh take on neofetch. `Rust`
 * [rxfetch](https://github.com/Mangeshrex/rxfetch) ⭐ 498 | 🐛 3 | 🌐 Shell | 📅 2025-07-25 - Custom system fetching tool which is made in bash script. `Shell`
 * [pfetch-rs](https://github.com/Gobidev/pfetch-rs) ⭐ 364 | 🐛 13 | 🌐 Rust | 📅 2026-05-25 - A pretty system information tool written in Rust. `Rust`
@@ -92,7 +92,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 * [scfetch](https://github.com/sctech-tr/scfetch) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-02-02 - Minimal fetch program written in Python for Linux, Mac and Windows. `Python`
 * [scrftch](https://github.com/wezm/scrftch) ⭐ 2 | 🐛 0 | 📅 2019-09-14 - Screenfetch in Rust. `Rust`
 * [tinyscreen](https://github.com/pbkangafoo/tinyscreen) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2021-04-24 - Lightweight clone of screenfetch. `Python`
-* [ferrisfetch](https://github.com/kk376/ferrisfetch) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-08-19 - A fast, lightweight Linux and Android system information fetch CLI written in Rust. `Rust`
+* [ferrisfetch](https://github.com/kk376/ferrisfetch) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-08-20 - A fast, lightweight Linux and Android system information fetch CLI written in Rust. `Rust`
 * [exfetch](http://codeberg.org/izder456/exfetch) - Shell extensible fetching program. `Crystal`
 * [noorfetch](https://codeberg.org/limforge/noorfetch) - Blazingly fast (\~1 ms) and cool minimalistic fetch, like rxfetch. `Rust`
 * [pftch](https://codeberg.org/mateowoetam/pftch) - Single-file POSIX system fetcher. `Shell`
@@ -148,7 +148,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ## Hardware
 
-* [cpufetch](https://github.com/Dr-Noob/cpufetch) ⭐ 2,137 | 🐛 128 | 🌐 C | 📅 2025-11-01 - Simple yet fancy CPU architecture fetching tool. `C`
+* [cpufetch](https://github.com/Dr-Noob/cpufetch) ⭐ 2,137 | 🐛 129 | 🌐 C | 📅 2025-11-01 - Simple yet fancy CPU architecture fetching tool. `C`
 * [gpufetch](https://github.com/Dr-Noob/gpufetch) ⭐ 193 | 🐛 34 | 🌐 C++ | 📅 2025-10-26 - Simple yet fancy GPU architecture fetching tool. `C++`
 * [batfetch](https://github.com/ashish-kus/batfetch) ⭐ 24 | 🐛 7 | 🌐 Shell | 📅 2024-08-08 - BatFetch is a command-line tool that displays detailed information about the battery of your device in a clean and organized way. `Shell`
 * [ifetch](https://github.com/deivshon/ifetch) ⭐ 15 | 🐛 2 | 🌐 C | 📅 2024-05-01 - Fetch tool for Linux systems to display network interface information. `C`
@@ -162,15 +162,15 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ## Repository
 
-* [onefetch](https://github.com/o2sh/onefetch) ⭐ 12,026 | 🐛 62 | 🌐 Rust | 📅 2026-08-17 - Git repository summary on your terminal. `Rust`
-* [gitfetch](https://github.com/Matars/gitfetch) ⭐ 392 | 🐛 1 | 🌐 Python | 📅 2026-07-05 - A neofetch alternative for GitHub quick view. `Python`
+* [onefetch](https://github.com/o2sh/onefetch) ⭐ 12,025 | 🐛 62 | 🌐 Rust | 📅 2026-08-17 - Git repository summary on your terminal. `Rust`
+* [gitfetch](https://github.com/Matars/gitfetch) ⭐ 394 | 🐛 1 | 🌐 Python | 📅 2026-07-05 - A neofetch alternative for GitHub quick view. `Python`
 * [gfetch](https://github.com/kiedtl/gfetch) ⭐ 64 | 🐛 3 | 🌐 Shell | 📅 2021-02-22 - A lightweight, fast Git fetch script written in POSIX sh. `Shell`
 * [gitfetch](https://github.com/FabricSoul/gitfetch) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2024-08-26 - A command-line GitHub contribution visualization tool written in Rust inspired by Neofetch. `Rust`
 * [ghfetch](https://github.com/SafarSoFar/ghfetch) ⭐ 14 | 🐛 1 | 🌐 Rust | 📅 2025-03-02 - A neofetch-like utility to fetch GitHub info right in terminals. `Rust`
 
 ## Miscellaneous
 
-* [countryfetch](https://github.com/nik-rev/countryfetch) ⭐ 282 | 🐛 5 | 🌐 Rust | 📅 2026-03-06 - A Command-line tool similar to Neofetch for obtaining information about your country. `Rust`
+* [countryfetch](https://github.com/nik-rev/countryfetch) ⭐ 281 | 🐛 5 | 🌐 Rust | 📅 2026-03-06 - A Command-line tool similar to Neofetch for obtaining information about your country. `Rust`
 * [pwy](https://github.com/egargo/pwygit) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2025-10-11 - A simple weather tool. `Python`
 * [songfetch](https://github.com/ekrlstd/songfetch) ⭐ 109 | 🐛 8 | 🌐 Python | 📅 2025-11-16 - A Linux CLI tool, very similar to neofetch, that displays current song information in the terminal. `Python`
 * [richweather](https://github.com/Rizen54/richweather) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2024-10-23 - A customizable beautiful and colorful weather fetch utility accessible with pin codes or city names. `Python`
@@ -186,4 +186,4 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
