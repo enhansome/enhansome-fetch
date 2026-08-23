@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T02:50:39Z",
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24310
+                "stars": 24334
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-09T05:50:51Z",
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2090
+                "stars": 2089
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-09T05:50:51Z",
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2090
+                "stars": 2089
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-03-08T00:31:31Z",
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1964
+                "stars": 1963
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-05-25T12:01:07Z",
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 364
+                "stars": 363
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2025-01-14T02:15:38Z",
                 "owner": "sammy-ette",
                 "repo": "bunnyfetch",
-                "stars": 191
+                "stars": 190
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2024-12-28T20:04:11Z",
                 "owner": "mehedirm6244",
                 "repo": "sysfex",
-                "stars": 160
+                "stars": 158
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2021-10-28T02:15:15Z",
                 "owner": "M4cs",
                 "repo": "winfetch",
-                "stars": 153
+                "stars": 152
               }
             },
             {
@@ -269,10 +269,10 @@
                 "archived": false,
                 "id": 464107126,
                 "language": "C",
-                "last_commit": "2026-08-22T01:05:22Z",
+                "last_commit": "2026-08-22T08:32:05Z",
                 "owner": "alba4k",
                 "repo": "albafetch",
-                "stars": 75
+                "stars": 74
               }
             },
             {
@@ -899,7 +899,7 @@
                 "archived": false,
                 "id": 1335991268,
                 "language": "Rust",
-                "last_commit": "2026-08-22T03:09:47Z",
+                "last_commit": "2026-08-22T18:54:42Z",
                 "owner": "kk376",
                 "repo": "ferrisfetch",
                 "stars": 1
@@ -924,7 +924,7 @@
                 "last_commit": "2024-05-09T04:53:04Z",
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1790
+                "stars": 1788
               }
             },
             {
@@ -1123,7 +1123,7 @@
                 "archived": false,
                 "id": 1242750236,
                 "language": "Go",
-                "last_commit": "2026-08-21T18:39:36Z",
+                "last_commit": "2026-08-22T14:40:36Z",
                 "owner": "David17c",
                 "repo": "Dfetch",
                 "stars": 20
@@ -1258,10 +1258,10 @@
                 "archived": false,
                 "id": 1324414643,
                 "language": "Haxe",
-                "last_commit": "2026-08-21T21:41:18Z",
+                "last_commit": "2026-08-22T23:08:25Z",
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
-                "stars": 3
+                "stars": 4
               }
             },
             {
@@ -1516,7 +1516,7 @@
             "last_commit": "2026-08-17T07:04:40Z",
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12026
+            "stars": 12027
           }
         },
         {
@@ -1597,7 +1597,7 @@
             "last_commit": "2026-03-06T10:15:22Z",
             "owner": "nik-rev",
             "repo": "countryfetch",
-            "stars": 281
+            "stars": 280
           }
         },
         {
@@ -1770,7 +1770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:09:55.855Z",
+    "last_updated": "2026-08-23T03:17:19.280Z",
     "original_repository": "beucismis/awesome-fetch",
     "original_repository_id": 363142095,
     "original_repository_sha": "95fda20c1dbbd86d1d9c4cb08a54d7595876a453",
