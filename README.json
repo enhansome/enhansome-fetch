@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 340181518,
                 "language": "C",
-                "last_commit": "2026-08-23T18:07:15Z",
+                "last_commit": "2026-08-25T01:08:44Z",
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24349
+                "stars": 24356
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-03-08T00:31:31Z",
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1960
+                "stars": 1961
               }
             },
             {
@@ -254,10 +254,10 @@
                 "archived": false,
                 "id": 1316008093,
                 "language": "Rust",
-                "last_commit": "2026-08-22T00:57:48Z",
+                "last_commit": "2026-08-24T15:31:47Z",
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
-                "stars": 136
+                "stars": 139
               }
             },
             {
@@ -1273,7 +1273,7 @@
                 "archived": false,
                 "id": 1324414643,
                 "language": "Haxe",
-                "last_commit": "2026-08-24T13:43:26Z",
+                "last_commit": "2026-08-25T00:43:44Z",
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
                 "stars": 4
@@ -1348,7 +1348,7 @@
                 "archived": false,
                 "id": 1305121321,
                 "language": "Shell",
-                "last_commit": "2026-08-19T22:15:39Z",
+                "last_commit": "2026-08-24T20:38:23Z",
                 "owner": "r1w1s1",
                 "repo": "slackfetch",
                 "stars": 0
@@ -1436,7 +1436,7 @@
             "last_commit": "2025-11-01T09:07:03Z",
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2137
+            "stars": 2138
           }
         },
         {
@@ -1553,7 +1553,7 @@
             "last_commit": "2026-08-24T01:16:28Z",
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12029
+            "stars": 12031
           }
         },
         {
@@ -1568,7 +1568,7 @@
             "last_commit": "2026-07-05T14:10:20Z",
             "owner": "Matars",
             "repo": "gitfetch",
-            "stars": 394
+            "stars": 395
           }
         },
         {
@@ -1807,7 +1807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:20.396Z",
+    "last_updated": "2026-08-25T03:14:38.380Z",
     "original_repository": "beucismis/awesome-fetch",
     "original_repository_id": 363142095,
     "original_repository_sha": "c843b79a3e817563b1ff3ecb5bc7403a28c03192",
