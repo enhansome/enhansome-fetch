@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 340181518,
                 "language": "C",
-                "last_commit": "2026-08-25T01:08:44Z",
+                "last_commit": "2026-08-25T15:28:21Z",
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24359
+                "stars": 24373
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-09T05:50:51Z",
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2092
+                "stars": 2094
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-09T05:50:51Z",
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2092
+                "stars": 2094
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-03-08T00:31:31Z",
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1961
+                "stars": 1962
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2025-01-14T02:15:38Z",
                 "owner": "sammy-ette",
                 "repo": "bunnyfetch",
-                "stars": 190
+                "stars": 189
               }
             },
             {
@@ -254,10 +254,10 @@
                 "archived": false,
                 "id": 1316008093,
                 "language": "Rust",
-                "last_commit": "2026-08-24T15:31:47Z",
+                "last_commit": "2026-08-25T16:10:06Z",
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
-                "stars": 139
+                "stars": 141
               }
             },
             {
@@ -512,7 +512,7 @@
                 "last_commit": "2025-12-08T17:55:55Z",
                 "owner": "Addy10s",
                 "repo": "wretch",
-                "stars": 19
+                "stars": 20
               }
             },
             {
@@ -1138,7 +1138,7 @@
                 "archived": false,
                 "id": 1242750236,
                 "language": "Go",
-                "last_commit": "2026-08-22T14:40:36Z",
+                "last_commit": "2026-08-25T14:11:11Z",
                 "owner": "David17c",
                 "repo": "Dfetch",
                 "stars": 20
@@ -1273,7 +1273,7 @@
                 "archived": false,
                 "id": 1324414643,
                 "language": "Haxe",
-                "last_commit": "2026-08-25T00:43:44Z",
+                "last_commit": "2026-08-25T23:45:37Z",
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
                 "stars": 4
@@ -1326,21 +1326,6 @@
             },
             {
               "node_type": "item",
-              "title": "NerdFetch-C",
-              "description": "Fetch inspired by nerdfetch, but written in C.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 985574734,
-                "language": "C",
-                "last_commit": "2025-05-18T04:45:05Z",
-                "owner": "AnmiTaliDev",
-                "repo": "nerdfetch-c",
-                "stars": 0
-              }
-            },
-            {
-              "node_type": "item",
               "title": "slackfetch",
               "description": "Minimal system information utility for Slackware.",
               "children": [],
@@ -1351,6 +1336,21 @@
                 "last_commit": "2026-08-24T20:38:23Z",
                 "owner": "r1w1s1",
                 "repo": "slackfetch",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NerdFetch-C",
+              "description": "Fetch inspired by nerdfetch, but written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 985574734,
+                "language": "C",
+                "last_commit": "2025-05-18T04:45:05Z",
+                "owner": "AnmiTaliDev",
+                "repo": "nerdfetch-c",
                 "stars": 0
               }
             }
@@ -1550,7 +1550,7 @@
             "archived": false,
             "id": 148829497,
             "language": "Rust",
-            "last_commit": "2026-08-24T01:16:28Z",
+            "last_commit": "2026-08-25T15:37:07Z",
             "owner": "o2sh",
             "repo": "onefetch",
             "stars": 12032
@@ -1807,7 +1807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:16.643Z",
+    "last_updated": "2026-08-26T03:27:41.029Z",
     "original_repository": "beucismis/awesome-fetch",
     "original_repository_id": 363142095,
     "original_repository_sha": "c843b79a3e817563b1ff3ecb5bc7403a28c03192",
