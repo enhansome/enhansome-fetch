@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 340181518,
                 "language": "C",
-                "last_commit": "2026-08-27T07:37:16Z",
+                "last_commit": "2026-08-28T02:00:29Z",
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24401
-              }
+                "stars": 24419
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
                 "stars": 4075
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-09T05:50:51Z",
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2094
-              }
+                "stars": 2095
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-09T05:50:51Z",
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2094
-              }
+                "stars": 2095
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -77,8 +81,9 @@
                 "last_commit": "2025-03-08T00:31:31Z",
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1963
-              }
+                "stars": 1964
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "K4rakara",
                 "repo": "freshfetch",
                 "stars": 508
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "mngshm",
                 "repo": "rxfetch",
                 "stars": 498
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "anhsirk0",
                 "repo": "fetch-master-6000",
                 "stars": 312
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "info-mono",
                 "repo": "diyfetch",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "13-CF",
                 "repo": "afetch",
                 "stars": 241
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "sammy-ette",
                 "repo": "bunnyfetch",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "mehedirm6244",
                 "repo": "sysfex",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "M4cs",
                 "repo": "winfetch",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -239,11 +254,12 @@
                 "archived": false,
                 "id": 1316008093,
                 "language": "Rust",
-                "last_commit": "2026-08-26T16:09:22Z",
+                "last_commit": "2026-08-28T08:44:44Z",
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
-                "stars": 143
-              }
+                "stars": 144
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "NNBnh",
                 "repo": "bfetch",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "nidnogg",
                 "repo": "zeitfetch",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "alba4k",
                 "repo": "albafetch",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "cybardev",
                 "repo": "cutefetch",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "rmccorm4",
                 "repo": "Pokefetch",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "Notarin",
                 "repo": "hayabusa",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "ankushbhagats",
                 "repo": "terminal-widgets",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -363,7 +386,8 @@
                 "owner": "Phate6660",
                 "repo": "rsfetch",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -378,7 +402,8 @@
                 "owner": "gennaro-tedesco",
                 "repo": "archimede",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -393,7 +418,8 @@
                 "owner": "charklie",
                 "repo": "rsftch",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -408,7 +434,8 @@
                 "owner": "rachelambda",
                 "repo": "mfetch",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -423,7 +450,8 @@
                 "owner": "yrwq",
                 "repo": "yafetch",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -438,7 +466,8 @@
                 "owner": "s-atrn",
                 "repo": "richfetch",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -453,7 +482,8 @@
                 "owner": "q60",
                 "repo": "tuatara",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -468,7 +498,8 @@
                 "owner": "nmimusic",
                 "repo": "unifetch",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -483,7 +514,8 @@
                 "owner": "kamui-fin",
                 "repo": "rfetch",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -498,7 +530,8 @@
                 "owner": "jantari",
                 "repo": "powerfetch",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -513,7 +546,8 @@
                 "owner": "Addy10s",
                 "repo": "wretch",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -528,7 +562,8 @@
                 "owner": "bc1bb",
                 "repo": "info.sh",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -543,7 +578,8 @@
                 "owner": "RustemB",
                 "repo": "profetch",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -558,7 +594,8 @@
                 "owner": "xlsft",
                 "repo": "bfetch",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -573,7 +610,8 @@
                 "owner": "Evren-os",
                 "repo": "rustor",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -588,7 +626,8 @@
                 "owner": "stx3plus1",
                 "repo": "strlx",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -603,7 +642,8 @@
                 "owner": "NoSequel",
                 "repo": "efetch",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -618,7 +658,8 @@
                 "owner": "EndOfLine-py",
                 "repo": "tfetch",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -633,7 +674,8 @@
                 "owner": "Nighty3098",
                 "repo": "mfetch",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -648,7 +690,8 @@
                 "owner": "855309",
                 "repo": "sjfetch",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -663,7 +706,8 @@
                 "owner": "workonfire",
                 "repo": "wziumfecz",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -678,7 +722,8 @@
                 "owner": "gustafeden",
                 "repo": "blaeckfetch",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -693,7 +738,8 @@
                 "owner": "ufuayk",
                 "repo": "brofetch",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -708,7 +754,8 @@
                 "owner": "emilydaemon",
                 "repo": "zfetch",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -723,7 +770,8 @@
                 "owner": "salaaad2",
                 "repo": "101fetch",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -738,7 +786,8 @@
                 "owner": "GabubuAvailable",
                 "repo": "gbfetch",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -753,7 +802,8 @@
                 "owner": "Pippadi",
                 "repo": "myfetch",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -768,7 +818,8 @@
                 "owner": "sctech-tr",
                 "repo": "betterfetch",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -783,7 +834,8 @@
                 "owner": "OkaVatti",
                 "repo": "reifetch",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -798,7 +850,8 @@
                 "owner": "Phate6660",
                 "repo": "scalafetch",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -813,7 +866,8 @@
                 "owner": "ashedapuppy",
                 "repo": "smilefetch",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -828,7 +882,8 @@
                 "owner": "Bitskiwi",
                 "repo": "kiwifetch",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -843,7 +898,8 @@
                 "owner": "stx3plus1",
                 "repo": "sxl",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -858,7 +914,8 @@
                 "owner": "KikyTokamuro",
                 "repo": "fetch.scm",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -873,7 +930,8 @@
                 "owner": "sctech-tr",
                 "repo": "scfetch",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -888,7 +946,8 @@
                 "owner": "wezm",
                 "repo": "scrftch",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -903,7 +962,8 @@
                 "owner": "pbkangafoo",
                 "repo": "tinyscreen",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -918,7 +978,8 @@
                 "owner": "kk376",
                 "repo": "ferrisfetch",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             }
           ],
           "description": null,
@@ -939,8 +1000,9 @@
                 "last_commit": "2024-05-09T04:53:04Z",
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1789
-              }
+                "stars": 1790
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -955,7 +1017,8 @@
                 "owner": "horizonwiki",
                 "repo": "horizonfetch",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             }
           ],
           "description": null,
@@ -977,7 +1040,8 @@
                 "owner": "ssleert",
                 "repo": "nitch",
                 "stars": 649
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -991,8 +1055,9 @@
                 "last_commit": "2026-07-01T14:12:41Z",
                 "owner": "iinsertNameHere",
                 "repo": "catnap",
-                "stars": 292
-              }
+                "stars": 291
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1072,8 @@
                 "owner": "aflaag",
                 "repo": "pokemon-icat",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1022,7 +1088,8 @@
                 "owner": "q60",
                 "repo": "disfetch",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1037,7 +1104,8 @@
                 "owner": "Lorago",
                 "repo": "vfetch",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1052,7 +1120,8 @@
                 "owner": "laraib07",
                 "repo": "androfetch",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1066,8 +1135,9 @@
                 "last_commit": "2025-11-25T17:47:54Z",
                 "owner": "Toni500github",
                 "repo": "customfetch",
-                "stars": 55
-              }
+                "stars": 56
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1082,7 +1152,8 @@
                 "owner": "LivacoNew",
                 "repo": "CrabFetch",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1097,7 +1168,8 @@
                 "owner": "s-atrn",
                 "repo": "richfetch",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1112,7 +1184,8 @@
                 "owner": "Discomanfulanito",
                 "repo": "pokefetch",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1127,22 +1200,24 @@
                 "owner": "xxczaki",
                 "repo": "archfetch",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
               "title": "dfetch",
-              "description": "A clean and practical system information tool.",
+              "description": "Lightweight command-line tool for displaying system information.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1242750236,
                 "language": "Go",
-                "last_commit": "2026-08-27T12:14:48Z",
+                "last_commit": "2026-08-27T18:56:55Z",
                 "owner": "David17c",
                 "repo": "Dfetch",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1157,7 +1232,8 @@
                 "owner": "tyroruyk",
                 "repo": "ufetch",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1172,7 +1248,8 @@
                 "owner": "cartoon-raccoon",
                 "repo": "pridefetch",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1187,7 +1264,8 @@
                 "owner": "ajTronic",
                 "repo": "turbofetch",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1202,7 +1280,24 @@
                 "owner": "yehorovye",
                 "repo": "gotcha",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ratfetch",
+              "description": "A system fetch that does not stop at one frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1336931300,
+                "language": "Rust",
+                "last_commit": "2026-08-26T12:28:39Z",
+                "owner": "tuna4ll",
+                "repo": "ratfetch",
+                "stars": 8
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1217,7 +1312,8 @@
                 "owner": "frolleks",
                 "repo": "sfetch",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1232,7 +1328,8 @@
                 "owner": "if-not-nil",
                 "repo": "koghi",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1247,7 +1344,8 @@
                 "owner": "agahemir",
                 "repo": "smfetch",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1262,7 +1360,8 @@
                 "owner": "000rosiu",
                 "repo": "stupidfetch",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1273,11 +1372,12 @@
                 "archived": false,
                 "id": 1324414643,
                 "language": "Haxe",
-                "last_commit": "2026-08-25T23:45:37Z",
+                "last_commit": "2026-08-28T08:04:10Z",
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1292,7 +1392,8 @@
                 "owner": "su-mangale",
                 "repo": "yarsi",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1307,7 +1408,8 @@
                 "owner": "solaaradotnet",
                 "repo": "so-sysinfo",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1322,7 +1424,8 @@
                 "owner": "sanngridhr",
                 "repo": "mycofetch",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1333,11 +1436,12 @@
                 "archived": false,
                 "id": 1305121321,
                 "language": "Shell",
-                "last_commit": "2026-08-24T20:38:23Z",
+                "last_commit": "2026-08-28T00:55:44Z",
                 "owner": "r1w1s1",
                 "repo": "slackfetch",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1352,7 +1456,8 @@
                 "owner": "AnmiTaliDev",
                 "repo": "nerdfetch-c",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             }
           ],
           "description": null,
@@ -1374,7 +1479,8 @@
                 "owner": "carlosqsilva",
                 "repo": "vfetch",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             },
             {
               "node_type": "item",
@@ -1389,7 +1495,8 @@
                 "owner": "TechWiz-3",
                 "repo": "mfetch-macos",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             }
           ],
           "description": null,
@@ -1411,7 +1518,8 @@
                 "owner": "aliceinpalth",
                 "repo": "3dfetch",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
             }
           ],
           "description": null,
@@ -1437,7 +1545,8 @@
             "owner": "Dr-Noob",
             "repo": "cpufetch",
             "stars": 2139
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1452,7 +1561,8 @@
             "owner": "Dr-Noob",
             "repo": "gpufetch",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1467,7 +1577,8 @@
             "owner": "ashish-kus",
             "repo": "batfetch",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1482,7 +1593,8 @@
             "owner": "deivshon",
             "repo": "ifetch",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1497,7 +1609,8 @@
             "owner": "ORG-FE",
             "repo": "mfetch",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         }
       ],
       "title": "Hardware"
@@ -1518,7 +1631,8 @@
             "owner": "irevenko",
             "repo": "ferris-fetch",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1533,7 +1647,8 @@
             "owner": "efectn",
             "repo": "phpfetch",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         }
       ],
       "title": "Programming Language"
@@ -1554,7 +1669,8 @@
             "owner": "o2sh",
             "repo": "onefetch",
             "stars": 12035
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1568,8 +1684,9 @@
             "last_commit": "2026-07-05T14:10:20Z",
             "owner": "Matars",
             "repo": "gitfetch",
-            "stars": 395
-          }
+            "stars": 394
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1584,7 +1701,8 @@
             "owner": "kiedtl",
             "repo": "gfetch",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1599,7 +1717,8 @@
             "owner": "FabricSoul",
             "repo": "gitfetch",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1614,7 +1733,8 @@
             "owner": "SafarSoFar",
             "repo": "ghfetch",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         }
       ],
       "title": "Repository"
@@ -1635,7 +1755,8 @@
             "owner": "nik-rev",
             "repo": "countryfetch",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1650,7 +1771,8 @@
             "owner": "egargo",
             "repo": "pwygit",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1665,7 +1787,8 @@
             "owner": "ekrlstd",
             "repo": "songfetch",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1680,7 +1803,8 @@
             "owner": "s-atrn",
             "repo": "richweather",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1695,7 +1819,8 @@
             "owner": "koibtw",
             "repo": "kitget",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1710,7 +1835,8 @@
             "owner": "xfcisco",
             "repo": "xfcfet",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1725,7 +1851,8 @@
             "owner": "tfuxu",
             "repo": "wfetch",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1740,7 +1867,8 @@
             "owner": "garryspins",
             "repo": "gmod-fetch",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1755,7 +1883,8 @@
             "owner": "TheBicPen",
             "repo": "fetchfetch",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1770,7 +1899,8 @@
             "owner": "ensomnatt",
             "repo": "webfetch",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1785,7 +1915,8 @@
             "owner": "monteluka",
             "repo": "mtgfetch",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         },
         {
           "node_type": "item",
@@ -1800,24 +1931,25 @@
             "owner": "mdatz",
             "repo": "pokestats",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:50:43.702Z",
+    "last_updated": "2026-08-28T14:23:48.317Z",
     "original_repository_info": {
       "archived": false,
       "id": 363142095,
       "language": "Python",
-      "last_commit": "2026-08-23T15:43:02Z",
+      "last_commit": "2026-08-27T19:22:14Z",
       "owner": "beucismis",
       "repo": "awesome-fetch",
       "stars": 595
     },
-    "original_repository_sha": "c843b79a3e817563b1ff3ecb5bc7403a28c03192",
+    "original_repository_sha": "736ccf28aaa695f4c59552b183dc1de8b2373891",
     "enhanced_repository": "enhansome/enhansome-fetch",
     "enhanced_repository_description": null,
     "title": "Awesome Fetch with stars"
