@@ -33,7 +33,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ### Cross Platform
 
-* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,424 | 🐛 76 | 🌐 C | 📅 2026-08-29 - Like neofetch, but much faster because written in C. `C`
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,427 | 🐛 77 | 🌐 C | 📅 2026-08-29 - Like neofetch, but much faster because written in C. `C`
 * [screenFetch](https://github.com/KittyKatt/screenFetch) ⭐ 4,075 | 🐛 169 | 🌐 Shell | 📅 2026-03-02 - Fetches system/theme information in terminal for Linux desktop screenshots. `Shell`
 * [hyfetch](https://github.com/hykilpikonna/hyfetch) ⭐ 2,096 | 🐛 11 | 🌐 Shell | 📅 2026-08-09 - Neofetch with LGBTQ+ pride flags. `Python`
 * [neowofetch](https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch) ⭐ 2,096 | 🐛 11 | 🌐 Shell | 📅 2026-08-09 - An updated, actively maintained fork of neofetch inside the HyFetch repo. `Shell`
@@ -41,17 +41,17 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 * [freshfetch](https://github.com/K4rakara/freshfetch) ⭐ 508 | 🐛 19 | 🌐 Rust | 📅 2024-06-05 - A fresh take on neofetch. `Rust`
 * [rxfetch](https://github.com/Mangeshrex/rxfetch) ⭐ 498 | 🐛 3 | 🌐 Shell | 📅 2025-07-25 - Custom system fetching tool which is made in bash script. `Shell`
 * [pfetch-rs](https://github.com/Gobidev/pfetch-rs) ⭐ 364 | 🐛 13 | 🌐 Rust | 📅 2026-05-25 - A pretty system information tool written in Rust. `Rust`
-* [archey4](https://github.com/HorlogeSkynet/archey4) ⭐ 339 | 🐛 2 | 🌐 Python | 📅 2026-05-20 - Maintained fork of the original Archey (Linux) system tool. `Python`
+* [archey4](https://github.com/HorlogeSkynet/archey4) ⭐ 339 | 🐛 1 | 🌐 Python | 📅 2026-05-20 - Maintained fork of the original Archey (Linux) system tool. `Python`
 * [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) ⭐ 312 | 🐛 0 | 🌐 Perl | 📅 2023-08-10 - Dilbert themed fetch tool written in Perl. `Perl`
 * [diyfetch](https://github.com/info-mono/diyfetch) ⭐ 252 | 🐛 0 | 🌐 Shell | 📅 2023-08-07 - The ultimate fetch tool template. `Shell`
 * [afetch](https://github.com/13-CF/afetch) ⭐ 241 | 🐛 30 | 🌐 C | 📅 2024-05-02 - Simple system info written in C. `C`
 * [bunnyfetch](https://github.com/Rosettea/bunnyfetch) ⭐ 189 | 🐛 1 | 🌐 Go | 📅 2025-01-14 - Tiny system info fetch utility. `Go`
 * [sysfex](https://github.com/mehedirm6244/sysfex) ⭐ 158 | 🐛 1 | 🌐 C++ | 📅 2024-12-28 - Another system information tool written in C++. `C++`
 * [winfetch](https://github.com/M4cs/winfetch) ⭐ 152 | 🐛 7 | 🌐 Go | 📅 2021-10-28 - Neofetch/Screenfetch Alternative Written in Golang. `Go`
-* [animfetch](https://github.com/Andrew-Velox/animfetch) ⭐ 144 | 🐛 2 | 🌐 Rust | 📅 2026-08-28 - Animated system fetch that stays pinned above your shell while you work. `Rust`
+* [animfetch](https://github.com/Andrew-Velox/animfetch) ⭐ 144 | 🐛 2 | 🌐 Rust | 📅 2026-08-29 - Animated system fetch that stays pinned above your shell while you work. `Rust`
 * [bfetch](https://github.com/NNBnh/bfetch) ⭐ 143 | 🐛 0 | 🌐 Shell | 📅 2023-01-24 - Dynamic fetch displayer that SuperB. `Shell`
 * [zeitfetch](https://github.com/nidnogg/zeitfetch) ⭐ 79 | 🐛 3 | 🌐 Rust | 📅 2026-05-15 - Instantaneous sysinfo, compatible with Windows, Linux, BSD and Mac OS X. `Rust`
-* [albafetch](https://github.com/alba4k/albafetch) ⭐ 74 | 🐛 0 | 🌐 C | 📅 2026-08-22 - Faster neofetch alternative, written in C. Still improving :). `C`
+* [albafetch](https://github.com/alba4k/albafetch) ⭐ 74 | 🐛 0 | 🌐 C | 📅 2026-08-29 - Faster neofetch alternative, written in C. Still improving :). `C`
 * [cutefetch](https://github.com/cybardev/cutefetch) ⭐ 72 | 🐛 0 | 🌐 Shell | 📅 2026-08-02 - Tiny coloured fetch script with cute little animals. `Shell`
 * [Pokefetch](https://github.com/rmccorm4/Pokefetch) ⭐ 60 | 🐛 2 | 🌐 Python | 📅 2019-09-16 - Command-line tool similar to neofetch for looking up pokemon in the terminal. `Python`
 * [hayabusa](https://github.com/Notarin/hayabusa) ⭐ 59 | 🐛 7 | 🌐 Rust | 📅 2025-08-16 - A daemonized fetch that is fully featured as well as fast. `Rust`
