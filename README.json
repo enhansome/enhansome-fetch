@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-31T08:09:23Z",
-                "open_issues": 79,
+                "last_commit": "2026-09-01T06:24:30Z",
+                "open_issues": 80,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24450,
+                "stars": 24468,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2098,
+                "stars": 2099,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2098,
+                "stars": 2099,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -442,7 +442,7 @@
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
-                "stars": 147,
+                "stars": 150,
                 "topics": [
                   "archlinux",
                   "fastfetch",
@@ -1585,20 +1585,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A fast, lightweight Linux and Android system information fetch CLI written in Rust",
-                "homepage": "https://github.com/kk376/ferrisfetch",
+                "description": "A fast, lightweight Linux, Android, and Windows system information fetch CLI written in Rust by Kushagra Kumar (kk376)",
+                "homepage": "https://github.com/kk376/kkfetch",
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-29T05:14:04Z",
+                "last_commit": "2026-09-01T06:38:20Z",
                 "open_issues": 0,
                 "owner": "kk376",
-                "repo": "ferrisfetch",
+                "repo": "kkfetch",
                 "stars": 1,
                 "topics": [
                   "cli",
                   "fastfetch",
                   "fetch",
+                  "kkfetch",
                   "linux",
                   "neofetch",
                   "rust",
@@ -2057,6 +2058,27 @@
             },
             {
               "node_type": "item",
+              "title": "ratfetch",
+              "description": "A system fetch that does not stop at one frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A system fetch that does not stop at one frame :D",
+                "homepage": null,
+                "id": 1336931300,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-08-31T20:39:22Z",
+                "open_issues": 0,
+                "owner": "tuna4ll",
+                "repo": "ratfetch",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "turbofetch",
               "description": "A blazingly-fast, minimal fetch that uses Nerd Fonts.",
               "children": [],
@@ -2100,27 +2122,6 @@
                   "system",
                   "unix"
                 ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ratfetch",
-              "description": "A system fetch that does not stop at one frame.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A system fetch that does not stop at one frame :D",
-                "homepage": null,
-                "id": 1336931300,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2026-08-26T12:28:39Z",
-                "open_issues": 2,
-                "owner": "tuna4ll",
-                "repo": "ratfetch",
-                "stars": 15,
-                "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             },
@@ -2227,7 +2228,7 @@
                 "id": 1324414643,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-08-30T22:37:24Z",
+                "last_commit": "2026-08-31T22:45:23Z",
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
@@ -2685,11 +2686,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-30T11:25:36Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-01T02:34:23Z",
+            "open_issues": 63,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12038,
+            "stars": 12036,
             "topics": [
               "cli",
               "command-line",
@@ -2717,7 +2718,7 @@
             "open_issues": 1,
             "owner": "Matars",
             "repo": "gitfetch",
-            "stars": 394,
+            "stars": 393,
             "topics": [
               "cli",
               "contribution-graph",
@@ -3109,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:41:58.505Z",
+    "last_updated": "2026-09-01T07:51:30.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3118,10 +3119,10 @@
       "language": "Python",
       "license": "CC0-1.0",
       "last_commit": "2026-08-27T19:22:14Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "beucismis",
       "repo": "awesome-fetch",
-      "stars": 596,
+      "stars": 597,
       "topics": [
         "awesome",
         "awesome-list",
