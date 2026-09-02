@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-01T06:24:30Z",
-                "open_issues": 80,
+                "last_commit": "2026-09-02T02:54:39Z",
+                "open_issues": 83,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24468,
+                "stars": 24479,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2099,
+                "stars": 2100,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2099,
+                "stars": 2100,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1966,
+                "stars": 1967,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -359,7 +359,7 @@
                 "open_issues": 1,
                 "owner": "sammy-ette",
                 "repo": "bunnyfetch",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -438,7 +438,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-30T03:17:11Z",
+                "last_commit": "2026-09-02T02:34:32Z",
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -569,6 +569,27 @@
             },
             {
               "node_type": "item",
+              "title": "hayabusa",
+              "description": "A daemonized fetch that is fully featured as well as fast.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Hayabusa is a swift rust fetch program.",
+                "homepage": null,
+                "id": 692963475,
+                "language": "Rust",
+                "license": "AGPL-3.0",
+                "last_commit": "2025-08-16T20:22:48Z",
+                "open_issues": 7,
+                "owner": "Notarin",
+                "repo": "hayabusa",
+                "stars": 60,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "Pokefetch",
               "description": "Command-line tool similar to neofetch for looking up pokemon in the terminal.",
               "children": [],
@@ -595,27 +616,6 @@
                   "shiny",
                   "sprites"
                 ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "hayabusa",
-              "description": "A daemonized fetch that is fully featured as well as fast.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Hayabusa is a swift rust fetch program.",
-                "homepage": null,
-                "id": 692963475,
-                "language": "Rust",
-                "license": "AGPL-3.0",
-                "last_commit": "2025-08-16T20:22:48Z",
-                "open_issues": 7,
-                "owner": "Notarin",
-                "repo": "hayabusa",
-                "stars": 59,
-                "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             },
@@ -1580,8 +1580,8 @@
             },
             {
               "node_type": "item",
-              "title": "ferrisfetch",
-              "description": "A fast, lightweight Linux and Android system information fetch CLI written in Rust.",
+              "title": "kkfetch",
+              "description": "A fast, lightweight cross-platform system information fetch CLI written in Rust.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1632,7 +1632,7 @@
                 "open_issues": 26,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1789,
+                "stars": 1790,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -2064,7 +2064,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "A system fetch that does not stop at one frame :D",
-                "homepage": null,
+                "homepage": "https://tuna4ll.github.io/ratfetch/",
                 "id": 1336931300,
                 "language": "Rust",
                 "license": "MIT",
@@ -2228,7 +2228,7 @@
                 "id": 1324414643,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-08-31T22:45:23Z",
+                "last_commit": "2026-09-01T22:02:02Z",
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
@@ -2472,7 +2472,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2025-11-01T09:07:03Z",
-            "open_issues": 131,
+            "open_issues": 132,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
             "stars": 2140,
@@ -2686,11 +2686,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T02:34:23Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-01T22:00:45Z",
+            "open_issues": 64,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12036,
+            "stars": 12037,
             "topics": [
               "cli",
               "command-line",
@@ -2718,7 +2718,7 @@
             "open_issues": 1,
             "owner": "Matars",
             "repo": "gitfetch",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "cli",
               "contribution-graph",
@@ -3110,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:51:30.424Z",
+    "last_updated": "2026-09-02T07:08:28.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3118,8 +3118,8 @@
       "id": 363142095,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-27T19:22:14Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-01T09:56:51Z",
+      "open_issues": 1,
       "owner": "beucismis",
       "repo": "awesome-fetch",
       "stars": 597,
@@ -3136,7 +3136,7 @@
         "tui"
       ]
     },
-    "original_repository_sha": "736ccf28aaa695f4c59552b183dc1de8b2373891",
+    "original_repository_sha": "3094e4ab35fa69684fb4f067ff26f86b5cf858c4",
     "enhanced_repository": "enhansome/enhansome-fetch",
     "enhanced_repository_description": null,
     "title": "Awesome Fetch with stars"
