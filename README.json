@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-02T02:54:39Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-03T02:27:02Z",
+                "open_issues": 82,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24479,
+                "stars": 24497,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2100,
+                "stars": 2101,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2100,
+                "stars": 2101,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1967,
+                "stars": 1969,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -245,8 +245,8 @@
                 "id": 89649908,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-05-20T21:21:06Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-02T21:13:48Z",
+                "open_issues": 3,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
                 "stars": 339,
@@ -309,7 +309,7 @@
                 "open_issues": 0,
                 "owner": "info-mono",
                 "repo": "diyfetch",
-                "stars": 252,
+                "stars": 253,
                 "topics": [
                   "cli",
                   "fetch",
@@ -891,6 +891,27 @@
                 ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SmartFetch",
+              "description": "A fast and lightweight system information fetch tool written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SmartFetch is a fast, lightweight Linux system information fetch tool written in C. It displays system hardware, OS details, kernel, uptime, memory, and thermal stats alongside dynamic distribution ASCII art directly in your terminal.",
+                "homepage": null,
+                "id": 1316225919,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-08-04T19:03:19Z",
+                "open_issues": 0,
+                "owner": "Yassine-Jemi01",
+                "repo": "SmartFetch",
+                "stars": 22,
+                "topics": []
+              },
+              "first_seen": "2026-09-03T07:13:00.900Z"
             },
             {
               "node_type": "item",
@@ -1632,7 +1653,7 @@
                 "open_issues": 26,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1790,
+                "stars": 1792,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -1697,7 +1718,7 @@
                 "open_issues": 32,
                 "owner": "ssleert",
                 "repo": "nitch",
-                "stars": 649,
+                "stars": 648,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2228,7 +2249,7 @@
                 "id": 1324414643,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-01T22:02:02Z",
+                "last_commit": "2026-09-02T23:17:24Z",
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
@@ -2686,7 +2707,7 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T22:00:45Z",
+            "last_commit": "2026-09-02T23:37:15Z",
             "open_issues": 64,
             "owner": "o2sh",
             "repo": "onefetch",
@@ -3110,7 +3131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:08:28.845Z",
+    "last_updated": "2026-09-03T07:13:00.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3118,7 +3139,7 @@
       "id": 363142095,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-01T09:56:51Z",
+      "last_commit": "2026-09-02T22:37:39Z",
       "open_issues": 1,
       "owner": "beucismis",
       "repo": "awesome-fetch",
@@ -3136,7 +3157,7 @@
         "tui"
       ]
     },
-    "original_repository_sha": "3094e4ab35fa69684fb4f067ff26f86b5cf858c4",
+    "original_repository_sha": "025eff84c97ce1888d3dabc7686db1892dadb3d3",
     "enhanced_repository": "enhansome/enhansome-fetch",
     "enhanced_repository_description": null,
     "title": "Awesome Fetch with stars"
