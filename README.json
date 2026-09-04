@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-03T02:27:02Z",
-                "open_issues": 82,
+                "last_commit": "2026-09-03T07:43:46Z",
+                "open_issues": 84,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24497,
+                "stars": 24517,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -245,7 +245,7 @@
                 "id": 89649908,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T21:13:48Z",
+                "last_commit": "2026-09-03T08:08:12Z",
                 "open_issues": 3,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
@@ -1611,7 +1611,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-01T06:38:20Z",
+                "last_commit": "2026-09-03T20:48:46Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -1969,7 +1969,7 @@
                 "open_issues": 0,
                 "owner": "Discomanfulanito",
                 "repo": "pokefetch",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2711,7 +2711,7 @@
             "open_issues": 64,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12037,
+            "stars": 12034,
             "topics": [
               "cli",
               "command-line",
@@ -3131,7 +3131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:13:00.900Z",
+    "last_updated": "2026-09-04T07:16:08.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
