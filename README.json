@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-03T07:43:46Z",
-                "open_issues": 84,
+                "last_commit": "2026-09-05T05:59:11Z",
+                "open_issues": 82,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24517,
+                "stars": 24527,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -157,7 +157,7 @@
                 "open_issues": 19,
                 "owner": "K4rakara",
                 "repo": "freshfetch",
-                "stars": 509,
+                "stars": 510,
                 "topics": [
                   "fetch",
                   "neofetch",
@@ -527,8 +527,8 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-29T08:08:41Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-05T02:58:01Z",
+                "open_issues": 1,
                 "owner": "alba4k",
                 "repo": "albafetch",
                 "stars": 74,
@@ -2496,7 +2496,7 @@
             "open_issues": 132,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2140,
+            "stars": 2142,
             "topics": [
               "amd",
               "android",
@@ -2711,7 +2711,7 @@
             "open_issues": 64,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12034,
+            "stars": 12035,
             "topics": [
               "cli",
               "command-line",
@@ -3131,7 +3131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:16:08.121Z",
+    "last_updated": "2026-09-05T06:57:46.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
