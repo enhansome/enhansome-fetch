@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-05T12:31:11Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-07T03:18:36Z",
+                "open_issues": 84,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24537,
+                "stars": 24547,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -53,7 +53,7 @@
                 "open_issues": 170,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4074,
+                "stars": 4075,
                 "topics": [
                   "bash",
                   "desktop",
@@ -79,7 +79,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 12,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1970,
+                "stars": 1969,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -183,7 +183,7 @@
                 "open_issues": 3,
                 "owner": "mngshm",
                 "repo": "rxfetch",
-                "stars": 498,
+                "stars": 499,
                 "topics": [
                   "arch",
                   "bash",
@@ -245,8 +245,8 @@
                 "id": 89649908,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T08:08:12Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-06T21:08:41Z",
+                "open_issues": 1,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
                 "stars": 340,
@@ -438,7 +438,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-06T02:36:58Z",
+                "last_commit": "2026-09-07T02:34:35Z",
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -1104,31 +1104,6 @@
             },
             {
               "node_type": "item",
-              "title": "tfetch",
-              "description": "Tree view like fetch.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Tree view like fetch",
-                "homepage": null,
-                "id": 314065174,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-03-26T21:04:23Z",
-                "open_issues": 0,
-                "owner": "EndOfLine-py",
-                "repo": "tfetch",
-                "stars": 10,
-                "topics": [
-                  "neofetch",
-                  "python",
-                  "screenfetch"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
               "title": "mfetch",
               "description": "A simple fetch tool for Linux written in Bash.",
               "children": [],
@@ -1172,6 +1147,31 @@
                 "repo": "sjfetch",
                 "stars": 9,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tfetch",
+              "description": "Tree view like fetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tree view like fetch",
+                "homepage": null,
+                "id": 314065174,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-03-26T21:04:23Z",
+                "open_issues": 0,
+                "owner": "EndOfLine-py",
+                "repo": "tfetch",
+                "stars": 9,
+                "topics": [
+                  "neofetch",
+                  "python",
+                  "screenfetch"
+                ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             },
@@ -1528,6 +1528,37 @@
             },
             {
               "node_type": "item",
+              "title": "kkfetch",
+              "description": "A fast, lightweight cross-platform system information fetch CLI written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A fast, lightweight Linux, Android, and Windows system information fetch CLI written in Rust by Kushagra Kumar (kk376)",
+                "homepage": "https://github.com/kk376/kkfetch",
+                "id": 1335991268,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-09-03T20:48:46Z",
+                "open_issues": 0,
+                "owner": "kk376",
+                "repo": "kkfetch",
+                "stars": 2,
+                "topics": [
+                  "cli",
+                  "fastfetch",
+                  "fetch",
+                  "kkfetch",
+                  "linux",
+                  "neofetch",
+                  "rust",
+                  "system-information",
+                  "termux"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "scfetch",
               "description": "Minimal fetch program written in Python for Linux, Mac and Windows.",
               "children": [],
@@ -1596,37 +1627,6 @@
                 "repo": "tinyscreen",
                 "stars": 2,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "kkfetch",
-              "description": "A fast, lightweight cross-platform system information fetch CLI written in Rust.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A fast, lightweight Linux, Android, and Windows system information fetch CLI written in Rust by Kushagra Kumar (kk376)",
-                "homepage": "https://github.com/kk376/kkfetch",
-                "id": 1335991268,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2026-09-03T20:48:46Z",
-                "open_issues": 0,
-                "owner": "kk376",
-                "repo": "kkfetch",
-                "stars": 1,
-                "topics": [
-                  "cli",
-                  "fastfetch",
-                  "fetch",
-                  "kkfetch",
-                  "linux",
-                  "neofetch",
-                  "rust",
-                  "system-information",
-                  "termux"
-                ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             }
@@ -1969,7 +1969,7 @@
                 "open_issues": 0,
                 "owner": "Discomanfulanito",
                 "repo": "pokefetch",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2022,7 +2022,7 @@
                 "open_issues": 0,
                 "owner": "David17c",
                 "repo": "Dfetch",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "command-line",
                   "system-information"
@@ -2058,27 +2058,6 @@
             },
             {
               "node_type": "item",
-              "title": "pridefetch",
-              "description": "Neofetch but gay.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🏳️‍🌈Neofetch but gay",
-                "homepage": null,
-                "id": 383535568,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-01-09T21:17:57Z",
-                "open_issues": 0,
-                "owner": "cartoon-raccoon",
-                "repo": "pridefetch",
-                "stars": 16,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
               "title": "ratfetch",
               "description": "A system fetch that does not stop at one frame.",
               "children": [],
@@ -2093,6 +2072,27 @@
                 "open_issues": 0,
                 "owner": "tuna4ll",
                 "repo": "ratfetch",
+                "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pridefetch",
+              "description": "Neofetch but gay.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🏳️‍🌈Neofetch but gay",
+                "homepage": null,
+                "id": 383535568,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-01-09T21:17:57Z",
+                "open_issues": 0,
+                "owner": "cartoon-raccoon",
+                "repo": "pridefetch",
                 "stars": 16,
                 "topics": []
               },
@@ -2218,6 +2218,27 @@
             },
             {
               "node_type": "item",
+              "title": "Haxefetch",
+              "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A fetch program written in Haxe (Linux ONLY)",
+                "homepage": null,
+                "id": 1324414643,
+                "language": "Haxe",
+                "license": "MIT",
+                "last_commit": "2026-09-02T23:17:24Z",
+                "open_issues": 0,
+                "owner": "Sbinator-hub",
+                "repo": "Haxefetch",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "stupidfetch",
               "description": "Like neofetch, but without colors, without distro logos and installer.",
               "children": [],
@@ -2233,27 +2254,6 @@
                 "owner": "000rosiu",
                 "repo": "stupidfetch",
                 "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Haxefetch",
-              "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A fetch program written in Haxe (Linux ONLY)",
-                "homepage": null,
-                "id": 1324414643,
-                "language": "Haxe",
-                "license": "MIT",
-                "last_commit": "2026-09-02T23:17:24Z",
-                "open_issues": 0,
-                "owner": "Sbinator-hub",
-                "repo": "Haxefetch",
-                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2650,7 +2650,7 @@
             "open_issues": 8,
             "owner": "irevenko",
             "repo": "ferris-fetch",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "cli",
               "command-line",
@@ -2707,11 +2707,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-02T23:37:15Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-07T03:15:19Z",
+            "open_issues": 68,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12041,
+            "stars": 12044,
             "topics": [
               "cli",
               "command-line",
@@ -3131,7 +3131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:09:45.866Z",
+    "last_updated": "2026-09-07T07:22:05.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
