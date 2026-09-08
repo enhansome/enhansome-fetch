@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-07T03:18:36Z",
-                "open_issues": 84,
+                "open_issues": 86,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24547,
+                "stars": 24560,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -249,7 +249,7 @@
                 "open_issues": 1,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
-                "stars": 340,
+                "stars": 341,
                 "topics": [
                   "archey",
                   "bsd",
@@ -2496,7 +2496,7 @@
             "open_issues": 132,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2144,
+            "stars": 2145,
             "topics": [
               "amd",
               "android",
@@ -2527,7 +2527,7 @@
             "open_issues": 34,
             "owner": "Dr-Noob",
             "repo": "gpufetch",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "amd",
               "amdgpu",
@@ -2707,11 +2707,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-07T03:15:19Z",
+            "last_commit": "2026-09-07T16:55:51Z",
             "open_issues": 68,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12044,
+            "stars": 12046,
             "topics": [
               "cli",
               "command-line",
@@ -3131,7 +3131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:22:05.049Z",
+    "last_updated": "2026-09-08T07:16:42.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3143,7 +3143,7 @@
       "open_issues": 1,
       "owner": "beucismis",
       "repo": "awesome-fetch",
-      "stars": 597,
+      "stars": 596,
       "topics": [
         "awesome",
         "awesome-list",
