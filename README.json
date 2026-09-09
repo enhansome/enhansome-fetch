@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-07T03:18:36Z",
+                "last_commit": "2026-09-09T06:30:04Z",
                 "open_issues": 86,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24560,
+                "stars": 24572,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -131,7 +131,7 @@
                 "open_issues": 12,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1969,
+                "stars": 1968,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -438,7 +438,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-07T02:34:35Z",
+                "last_commit": "2026-09-09T02:47:21Z",
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -768,7 +768,7 @@
                 "open_issues": 0,
                 "owner": "yrwq",
                 "repo": "yafetch",
-                "stars": 35,
+                "stars": 34,
                 "topics": [
                   "cli",
                   "fetch",
@@ -950,7 +950,7 @@
                 "open_issues": 0,
                 "owner": "Addy10s",
                 "repo": "wretch",
-                "stars": 20,
+                "stars": 19,
                 "topics": [
                   "cli",
                   "linux"
@@ -1653,7 +1653,7 @@
                 "open_issues": 26,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1789,
+                "stars": 1788,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -2650,7 +2650,7 @@
             "open_issues": 8,
             "owner": "irevenko",
             "repo": "ferris-fetch",
-            "stars": 132,
+            "stars": 131,
             "topics": [
               "cli",
               "command-line",
@@ -2707,8 +2707,8 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-07T16:55:51Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-08T11:17:21Z",
+            "open_issues": 65,
             "owner": "o2sh",
             "repo": "onefetch",
             "stars": 12046,
@@ -3131,7 +3131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:16:42.978Z",
+    "last_updated": "2026-09-09T07:25:23.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
