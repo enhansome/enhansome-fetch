@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-09T06:30:04Z",
-                "open_issues": 86,
+                "open_issues": 87,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24572,
+                "stars": 24578,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2104,
+                "stars": 2103,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2104,
+                "stars": 2103,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -246,7 +246,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-06T21:08:41Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
                 "stars": 341,
@@ -438,7 +438,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-09T02:47:21Z",
+                "last_commit": "2026-09-09T18:11:49Z",
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -1653,7 +1653,7 @@
                 "open_issues": 26,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1788,
+                "stars": 1787,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -2008,30 +2008,6 @@
             },
             {
               "node_type": "item",
-              "title": "dfetch",
-              "description": "Lightweight command-line tool for displaying system information.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Lightweight command-line tool for displaying system information",
-                "homepage": null,
-                "id": 1242750236,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-08-27T18:56:55Z",
-                "open_issues": 0,
-                "owner": "David17c",
-                "repo": "Dfetch",
-                "stars": 21,
-                "topics": [
-                  "command-line",
-                  "system-information"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
               "title": "ufetch",
               "description": "System fetch tool written in Rust.",
               "children": [],
@@ -2072,7 +2048,7 @@
                 "open_issues": 0,
                 "owner": "tuna4ll",
                 "repo": "ratfetch",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2496,7 +2472,7 @@
             "open_issues": 132,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2145,
+            "stars": 2144,
             "topics": [
               "amd",
               "android",
@@ -2707,7 +2683,7 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-08T11:17:21Z",
+            "last_commit": "2026-09-09T23:14:48Z",
             "open_issues": 65,
             "owner": "o2sh",
             "repo": "onefetch",
@@ -3131,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:25:23.868Z",
+    "last_updated": "2026-09-10T07:21:12.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3140,7 +3116,7 @@
       "language": "Python",
       "license": "CC0-1.0",
       "last_commit": "2026-09-02T22:37:39Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "beucismis",
       "repo": "awesome-fetch",
       "stars": 596,
