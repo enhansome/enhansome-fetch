@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-09T06:30:04Z",
-                "open_issues": 89,
+                "last_commit": "2026-09-11T16:20:44Z",
+                "open_issues": 88,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24585,
+                "stars": 24596,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2104,
+                "stars": 2105,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2104,
+                "stars": 2105,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -217,7 +217,7 @@
                 "open_issues": 13,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 364,
+                "stars": 365,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -527,8 +527,8 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-05T10:16:40Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-12T03:08:16Z",
+                "open_issues": 1,
                 "owner": "alba4k",
                 "repo": "albafetch",
                 "stars": 74,
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "cybardev",
                 "repo": "cutefetch",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "fetch",
                   "screenshots",
@@ -1538,7 +1538,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-03T20:48:46Z",
+                "last_commit": "2026-09-12T06:51:52Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -1653,7 +1653,7 @@
                 "open_issues": 26,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1787,
+                "stars": 1786,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -1718,7 +1718,7 @@
                 "open_issues": 32,
                 "owner": "ssleert",
                 "repo": "nitch",
-                "stars": 648,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2472,7 +2472,7 @@
             "open_issues": 132,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2144,
+            "stars": 2146,
             "topics": [
               "amd",
               "android",
@@ -2499,7 +2499,7 @@
             "id": 394679051,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2025-10-26T09:52:07Z",
+            "last_commit": "2026-09-11T16:03:52Z",
             "open_issues": 34,
             "owner": "Dr-Noob",
             "repo": "gpufetch",
@@ -2687,7 +2687,7 @@
             "open_issues": 65,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12046,
+            "stars": 12047,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:19:23.500Z",
+    "last_updated": "2026-09-12T07:11:47.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
