@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-13T18:06:54Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-14T15:02:39Z",
+                "open_issues": 91,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24622,
+                "stars": 24638,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2101,
+                "stars": 2102,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2101,
+                "stars": 2102,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -438,11 +438,11 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-14T03:04:35Z",
+                "last_commit": "2026-09-15T03:06:42Z",
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "archlinux",
                   "fastfetch",
@@ -527,7 +527,7 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-12T12:36:16Z",
+                "last_commit": "2026-09-14T11:57:26Z",
                 "open_issues": 0,
                 "owner": "alba4k",
                 "repo": "albafetch",
@@ -813,6 +813,30 @@
             },
             {
               "node_type": "item",
+              "title": "unifetch",
+              "description": "An unofficial inheritor of Neofetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An unofficial inheritor of Neofetch",
+                "homepage": null,
+                "id": 535163720,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2025-12-10T11:06:00Z",
+                "open_issues": 1,
+                "owner": "nmimusic",
+                "repo": "unifetch",
+                "stars": 29,
+                "topics": [
+                  "neofetch",
+                  "screenfetch"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "tuatara",
               "description": "Ziggidy *nix system info fetcher targeting speed and concepts of disfetch.",
               "children": [],
@@ -839,30 +863,6 @@
                   "zig-lang",
                   "zig-programming-language",
                   "ziglang"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "unifetch",
-              "description": "An unofficial inheritor of Neofetch.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An unofficial inheritor of Neofetch",
-                "homepage": null,
-                "id": 535163720,
-                "language": "Shell",
-                "license": "MIT",
-                "last_commit": "2025-12-10T11:06:00Z",
-                "open_issues": 1,
-                "owner": "nmimusic",
-                "repo": "unifetch",
-                "stars": 28,
-                "topics": [
-                  "neofetch",
-                  "screenfetch"
                 ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2173,6 +2173,27 @@
             },
             {
               "node_type": "item",
+              "title": "Haxefetch",
+              "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A fetch program written in Haxe (Linux ONLY)",
+                "homepage": null,
+                "id": 1324414643,
+                "language": "Haxe",
+                "license": "MIT",
+                "last_commit": "2026-09-14T22:26:35Z",
+                "open_issues": 0,
+                "owner": "Sbinator-hub",
+                "repo": "Haxefetch",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "smfetch",
               "description": "A fetch tool written in bash with less than 150 lines of code.",
               "children": [],
@@ -2188,27 +2209,6 @@
                 "owner": "agahemir",
                 "repo": "smfetch",
                 "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Haxefetch",
-              "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A fetch program written in Haxe (Linux ONLY)",
-                "homepage": null,
-                "id": 1324414643,
-                "language": "Haxe",
-                "license": "MIT",
-                "last_commit": "2026-09-13T14:58:50Z",
-                "open_issues": 0,
-                "owner": "Sbinator-hub",
-                "repo": "Haxefetch",
-                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2472,7 +2472,7 @@
             "open_issues": 132,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2146,
+            "stars": 2147,
             "topics": [
               "amd",
               "android",
@@ -2503,7 +2503,7 @@
             "open_issues": 35,
             "owner": "Dr-Noob",
             "repo": "gpufetch",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "amd",
               "amdgpu",
@@ -2687,7 +2687,7 @@
             "open_issues": 66,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12050,
+            "stars": 12049,
             "topics": [
               "cli",
               "command-line",
@@ -2866,7 +2866,7 @@
             "open_issues": 8,
             "owner": "ekrlstd",
             "repo": "songfetch",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "cli",
               "linux",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:56:20.837Z",
+    "last_updated": "2026-09-15T07:49:09.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3119,7 +3119,7 @@
       "open_issues": 1,
       "owner": "beucismis",
       "repo": "awesome-fetch",
-      "stars": 597,
+      "stars": 598,
       "topics": [
         "awesome",
         "awesome-list",
