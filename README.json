@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-17T06:46:42Z",
+                "last_commit": "2026-09-18T07:01:51Z",
                 "open_issues": 92,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24663,
+                "stars": 24676,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 12,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1970,
+                "stars": 1971,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -387,7 +387,7 @@
                 "open_issues": 1,
                 "owner": "mehedirm6244",
                 "repo": "sysfex",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "cli",
                   "command-line",
@@ -438,7 +438,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-17T03:06:49Z",
+                "last_commit": "2026-09-17T15:15:08Z",
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -2183,7 +2183,7 @@
                 "id": 1324414643,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-16T22:25:28Z",
+                "last_commit": "2026-09-17T13:54:40Z",
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
@@ -2472,7 +2472,7 @@
             "open_issues": 132,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2145,
+            "stars": 2147,
             "topics": [
               "amd",
               "android",
@@ -2683,11 +2683,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-16T22:54:35Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-18T02:44:18Z",
+            "open_issues": 66,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12048,
+            "stars": 12049,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:44:37.310Z",
+    "last_updated": "2026-09-18T07:27:16.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
