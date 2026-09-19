@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-18T07:01:51Z",
-                "open_issues": 92,
+                "last_commit": "2026-09-19T00:14:28Z",
+                "open_issues": 93,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24676,
+                "stars": 24690,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -76,10 +76,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-08-09T05:50:51Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2104,
+                "stars": 2105,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -102,10 +102,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-08-09T05:50:51Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2104,
+                "stars": 2105,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 12,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1971,
+                "stars": 1973,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -401,6 +401,35 @@
             },
             {
               "node_type": "item",
+              "title": "animfetch",
+              "description": "Animated system fetch that stays pinned above your shell while you work.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Animated system fetch that stays pinned above your shell while you work. Linux, no dependencies. 🦀",
+                "homepage": null,
+                "id": 1316008093,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-09-19T02:52:33Z",
+                "open_issues": 2,
+                "owner": "Andrew-Velox",
+                "repo": "animfetch",
+                "stars": 156,
+                "topics": [
+                  "archlinux",
+                  "fastfetch",
+                  "linux",
+                  "neofetch",
+                  "rust",
+                  "sysfetch",
+                  "system-fetch"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "winfetch",
               "description": "Neofetch/Screenfetch Alternative Written in Golang.",
               "children": [],
@@ -422,35 +451,6 @@
                   "gomodule",
                   "neofetch",
                   "powershell"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "animfetch",
-              "description": "Animated system fetch that stays pinned above your shell while you work.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Animated system fetch that stays pinned above your shell while you work. Linux, no dependencies. 🦀",
-                "homepage": null,
-                "id": 1316008093,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2026-09-17T15:15:08Z",
-                "open_issues": 2,
-                "owner": "Andrew-Velox",
-                "repo": "animfetch",
-                "stars": 150,
-                "topics": [
-                  "archlinux",
-                  "fastfetch",
-                  "linux",
-                  "neofetch",
-                  "rust",
-                  "sysfetch",
-                  "system-fetch"
                 ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -527,8 +527,8 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-14T11:57:26Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-19T03:09:01Z",
+                "open_issues": 1,
                 "owner": "alba4k",
                 "repo": "albafetch",
                 "stars": 74,
@@ -904,11 +904,11 @@
                 "id": 1316225919,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-04T19:03:19Z",
+                "last_commit": "2026-09-18T15:53:25Z",
                 "open_issues": 0,
                 "owner": "Yassine-Jemi01",
                 "repo": "SmartFetch",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-09-03T07:13:00.900Z"
@@ -936,6 +936,34 @@
             },
             {
               "node_type": "item",
+              "title": "info.sh",
+              "description": "Info.sh is a little script that works like screenfetch or neofetch, it show infos.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "💻 info.sh is a little script that works like screenfetch or neofetch",
+                "homepage": null,
+                "id": 157108757,
+                "language": "Shell",
+                "license": "BSD-3-Clause",
+                "last_commit": "2022-08-23T23:19:14Z",
+                "open_issues": 0,
+                "owner": "bc1bb",
+                "repo": "info.sh",
+                "stars": 19,
+                "topics": [
+                  "bash",
+                  "bash-script",
+                  "infos",
+                  "linux",
+                  "shell",
+                  "termux"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "wretch",
               "description": "This is my fetch script written in Rust, as one of my first projects.",
               "children": [],
@@ -954,34 +982,6 @@
                 "topics": [
                   "cli",
                   "linux"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "info.sh",
-              "description": "Info.sh is a little script that works like screenfetch or neofetch, it show infos.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "💻 info.sh is a little script that works like screenfetch or neofetch",
-                "homepage": null,
-                "id": 157108757,
-                "language": "Shell",
-                "license": "BSD-3-Clause",
-                "last_commit": "2022-08-23T23:19:14Z",
-                "open_issues": 0,
-                "owner": "bc1bb",
-                "repo": "info.sh",
-                "stars": 18,
-                "topics": [
-                  "bash",
-                  "bash-script",
-                  "infos",
-                  "linux",
-                  "shell",
-                  "termux"
                 ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -1653,7 +1653,7 @@
                 "open_issues": 25,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1786,
+                "stars": 1788,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -2152,6 +2152,27 @@
             },
             {
               "node_type": "item",
+              "title": "Haxefetch",
+              "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A fetch program written in Haxe (Linux ONLY)",
+                "homepage": null,
+                "id": 1324414643,
+                "language": "Haxe",
+                "license": "MIT",
+                "last_commit": "2026-09-18T21:41:40Z",
+                "open_issues": 1,
+                "owner": "Sbinator-hub",
+                "repo": "Haxefetch",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "koghi",
               "description": "A system fetch tool in Go.",
               "children": [],
@@ -2167,27 +2188,6 @@
                 "owner": "if-not-nil",
                 "repo": "koghi",
                 "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Haxefetch",
-              "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A fetch program written in Haxe (Linux ONLY)",
-                "homepage": null,
-                "id": 1324414643,
-                "language": "Haxe",
-                "license": "MIT",
-                "last_commit": "2026-09-17T13:54:40Z",
-                "open_issues": 0,
-                "owner": "Sbinator-hub",
-                "repo": "Haxefetch",
-                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2503,7 +2503,7 @@
             "open_issues": 35,
             "owner": "Dr-Noob",
             "repo": "gpufetch",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "amd",
               "amdgpu",
@@ -2683,11 +2683,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T02:44:18Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-18T11:29:47Z",
+            "open_issues": 63,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12049,
+            "stars": 12048,
             "topics": [
               "cli",
               "command-line",
@@ -2866,7 +2866,7 @@
             "open_issues": 8,
             "owner": "ekrlstd",
             "repo": "songfetch",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "cli",
               "linux",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:27:16.842Z",
+    "last_updated": "2026-09-19T07:22:45.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
