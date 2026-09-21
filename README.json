@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-20T05:18:10Z",
-                "open_issues": 92,
+                "last_commit": "2026-09-21T07:30:41Z",
+                "open_issues": 90,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24698,
+                "stars": 24711,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -53,7 +53,7 @@
                 "open_issues": 170,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4075,
+                "stars": 4076,
                 "topics": [
                   "bash",
                   "desktop",
@@ -76,7 +76,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-08-09T05:50:51Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
                 "stars": 2105,
@@ -102,7 +102,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-08-09T05:50:51Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
                 "stars": 2105,
@@ -157,7 +157,7 @@
                 "open_issues": 19,
                 "owner": "K4rakara",
                 "repo": "freshfetch",
-                "stars": 510,
+                "stars": 511,
                 "topics": [
                   "fetch",
                   "neofetch",
@@ -213,11 +213,11 @@
                 "id": 602608913,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-05-25T12:01:07Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-21T06:21:13Z",
+                "open_issues": 2,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 365,
+                "stars": 364,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -249,7 +249,7 @@
                 "open_issues": 4,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
-                "stars": 340,
+                "stars": 339,
                 "topics": [
                   "archey",
                   "bsd",
@@ -411,7 +411,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-20T03:04:46Z",
+                "last_commit": "2026-09-21T03:01:41Z",
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -1118,7 +1118,7 @@
                 "open_issues": 0,
                 "owner": "Nighty3098",
                 "repo": "mfetch",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "cli",
                   "fetch",
@@ -1390,7 +1390,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-12T07:39:30Z",
+                "last_commit": "2026-09-21T02:24:51Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -1653,7 +1653,7 @@
                 "open_issues": 25,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1788,
+                "stars": 1789,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -1929,6 +1929,27 @@
             },
             {
               "node_type": "item",
+              "title": "pokefetch",
+              "description": "This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fastfetch mod that displays any Pokemon sprite in your terminal",
+                "homepage": null,
+                "id": 975960932,
+                "language": "Shell",
+                "license": "GPL-3.0",
+                "last_commit": "2026-01-23T20:29:04Z",
+                "open_issues": 0,
+                "owner": "Discomanfulanito",
+                "repo": "pokefetch",
+                "stars": 31,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "richfetch",
               "description": "A richly customisable fetch util which provides a ton lot of information.",
               "children": [],
@@ -1950,27 +1971,6 @@
                   "python",
                   "weather"
                 ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pokefetch",
-              "description": "This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Fastfetch mod that displays any Pokemon sprite in your terminal",
-                "homepage": null,
-                "id": 975960932,
-                "language": "Shell",
-                "license": "GPL-3.0",
-                "last_commit": "2026-01-23T20:29:04Z",
-                "open_issues": 0,
-                "owner": "Discomanfulanito",
-                "repo": "pokefetch",
-                "stars": 29,
-                "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             },
@@ -2048,7 +2048,7 @@
                 "open_issues": 1,
                 "owner": "tuna4ll",
                 "repo": "ratfetch",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2162,11 +2162,11 @@
                 "id": 1324414643,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-19T19:29:10Z",
+                "last_commit": "2026-09-20T20:26:01Z",
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2683,11 +2683,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T11:29:47Z",
-            "open_issues": 64,
+            "last_commit": "2026-09-20T22:13:05Z",
+            "open_issues": 62,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12049,
+            "stars": 12048,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:46:25.076Z",
+    "last_updated": "2026-09-21T07:59:52.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
