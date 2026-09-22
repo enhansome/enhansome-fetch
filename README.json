@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-21T07:30:41Z",
+                "last_commit": "2026-09-21T17:09:59Z",
                 "open_issues": 90,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24711,
+                "stars": 24721,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -50,7 +50,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-03-02T03:08:18Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
                 "stars": 4076,
@@ -131,7 +131,7 @@
                 "open_issues": 12,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -183,7 +183,7 @@
                 "open_issues": 3,
                 "owner": "mngshm",
                 "repo": "rxfetch",
-                "stars": 499,
+                "stars": 500,
                 "topics": [
                   "arch",
                   "bash",
@@ -217,7 +217,7 @@
                 "open_issues": 2,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 364,
+                "stars": 365,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -249,7 +249,7 @@
                 "open_issues": 4,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
-                "stars": 339,
+                "stars": 338,
                 "topics": [
                   "archey",
                   "bsd",
@@ -1390,7 +1390,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-21T02:24:51Z",
+                "last_commit": "2026-09-21T12:41:20Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -1653,7 +1653,7 @@
                 "open_issues": 25,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1789,
+                "stars": 1790,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -1718,7 +1718,7 @@
                 "open_issues": 32,
                 "owner": "ssleert",
                 "repo": "nitch",
-                "stars": 650,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -1739,7 +1739,7 @@
                 "open_issues": 2,
                 "owner": "iinsertNameHere",
                 "repo": "catnap",
-                "stars": 293,
+                "stars": 294,
                 "topics": [
                   "bsdfetch",
                   "good-first-contribution",
@@ -2162,7 +2162,7 @@
                 "id": 1324414643,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-20T20:26:01Z",
+                "last_commit": "2026-09-22T00:26:49Z",
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
@@ -2472,7 +2472,7 @@
             "open_issues": 132,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2147,
+            "stars": 2148,
             "topics": [
               "amd",
               "android",
@@ -2687,7 +2687,7 @@
             "open_issues": 62,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12048,
+            "stars": 12049,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:59:52.405Z",
+    "last_updated": "2026-09-22T07:45:04.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
