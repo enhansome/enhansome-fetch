@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-23T15:09:34Z",
-                "open_issues": 95,
+                "last_commit": "2026-09-25T03:35:49Z",
+                "open_issues": 96,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24747,
+                "stars": 24761,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1974,
+                "stars": 1976,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -157,7 +157,7 @@
                 "open_issues": 19,
                 "owner": "K4rakara",
                 "repo": "freshfetch",
-                "stars": 511,
+                "stars": 512,
                 "topics": [
                   "fetch",
                   "neofetch",
@@ -217,7 +217,7 @@
                 "open_issues": 2,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 366,
+                "stars": 367,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -249,7 +249,7 @@
                 "open_issues": 4,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
-                "stars": 338,
+                "stars": 339,
                 "topics": [
                   "archey",
                   "bsd",
@@ -373,6 +373,35 @@
             },
             {
               "node_type": "item",
+              "title": "animfetch",
+              "description": "Animated system fetch that stays pinned above your shell while you work.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Animated system fetch that stays pinned above your shell while you work. Linux, no dependencies. 🦀",
+                "homepage": null,
+                "id": 1316008093,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-09-25T03:09:05Z",
+                "open_issues": 2,
+                "owner": "Andrew-Velox",
+                "repo": "animfetch",
+                "stars": 159,
+                "topics": [
+                  "archlinux",
+                  "fastfetch",
+                  "linux",
+                  "neofetch",
+                  "rust",
+                  "sysfetch",
+                  "system-fetch"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "sysfex",
               "description": "Another system information tool written in C++.",
               "children": [],
@@ -395,35 +424,6 @@
                   "fetch",
                   "linux",
                   "neofetch"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "animfetch",
-              "description": "Animated system fetch that stays pinned above your shell while you work.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Animated system fetch that stays pinned above your shell while you work. Linux, no dependencies. 🦀",
-                "homepage": null,
-                "id": 1316008093,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2026-09-24T02:52:52Z",
-                "open_issues": 2,
-                "owner": "Andrew-Velox",
-                "repo": "animfetch",
-                "stars": 158,
-                "topics": [
-                  "archlinux",
-                  "fastfetch",
-                  "linux",
-                  "neofetch",
-                  "rust",
-                  "sysfetch",
-                  "system-fetch"
                 ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -908,7 +908,7 @@
                 "open_issues": 0,
                 "owner": "Yassine-Jemi01",
                 "repo": "SmartFetch",
-                "stars": 23,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-09-03T07:13:00.900Z"
@@ -1390,7 +1390,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-23T21:14:56Z",
+                "last_commit": "2026-09-24T20:23:35Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -1653,7 +1653,7 @@
                 "open_issues": 25,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1791,
+                "stars": 1789,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -2162,7 +2162,7 @@
                 "id": 1324414643,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-23T21:54:00Z",
+                "last_commit": "2026-09-24T23:34:06Z",
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
@@ -2683,7 +2683,7 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-24T02:06:31Z",
+            "last_commit": "2026-09-24T21:48:26Z",
             "open_issues": 63,
             "owner": "o2sh",
             "repo": "onefetch",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:38:27.585Z",
+    "last_updated": "2026-09-25T07:54:03.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
