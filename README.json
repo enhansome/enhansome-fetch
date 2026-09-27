@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-26T06:32:31Z",
-                "open_issues": 98,
+                "last_commit": "2026-09-27T01:05:10Z",
+                "open_issues": 97,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24774,
+                "stars": 24791,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2110,
+                "stars": 2111,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2110,
+                "stars": 2111,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -157,7 +157,7 @@
                 "open_issues": 19,
                 "owner": "K4rakara",
                 "repo": "freshfetch",
-                "stars": 512,
+                "stars": 511,
                 "topics": [
                   "fetch",
                   "neofetch",
@@ -217,7 +217,7 @@
                 "open_issues": 2,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 367,
+                "stars": 369,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -249,7 +249,7 @@
                 "open_issues": 4,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "archey",
                   "bsd",
@@ -384,10 +384,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-26T03:13:05Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
-                "stars": 161,
+                "stars": 162,
                 "topics": [
                   "archlinux",
                   "fastfetch",
@@ -527,8 +527,8 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-26T03:32:43Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-26T12:20:00Z",
+                "open_issues": 0,
                 "owner": "alba4k",
                 "repo": "albafetch",
                 "stars": 74,
@@ -1214,7 +1214,7 @@
                 "open_issues": 0,
                 "owner": "gustafeden",
                 "repo": "blaeckfetch",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "cli",
                   "fastfetch",
@@ -1653,7 +1653,7 @@
                 "open_issues": 25,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1789,
+                "stars": 1788,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -1718,7 +1718,7 @@
                 "open_issues": 32,
                 "owner": "ssleert",
                 "repo": "nitch",
-                "stars": 649,
+                "stars": 650,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -1912,7 +1912,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-07T02:07:40Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "LivacoNew",
                 "repo": "CrabFetch",
                 "stars": 44,
@@ -2138,7 +2138,7 @@
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2309,7 +2309,7 @@
                 "id": 1305121321,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T03:08:20Z",
+                "last_commit": "2026-09-26T15:28:06Z",
                 "open_issues": 0,
                 "owner": "r1w1s1",
                 "repo": "slackfetch",
@@ -2472,7 +2472,7 @@
             "open_issues": 132,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2148,
+            "stars": 2149,
             "topics": [
               "amd",
               "android",
@@ -2687,7 +2687,7 @@
             "open_issues": 62,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12052,
+            "stars": 12054,
             "topics": [
               "cli",
               "command-line",
@@ -2866,7 +2866,7 @@
             "open_issues": 8,
             "owner": "ekrlstd",
             "repo": "songfetch",
-            "stars": 111,
+            "stars": 110,
             "topics": [
               "cli",
               "linux",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T07:47:05.671Z",
+    "last_updated": "2026-09-27T08:16:19.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
