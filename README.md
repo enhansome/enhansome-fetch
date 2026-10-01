@@ -33,10 +33,10 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ### Cross Platform
 
-* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,833 | 🐛 96 | 🌐 C | 📅 2026-09-29 - Like neofetch, but much faster because written in C. `C`
-* [screenFetch](https://github.com/KittyKatt/screenFetch) ⭐ 4,074 | 🐛 171 | 🌐 Shell | 📅 2026-03-02 - Fetches system/theme information in terminal for Linux desktop screenshots. `Shell`
-* [hyfetch](https://github.com/hykilpikonna/hyfetch) ⭐ 2,115 | 🐛 12 | 🌐 Shell | 📅 2026-09-23 - Neofetch with LGBTQ+ pride flags. `Python`
-* [neowofetch](https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch) ⭐ 2,115 | 🐛 12 | 🌐 Shell | 📅 2026-09-23 - An updated, actively maintained fork of neofetch inside the HyFetch repo. `Shell`
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,844 | 🐛 98 | 🌐 C | 📅 2026-09-30 - Like neofetch, but much faster because written in C. `C`
+* [screenFetch](https://github.com/KittyKatt/screenFetch) ⭐ 4,075 | 🐛 171 | 🌐 Shell | 📅 2026-03-02 - Fetches system/theme information in terminal for Linux desktop screenshots. `Shell`
+* [hyfetch](https://github.com/hykilpikonna/hyfetch) ⭐ 2,117 | 🐛 12 | 🌐 Shell | 📅 2026-09-23 - Neofetch with LGBTQ+ pride flags. `Python`
+* [neowofetch](https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch) ⭐ 2,117 | 🐛 12 | 🌐 Shell | 📅 2026-09-23 - An updated, actively maintained fork of neofetch inside the HyFetch repo. `Shell`
 * [macchina](https://github.com/Macchina-CLI/macchina) ⭐ 1,977 | 🐛 11 | 🌐 Rust | 📅 2025-03-08 - A system information fetcher, with an emphasis on performance and minimalism. `Rust`
 * [freshfetch](https://github.com/K4rakara/freshfetch) ⭐ 511 | 🐛 19 | 🌐 Rust | 📅 2024-06-05 - A fresh take on neofetch. `Rust`
 * [rxfetch](https://github.com/Mangeshrex/rxfetch) ⭐ 500 | 🐛 3 | 🌐 Shell | 📅 2025-07-25 - Custom system fetching tool which is made in bash script. `Shell`
@@ -46,7 +46,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 * [diyfetch](https://github.com/info-mono/diyfetch) ⭐ 254 | 🐛 0 | 🌐 Shell | 📅 2023-08-07 - The ultimate fetch tool template. `Shell`
 * [afetch](https://github.com/13-CF/afetch) ⭐ 241 | 🐛 30 | 🌐 C | 📅 2024-05-02 - Simple system info written in C. `C`
 * [bunnyfetch](https://github.com/Rosettea/bunnyfetch) ⭐ 190 | 🐛 1 | 🌐 Go | 📅 2025-01-14 - Tiny system info fetch utility. `Go`
-* [animfetch](https://github.com/Andrew-Velox/animfetch) ⭐ 161 | 🐛 1 | 🌐 Rust | 📅 2026-09-30 - Animated system fetch that stays pinned above your shell while you work. `Rust`
+* [animfetch](https://github.com/Andrew-Velox/animfetch) ⭐ 162 | 🐛 1 | 🌐 Rust | 📅 2026-10-01 - Animated system fetch that stays pinned above your shell while you work. `Rust`
 * [sysfex](https://github.com/mehedirm6244/sysfex) ⭐ 159 | 🐛 1 | 🌐 C++ | 📅 2024-12-28 - Another system information tool written in C++. `C++`
 * [winfetch](https://github.com/M4cs/winfetch) ⭐ 152 | 🐛 7 | 🌐 Go | 📅 2021-10-28 - Neofetch/Screenfetch Alternative Written in Golang. `Go`
 * [bfetch](https://github.com/NNBnh/bfetch) ⭐ 143 | 🐛 0 | 🌐 Shell | 📅 2023-01-24 - Dynamic fetch displayer that SuperB. `Shell`
@@ -74,7 +74,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 * [rustor](https://github.com/Evren-os/rustor) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2025-05-05 - A blazing fast fetch tool written in Rust. `Rust`
 * [strlx](https://github.com/stx3plus1/strlx) ⭐ 12 | 🐛 1 | 🌐 C | 📅 2026-05-16 - A minimal and fast system resource viewer in C. `C`
 * [efetch](https://github.com/NoSequel/efetch) ⭐ 10 | 🐛 4 | 🌐 C | 📅 2024-07-30 - Is a system information tool written in C++. `C`
-* [mfetch](https://github.com/Nighty3098/mfetch) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2025-11-18 - A simple fetch tool for Linux written in Bash. `Bash`
+* [mfetch](https://github.com/Nighty3098/mfetch) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2026-09-30 - A simple fetch tool for Linux written in Bash. `Bash`
 * [sjfetch](https://github.com/855309/sjfetch) ⭐ 9 | 🐛 2 | 🌐 C++ | 📅 2023-06-25 - A command-line tool to display colorful distro information. `C++`
 * [tfetch](https://github.com/EndOfLine-py/tfetch) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-03-26 - Tree view like fetch. `Python`
 * [wziumfecz](https://github.com/workonfire/wziumfecz) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2026-04-24 - Just like neofetch but better. `Shell`
@@ -85,7 +85,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 * [gbfetch](https://github.com/GabubuAvailable/gbfetch) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2022-08-06 - Gabubu's fetch (less bloated hehe) forked from sfetch by speediegamer. `Shell`
 * [myfetch](https://github.com/Pippadi/myfetch) ⭐ 5 | 🐛 1 | 🌐 Shell | 📅 2023-12-25 - My neofetch-like program. `Shell`
 * [betterfetch](https://github.com/sctech-tr/betterfetch) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2025-11-08 - Betterfetch is a quick system information tool. `Shell`
-* [kkfetch](https://github.com/kk376/kkfetch) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-09-27 - A fast, lightweight cross-platform system information fetch CLI written in Rust. `Rust`
+* [kkfetch](https://github.com/kk376/kkfetch) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-09-30 - A fast, lightweight cross-platform system information fetch CLI written in Rust. `Rust`
 * [reifetch](https://github.com/OkaVatti/reifetch) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2021-10-20 - A light fetch script, based on Neofetch, for Linux, macOS, and BSD. `Shell`
 * [scalafetch](https://github.com/Phate6660/scalafetch) ⭐ 4 | 🐛 1 | 🌐 Scala | 📅 2020-10-29 - Neofetch alternative in Scala. `Scala`
 * [smilefetch](https://github.com/ashedapuppy/smilefetch) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2022-09-22 - A system info tool written in Rust inspired by neofetch. `Rust`
@@ -131,7 +131,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 * [yarsi](https://github.com/LinuxNerdBTW/yarsi) ⭐ 3 | 🐛 0 | 📅 2023-01-24 - Yet another rust system info fetcher. `Rust`
 * [so-sysinfo](https://github.com/solaaradotnet/so-sysinfo) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2025-12-18 - A Rust-made fetch-like program with a twist on presentation (and some personal branding). `Rust`
 * [mycofetch](https://github.com/orest58008/mycofetch) ⭐ 1 | 🐛 0 | 🌐 OCaml | 📅 2024-11-15 - Mycofetch is fast and flexible system information tool written in OCaml. `OCaml`
-* [slackfetch](https://github.com/r1w1s1/slackfetch) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-09-26 - Minimal system information utility for Slackware. `Shell`
+* [slackfetch](https://github.com/r1w1s1/slackfetch) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-09-30 - Minimal system information utility for Slackware. `Shell`
 * [NerdFetch-C](https://github.com/AnmiTaliDev/NerdFetch-c) ⚠️ Archived - Fetch inspired by nerdfetch, but written in C. `C`
 * [bestfetch](https://gitlab.com/Maxb0tbeep/bestfetch) - A customizable, beautiful, and blazing fast system fetch, powered by Nim. `Nim`
 * [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch) - A POSIX \*nix fetch script using Nerdfonts. `Shell`
@@ -164,8 +164,8 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ## Repository
 
-* [onefetch](https://github.com/o2sh/onefetch) ⭐ 12,059 | 🐛 61 | 🌐 Rust | 📅 2026-09-29 - Git repository summary on your terminal. `Rust`
-* [gitfetch](https://github.com/Matars/gitfetch) ⭐ 395 | 🐛 1 | 🌐 Python | 📅 2026-07-05 - A neofetch alternative for GitHub quick view. `Python`
+* [onefetch](https://github.com/o2sh/onefetch) ⭐ 12,057 | 🐛 62 | 🌐 Rust | 📅 2026-09-30 - Git repository summary on your terminal. `Rust`
+* [gitfetch](https://github.com/Matars/gitfetch) ⭐ 396 | 🐛 1 | 🌐 Python | 📅 2026-07-05 - A neofetch alternative for GitHub quick view. `Python`
 * [gfetch](https://github.com/kiedtl/gfetch) ⭐ 64 | 🐛 3 | 🌐 Shell | 📅 2021-02-22 - A lightweight, fast Git fetch script written in POSIX sh. `Shell`
 * [gitfetch](https://github.com/FabricSoul/gitfetch) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2024-08-26 - A command-line GitHub contribution visualization tool written in Rust inspired by Neofetch. `Rust`
 * [ghfetch](https://github.com/SafarSoFar/ghfetch) ⭐ 14 | 🐛 1 | 🌐 Rust | 📅 2025-03-02 - A neofetch-like utility to fetch GitHub info right in terminals. `Rust`
@@ -188,4 +188,4 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
