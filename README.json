@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-30T15:45:52Z",
-                "open_issues": 98,
+                "last_commit": "2026-10-01T13:20:06Z",
+                "open_issues": 97,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24844,
+                "stars": 24861,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -249,7 +249,7 @@
                 "open_issues": 4,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
-                "stars": 340,
+                "stars": 341,
                 "topics": [
                   "archey",
                   "bsd",
@@ -309,7 +309,7 @@
                 "open_issues": 0,
                 "owner": "info-mono",
                 "repo": "diyfetch",
-                "stars": 254,
+                "stars": 255,
                 "topics": [
                   "cli",
                   "fetch",
@@ -383,7 +383,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T03:49:15Z",
+                "last_commit": "2026-10-02T03:47:15Z",
                 "open_issues": 1,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "NNBnh",
                 "repo": "bfetch",
-                "stars": 143,
+                "stars": 144,
                 "topics": [
                   "ascii",
                   "basher",
@@ -1390,7 +1390,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T23:36:03Z",
+                "last_commit": "2026-10-02T03:30:25Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -1653,7 +1653,7 @@
                 "open_issues": 25,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1788,
+                "stars": 1790,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -1739,7 +1739,7 @@
                 "open_issues": 2,
                 "owner": "iinsertNameHere",
                 "repo": "catnap",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "bsdfetch",
                   "good-first-contribution",
@@ -2008,6 +2008,27 @@
             },
             {
               "node_type": "item",
+              "title": "ratfetch",
+              "description": "A system fetch that does not stop at one frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fast, interactive system monitor and fetch TUI written in Rust.",
+                "homepage": "https://tuna4ll.github.io/ratfetch/",
+                "id": 1336931300,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-09-15T18:23:34Z",
+                "open_issues": 1,
+                "owner": "tuna4ll",
+                "repo": "ratfetch",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "ufetch",
               "description": "System fetch tool written in Rust.",
               "children": [],
@@ -2029,27 +2050,6 @@
                   "linux",
                   "rust"
                 ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ratfetch",
-              "description": "A system fetch that does not stop at one frame.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Fast, interactive system monitor and fetch TUI written in Rust.",
-                "homepage": "https://tuna4ll.github.io/ratfetch/",
-                "id": 1336931300,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2026-09-15T18:23:34Z",
-                "open_issues": 1,
-                "owner": "tuna4ll",
-                "repo": "ratfetch",
-                "stars": 19,
-                "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             },
@@ -2472,7 +2472,7 @@
             "open_issues": 133,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2149,
+            "stars": 2153,
             "topics": [
               "amd",
               "android",
@@ -2683,7 +2683,7 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-30T15:45:25Z",
+            "last_commit": "2026-10-01T19:38:12Z",
             "open_issues": 62,
             "owner": "o2sh",
             "repo": "onefetch",
@@ -2715,7 +2715,7 @@
             "open_issues": 1,
             "owner": "Matars",
             "repo": "gitfetch",
-            "stars": 396,
+            "stars": 397,
             "topics": [
               "cli",
               "contribution-graph",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T09:01:07.479Z",
+    "last_updated": "2026-10-02T08:36:20.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
