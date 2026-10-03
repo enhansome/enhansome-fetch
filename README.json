@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:20:06Z",
+                "last_commit": "2026-10-03T04:40:41Z",
                 "open_issues": 97,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24861,
+                "stars": 24883,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -53,7 +53,7 @@
                 "open_issues": 171,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4075,
+                "stars": 4074,
                 "topics": [
                   "bash",
                   "desktop",
@@ -79,7 +79,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2117,
+                "stars": 2118,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 12,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2117,
+                "stars": 2118,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1977,
+                "stars": 1978,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -338,7 +338,7 @@
                 "open_issues": 30,
                 "owner": "13-CF",
                 "repo": "afetch",
-                "stars": 241,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -383,7 +383,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-02T03:47:15Z",
+                "last_commit": "2026-10-03T03:31:42Z",
                 "open_issues": 1,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -527,8 +527,8 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-26T12:20:00Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-03T03:48:51Z",
+                "open_issues": 1,
                 "owner": "alba4k",
                 "repo": "albafetch",
                 "stars": 74,
@@ -801,7 +801,7 @@
                 "open_issues": 1,
                 "owner": "s-atrn",
                 "repo": "richfetch",
-                "stars": 30,
+                "stars": 29,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -936,6 +936,30 @@
             },
             {
               "node_type": "item",
+              "title": "wretch",
+              "description": "This is my fetch script written in Rust, as one of my first projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is my fetch script written in Rust, as one of my first projects",
+                "homepage": null,
+                "id": 959544673,
+                "language": "Rust",
+                "license": "GPL-3.0",
+                "last_commit": "2025-12-08T17:55:55Z",
+                "open_issues": 0,
+                "owner": "Addy10s",
+                "repo": "wretch",
+                "stars": 20,
+                "topics": [
+                  "cli",
+                  "linux"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "info.sh",
               "description": "Info.sh is a little script that works like screenfetch or neofetch, it show infos.",
               "children": [],
@@ -958,30 +982,6 @@
                   "linux",
                   "shell",
                   "termux"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "wretch",
-              "description": "This is my fetch script written in Rust, as one of my first projects.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is my fetch script written in Rust, as one of my first projects",
-                "homepage": null,
-                "id": 959544673,
-                "language": "Rust",
-                "license": "GPL-3.0",
-                "last_commit": "2025-12-08T17:55:55Z",
-                "open_issues": 0,
-                "owner": "Addy10s",
-                "repo": "wretch",
-                "stars": 19,
-                "topics": [
-                  "cli",
-                  "linux"
                 ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -1653,7 +1653,7 @@
                 "open_issues": 25,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1790,
+                "stars": 1789,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -1964,7 +1964,7 @@
                 "open_issues": 1,
                 "owner": "s-atrn",
                 "repo": "richfetch",
-                "stars": 30,
+                "stars": 29,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -2472,7 +2472,7 @@
             "open_issues": 133,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2153,
+            "stars": 2155,
             "topics": [
               "amd",
               "android",
@@ -2715,7 +2715,7 @@
             "open_issues": 1,
             "owner": "Matars",
             "repo": "gitfetch",
-            "stars": 397,
+            "stars": 396,
             "topics": [
               "cli",
               "contribution-graph",
@@ -2819,7 +2819,7 @@
             "open_issues": 5,
             "owner": "nik-rev",
             "repo": "countryfetch",
-            "stars": 283,
+            "stars": 281,
             "topics": []
           },
           "first_seen": "2026-08-28T14:23:48.317Z"
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:36:20.808Z",
+    "last_updated": "2026-10-03T04:46:39.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3119,7 +3119,7 @@
       "open_issues": 1,
       "owner": "beucismis",
       "repo": "awesome-fetch",
-      "stars": 599,
+      "stars": 598,
       "topics": [
         "awesome",
         "awesome-list",
