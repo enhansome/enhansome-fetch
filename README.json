@@ -823,8 +823,8 @@
                 "id": 535163720,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2025-12-10T11:06:00Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-06T10:02:20Z",
+                "open_issues": 1,
                 "owner": "nmimusic",
                 "repo": "unifetch",
                 "stars": 29,
@@ -1739,7 +1739,7 @@
                 "open_issues": 2,
                 "owner": "iinsertNameHere",
                 "repo": "catnap",
-                "stars": 296,
+                "stars": 295,
                 "topics": [
                   "bsdfetch",
                   "good-first-contribution",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:03:27.230Z",
+    "last_updated": "2026-10-06T10:20:34.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",

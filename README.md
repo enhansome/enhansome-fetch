@@ -62,7 +62,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 * [mfetch](https://github.com/rachelambda/mfetch) ⭐ 35 | 🐛 0 | 🌐 Shell | 📅 2020-12-03 - Minimalist fetch. `Shell`
 * [yafetch](https://github.com/yrwq/yafetch) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2026-01-21 - Yet another fetch. `Rust`
 * [richfetch](https://github.com/Rizen54/richfetch) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2024-10-18 - A beautiful minimalistic fetch utility with a lot of dynamic features. `Python`
-* [unifetch](https://github.com/nmimusic/unifetch) ⭐ 29 | 🐛 2 | 🌐 Shell | 📅 2025-12-10 - An unofficial inheritor of Neofetch. `Shell`
+* [unifetch](https://github.com/nmimusic/unifetch) ⭐ 29 | 🐛 1 | 🌐 Shell | 📅 2026-10-06 - An unofficial inheritor of Neofetch. `Shell`
 * [tuatara](https://github.com/q60/tuatara) ⭐ 28 | 🐛 0 | 🌐 Zig | 📅 2025-04-29 - Ziggidy \*nix system info fetcher targeting speed and concepts of disfetch. `Zig`
 * [rfetch](https://github.com/kamui-fin/rfetch) ⭐ 26 | 🐛 2 | 🌐 Rust | 📅 2024-02-05 - A fast and minimal fetch program. `Rust`
 * [SmartFetch](https://github.com/Yassine-Jemi01/SmartFetch) ⭐ 22 | 🐛 0 | 🌐 C | 📅 2026-09-18 - A fast and lightweight system information fetch tool written in C. `C`
@@ -108,7 +108,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 ### GNU/Linux Only
 
 * [nitch](https://github.com/ssleert/nitch) ⭐ 651 | 🐛 32 | 🌐 Nim | 📅 2024-06-22 - A incredibly fast system fetch written in nim. `Nim`
-* [Catnap](https://github.com/iinsertNameHere/catnap) ⭐ 296 | 🐛 2 | 🌐 Nim | 📅 2026-07-01 - A playful, simple system-information concatenation tool. `Nim`
+* [Catnap](https://github.com/iinsertNameHere/catnap) ⭐ 295 | 🐛 2 | 🌐 Nim | 📅 2026-07-01 - A playful, simple system-information concatenation tool. `Nim`
 * [pokemon-icat](https://github.com/aflaag/pokemon-icat) ⭐ 150 | 🐛 3 | 🌐 Python | 📅 2025-08-03 - Shows any Pokémon sprite in your terminal. `Python`
 * [disfetch](https://github.com/q60/disfetch) ⭐ 69 | 🐛 5 | 🌐 Shell | 📅 2023-03-19 - Yet another \*nix distro fetching program, but less complex. `Shell`
 * [vfetch](https://github.com/Lorago/vfetch) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2021-05-18 - A simple fetch tool for Linux written in Python. `Python`
