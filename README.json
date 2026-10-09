@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-07T15:25:55Z",
-                "open_issues": 97,
+                "open_issues": 101,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 24942,
+                "stars": 24952,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -49,8 +49,8 @@
                 "id": 574152,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-03-02T03:08:18Z",
-                "open_issues": 172,
+                "last_commit": "2026-10-09T07:51:57Z",
+                "open_issues": 162,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
                 "stars": 4071,
@@ -76,7 +76,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-23T02:11:10Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
                 "stars": 2120,
@@ -102,7 +102,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-23T02:11:10Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
                 "stars": 2120,
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1981,
+                "stars": 1980,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -383,7 +383,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-08T04:12:11Z",
+                "last_commit": "2026-10-09T04:17:39Z",
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -663,7 +663,7 @@
                 "open_issues": 3,
                 "owner": "Phate6660",
                 "repo": "rsfetch",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "commandline",
                   "fetch",
@@ -1390,7 +1390,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T03:17:35Z",
+                "last_commit": "2026-10-09T01:43:31Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -1976,6 +1976,27 @@
             },
             {
               "node_type": "item",
+              "title": "ratfetch",
+              "description": "A system fetch that does not stop at one frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fast, interactive system monitor and fetch TUI written in Rust.",
+                "homepage": "https://tuna4ll.github.io/ratfetch/",
+                "id": 1336931300,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-09-15T18:23:34Z",
+                "open_issues": 1,
+                "owner": "tuna4ll",
+                "repo": "ratfetch",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "archfetch",
               "description": "Simple CLI system information tool for Arch Linux.",
               "children": [],
@@ -2003,27 +2024,6 @@
                   "wm",
                   "yaourt"
                 ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ratfetch",
-              "description": "A system fetch that does not stop at one frame.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Fast, interactive system monitor and fetch TUI written in Rust.",
-                "homepage": "https://tuna4ll.github.io/ratfetch/",
-                "id": 1336931300,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2026-09-15T18:23:34Z",
-                "open_issues": 1,
-                "owner": "tuna4ll",
-                "repo": "ratfetch",
-                "stars": 21,
-                "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             },
@@ -2472,7 +2472,7 @@
             "open_issues": 133,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2155,
+            "stars": 2156,
             "topics": [
               "amd",
               "android",
@@ -2586,7 +2586,7 @@
             "open_issues": 0,
             "owner": "ORG-FE",
             "repo": "mfetch",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "cli",
               "command-line",
@@ -2683,11 +2683,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-06T21:12:39Z",
+            "last_commit": "2026-10-08T20:25:19Z",
             "open_issues": 60,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12055,
+            "stars": 12058,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:03:54.474Z",
+    "last_updated": "2026-10-09T09:10:49.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
