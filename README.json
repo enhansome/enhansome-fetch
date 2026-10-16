@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-14T08:39:27Z",
-                "open_issues": 103,
+                "open_issues": 106,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25023,
+                "stars": 25036,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -75,11 +75,11 @@
                 "id": 479913941,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T17:12:15Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-15T22:45:52Z",
+                "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2125,
+                "stars": 2126,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -101,11 +101,11 @@
                 "id": 479913941,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T17:12:15Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-15T22:45:52Z",
+                "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2125,
+                "stars": 2126,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -527,7 +527,7 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-14T23:23:38Z",
+                "last_commit": "2026-10-15T12:59:37Z",
                 "open_issues": 0,
                 "owner": "alba4k",
                 "repo": "albafetch",
@@ -908,7 +908,7 @@
                 "open_issues": 0,
                 "owner": "Yassine-Jemi01",
                 "repo": "SmartFetch",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-09-03T07:13:00.900Z"
@@ -1034,6 +1034,34 @@
             },
             {
               "node_type": "item",
+              "title": "rustor",
+              "description": "A blazing fast fetch tool written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A blazing fast fetch tool written in Rust",
+                "homepage": null,
+                "id": 902224953,
+                "language": "Rust",
+                "license": null,
+                "last_commit": "2025-05-05T20:40:55Z",
+                "open_issues": 0,
+                "owner": "Evren-os",
+                "repo": "rustor",
+                "stars": 12,
+                "topics": [
+                  "command-line",
+                  "fastfetch",
+                  "fetch",
+                  "linux",
+                  "neofetch",
+                  "terminal"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "strlx",
               "description": "A minimal and fast system resource viewer in C.",
               "children": [],
@@ -1050,34 +1078,6 @@
                 "repo": "strlx",
                 "stars": 12,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rustor",
-              "description": "A blazing fast fetch tool written in Rust.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A blazing fast fetch tool written in Rust",
-                "homepage": null,
-                "id": 902224953,
-                "language": "Rust",
-                "license": null,
-                "last_commit": "2025-05-05T20:40:55Z",
-                "open_issues": 0,
-                "owner": "Evren-os",
-                "repo": "rustor",
-                "stars": 11,
-                "topics": [
-                  "command-line",
-                  "fastfetch",
-                  "fetch",
-                  "linux",
-                  "neofetch",
-                  "terminal"
-                ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             },
@@ -1653,7 +1653,7 @@
                 "open_issues": 25,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1795,
+                "stars": 1796,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -2472,7 +2472,7 @@
             "open_issues": 133,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2162,
+            "stars": 2163,
             "topics": [
               "amd",
               "android",
@@ -2683,11 +2683,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-15T05:42:10Z",
+            "last_commit": "2026-10-15T23:24:54Z",
             "open_issues": 63,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12064,
+            "stars": 12063,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T07:30:28.962Z",
+    "last_updated": "2026-10-16T07:15:19.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
