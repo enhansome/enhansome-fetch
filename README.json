@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-14T08:39:27Z",
-                "open_issues": 106,
+                "last_commit": "2026-10-17T02:30:19Z",
+                "open_issues": 105,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25036,
+                "stars": 25051,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2126,
+                "stars": 2125,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 11,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2126,
+                "stars": 2125,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -217,7 +217,7 @@
                 "open_issues": 2,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 370,
+                "stars": 369,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -383,7 +383,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-15T02:56:04Z",
+                "last_commit": "2026-10-16T17:26:09Z",
                 "open_issues": 1,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "NNBnh",
                 "repo": "bfetch",
-                "stars": 144,
+                "stars": 143,
                 "topics": [
                   "ascii",
                   "basher",
@@ -527,7 +527,7 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-15T12:59:37Z",
+                "last_commit": "2026-10-17T04:40:13Z",
                 "open_issues": 0,
                 "owner": "alba4k",
                 "repo": "albafetch",
@@ -1943,7 +1943,7 @@
                 "open_issues": 0,
                 "owner": "Discomanfulanito",
                 "repo": "pokefetch",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2626,7 +2626,7 @@
             "open_issues": 8,
             "owner": "irevenko",
             "repo": "ferris-fetch",
-            "stars": 132,
+            "stars": 131,
             "topics": [
               "cli",
               "command-line",
@@ -2683,11 +2683,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-15T23:24:54Z",
+            "last_commit": "2026-10-16T18:02:35Z",
             "open_issues": 63,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12063,
+            "stars": 12062,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T07:15:19.365Z",
+    "last_updated": "2026-10-17T07:00:15.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3119,7 +3119,7 @@
       "open_issues": 1,
       "owner": "beucismis",
       "repo": "awesome-fetch",
-      "stars": 600,
+      "stars": 599,
       "topics": [
         "awesome",
         "awesome-list",
