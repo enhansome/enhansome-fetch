@@ -21,7 +21,7 @@
                 "open_issues": 105,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25051,
+                "stars": 25062,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -53,7 +53,7 @@
                 "open_issues": 163,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4072,
+                "stars": 4073,
                 "topics": [
                   "bash",
                   "desktop",
@@ -75,11 +75,11 @@
                 "id": 479913941,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-15T22:45:52Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-17T18:59:14Z",
+                "open_issues": 9,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2125,
+                "stars": 2126,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -101,11 +101,11 @@
                 "id": 479913941,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-15T22:45:52Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-17T18:59:14Z",
+                "open_issues": 9,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2125,
+                "stars": 2126,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1980,
+                "stars": 1982,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -217,7 +217,7 @@
                 "open_issues": 2,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 369,
+                "stars": 370,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -383,7 +383,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:26:09Z",
+                "last_commit": "2026-10-18T02:46:25Z",
                 "open_issues": 1,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -583,7 +583,7 @@
                 "open_issues": 2,
                 "owner": "rmccorm4",
                 "repo": "Pokefetch",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "beautifulsoup",
                   "catimg",
@@ -1048,7 +1048,7 @@
                 "open_issues": 0,
                 "owner": "Evren-os",
                 "repo": "rustor",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "command-line",
                   "fastfetch",
@@ -1739,7 +1739,7 @@
                 "open_issues": 2,
                 "owner": "iinsertNameHere",
                 "repo": "catnap",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "bsdfetch",
                   "good-first-contribution",
@@ -1990,7 +1990,7 @@
                 "open_issues": 1,
                 "owner": "tuna4ll",
                 "repo": "ratfetch",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2055,6 +2055,33 @@
             },
             {
               "node_type": "item",
+              "title": "gotcha",
+              "description": "Pretty system fetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "pretty system fetch",
+                "homepage": null,
+                "id": 1036417396,
+                "language": "Go",
+                "license": "CC0-1.0",
+                "last_commit": "2026-04-02T17:29:14Z",
+                "open_issues": 0,
+                "owner": "yehorovye",
+                "repo": "gotcha",
+                "stars": 16,
+                "topics": [
+                  "fetch",
+                  "information",
+                  "linux",
+                  "system",
+                  "unix"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "pridefetch",
               "description": "Neofetch but gay.",
               "children": [],
@@ -2097,33 +2124,6 @@
             },
             {
               "node_type": "item",
-              "title": "gotcha",
-              "description": "Pretty system fetch.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "pretty system fetch",
-                "homepage": null,
-                "id": 1036417396,
-                "language": "Go",
-                "license": "CC0-1.0",
-                "last_commit": "2026-04-02T17:29:14Z",
-                "open_issues": 0,
-                "owner": "yehorovye",
-                "repo": "gotcha",
-                "stars": 15,
-                "topics": [
-                  "fetch",
-                  "information",
-                  "linux",
-                  "system",
-                  "unix"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
               "title": "Haxefetch",
               "description": "Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on.",
               "children": [],
@@ -2138,7 +2138,7 @@
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2209,27 +2209,6 @@
                 "owner": "agahemir",
                 "repo": "smfetch",
                 "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "stupidfetch",
-              "description": "Like neofetch, but without colors, without distro logos and installer.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Like neofetch, but without colors,without distro logos and installer. Fix it yourself, too easy to use ...",
-                "homepage": null,
-                "id": 443100491,
-                "language": "Shell",
-                "license": "GPL-3.0",
-                "last_commit": "2026-07-07T11:59:50Z",
-                "open_issues": 0,
-                "owner": "000rosiu",
-                "repo": "stupidfetch",
-                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2469,10 +2448,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2025-11-01T09:07:03Z",
-            "open_issues": 133,
+            "open_issues": 134,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2163,
+            "stars": 2164,
             "topics": [
               "amd",
               "android",
@@ -2626,7 +2605,7 @@
             "open_issues": 8,
             "owner": "irevenko",
             "repo": "ferris-fetch",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "cli",
               "command-line",
@@ -2683,11 +2662,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-16T18:02:35Z",
-            "open_issues": 63,
+            "last_commit": "2026-10-18T00:38:02Z",
+            "open_issues": 60,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12062,
+            "stars": 12064,
             "topics": [
               "cli",
               "command-line",
@@ -2866,7 +2845,7 @@
             "open_issues": 8,
             "owner": "ekrlstd",
             "repo": "songfetch",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "cli",
               "linux",
@@ -2983,6 +2962,27 @@
         },
         {
           "node_type": "item",
+          "title": "fetchfetch",
+          "description": "A tool to fetch info about the fetches installed on your system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 606902291,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2023-06-18T05:36:37Z",
+            "open_issues": 0,
+            "owner": "TheBicPen",
+            "repo": "fetchfetch",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:23:48.317Z"
+        },
+        {
+          "node_type": "item",
           "title": "gmod-fetch",
           "description": "GFetch is a neofetch-clone for Garry's Mod.",
           "children": [],
@@ -2998,27 +2998,6 @@
             "owner": "garryspins",
             "repo": "gmod-fetch",
             "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:23:48.317Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fetchfetch",
-          "description": "A tool to fetch info about the fetches installed on your system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 606902291,
-            "language": "Rust",
-            "license": null,
-            "last_commit": "2023-06-18T05:36:37Z",
-            "open_issues": 0,
-            "owner": "TheBicPen",
-            "repo": "fetchfetch",
-            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T14:23:48.317Z"
@@ -3107,7 +3086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:00:15.297Z",
+    "last_updated": "2026-10-18T07:15:51.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3116,10 +3095,10 @@
       "language": "Python",
       "license": "CC0-1.0",
       "last_commit": "2026-10-04T05:21:13Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "beucismis",
       "repo": "awesome-fetch",
-      "stars": 599,
+      "stars": 600,
       "topics": [
         "awesome",
         "awesome-list",
