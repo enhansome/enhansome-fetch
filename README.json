@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-17T02:30:19Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-18T18:07:03Z",
+                "open_issues": 106,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25062,
+                "stars": 25068,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -53,7 +53,7 @@
                 "open_issues": 163,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4073,
+                "stars": 4072,
                 "topics": [
                   "bash",
                   "desktop",
@@ -79,7 +79,7 @@
                 "open_issues": 9,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2126,
+                "stars": 2125,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 9,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2126,
+                "stars": 2125,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1982,
+                "stars": 1983,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -2482,7 +2482,7 @@
             "open_issues": 35,
             "owner": "Dr-Noob",
             "repo": "gpufetch",
-            "stars": 202,
+            "stars": 203,
             "topics": [
               "amd",
               "amdgpu",
@@ -2662,11 +2662,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-18T00:38:02Z",
+            "last_commit": "2026-10-19T02:20:00Z",
             "open_issues": 60,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12064,
+            "stars": 12066,
             "topics": [
               "cli",
               "command-line",
@@ -3086,7 +3086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:15:51.568Z",
+    "last_updated": "2026-10-19T07:51:50.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3095,7 +3095,7 @@
       "language": "Python",
       "license": "CC0-1.0",
       "last_commit": "2026-10-04T05:21:13Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "beucismis",
       "repo": "awesome-fetch",
       "stars": 600,
