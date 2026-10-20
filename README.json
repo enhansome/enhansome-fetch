@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-18T18:07:03Z",
-                "open_issues": 106,
+                "open_issues": 108,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25068,
+                "stars": 25079,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -53,7 +53,7 @@
                 "open_issues": 163,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4072,
+                "stars": 4073,
                 "topics": [
                   "bash",
                   "desktop",
@@ -79,7 +79,7 @@
                 "open_issues": 9,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2125,
+                "stars": 2126,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 9,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2125,
+                "stars": 2126,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1983,
+                "stars": 1984,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -383,11 +383,11 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-18T02:46:25Z",
+                "last_commit": "2026-10-20T03:08:58Z",
                 "open_issues": 1,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
-                "stars": 167,
+                "stars": 169,
                 "topics": [
                   "archlinux",
                   "fastfetch",
@@ -1390,7 +1390,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T15:05:53Z",
+                "last_commit": "2026-10-19T13:06:36Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -1650,10 +1650,10 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2024-05-09T04:53:04Z",
-                "open_issues": 25,
+                "open_issues": 24,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1796,
+                "stars": 1797,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -2451,7 +2451,7 @@
             "open_issues": 134,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2164,
+            "stars": 2165,
             "topics": [
               "amd",
               "android",
@@ -2482,7 +2482,7 @@
             "open_issues": 35,
             "owner": "Dr-Noob",
             "repo": "gpufetch",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "amd",
               "amdgpu",
@@ -2666,7 +2666,7 @@
             "open_issues": 60,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12066,
+            "stars": 12067,
             "topics": [
               "cli",
               "command-line",
@@ -3086,7 +3086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T07:51:50.307Z",
+    "last_updated": "2026-10-20T07:39:32.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3095,7 +3095,7 @@
       "language": "Python",
       "license": "CC0-1.0",
       "last_commit": "2026-10-04T05:21:13Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "beucismis",
       "repo": "awesome-fetch",
       "stars": 600,
