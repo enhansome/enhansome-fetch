@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-18T18:07:03Z",
-                "open_issues": 109,
+                "open_issues": 111,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25091,
+                "stars": 25099,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 9,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2128,
+                "stars": 2130,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 9,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2128,
+                "stars": 2130,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1984,
+                "stars": 1985,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -217,7 +217,7 @@
                 "open_issues": 2,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 370,
+                "stars": 371,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -246,10 +246,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-19T07:59:35Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "HorlogeSkynet",
                 "repo": "archey4",
-                "stars": 342,
+                "stars": 343,
                 "topics": [
                   "archey",
                   "bsd",
@@ -383,7 +383,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-20T03:08:58Z",
+                "last_commit": "2026-10-22T03:02:35Z",
                 "open_issues": 1,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -527,7 +527,7 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-20T22:06:30Z",
+                "last_commit": "2026-10-21T23:10:52Z",
                 "open_issues": 0,
                 "owner": "alba4k",
                 "repo": "albafetch",
@@ -2415,7 +2415,7 @@
                 "open_issues": 1,
                 "owner": "aliceinpalth",
                 "repo": "3dfetch",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "3dsx",
                   "cfw",
@@ -2666,7 +2666,7 @@
             "open_issues": 60,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12069,
+            "stars": 12070,
             "topics": [
               "cli",
               "command-line",
@@ -2694,7 +2694,7 @@
             "open_issues": 1,
             "owner": "Matars",
             "repo": "gitfetch",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "cli",
               "contribution-graph",
@@ -2798,7 +2798,7 @@
             "open_issues": 5,
             "owner": "nik-rev",
             "repo": "countryfetch",
-            "stars": 281,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T14:23:48.317Z"
@@ -3086,7 +3086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T07:43:42.661Z",
+    "last_updated": "2026-10-22T07:39:21.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3095,7 +3095,7 @@
       "language": "Python",
       "license": "CC0-1.0",
       "last_commit": "2026-10-04T05:21:13Z",
-      "open_issues": 5,
+      "open_issues": 7,
       "owner": "beucismis",
       "repo": "awesome-fetch",
       "stars": 600,
