@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-18T18:07:03Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-23T07:35:06Z",
+                "open_issues": 112,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25099,
+                "stars": 25113,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -76,7 +76,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-10-17T18:59:14Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
                 "stars": 2130,
@@ -102,7 +102,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-10-17T18:59:14Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
                 "stars": 2130,
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1985,
+                "stars": 1986,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -217,7 +217,7 @@
                 "open_issues": 2,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 371,
+                "stars": 370,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -383,7 +383,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-22T03:02:35Z",
+                "last_commit": "2026-10-23T03:06:44Z",
                 "open_issues": 1,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -2134,7 +2134,7 @@
                 "id": 1324414643,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-10-20T21:38:01Z",
+                "last_commit": "2026-10-22T22:11:39Z",
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
@@ -2212,6 +2212,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
+              "title": "stupidfetch",
+              "description": "Like neofetch, but without colors, without distro logos and installer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Like neofetch, but without colors,without distro logos and installer. Fix it yourself, too easy to use ...",
+                "homepage": null,
+                "id": 443100491,
+                "language": "Shell",
+                "license": "GPL-3.0",
+                "last_commit": "2026-07-07T11:59:50Z",
+                "open_issues": 0,
+                "owner": "000rosiu",
+                "repo": "stupidfetch",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-10-23T07:36:36.983Z"
             },
             {
               "node_type": "item",
@@ -2448,7 +2469,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2025-11-01T09:07:03Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
             "stars": 2165,
@@ -2666,7 +2687,7 @@
             "open_issues": 60,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12070,
+            "stars": 12073,
             "topics": [
               "cli",
               "command-line",
@@ -3086,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T07:39:21.966Z",
+    "last_updated": "2026-10-23T07:36:36.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
