@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-23T07:35:06Z",
-                "open_issues": 115,
+                "last_commit": "2026-10-24T16:26:07Z",
+                "open_issues": 116,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25129,
+                "stars": 25144,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 10,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 10,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -383,7 +383,7 @@
                 "id": 1316008093,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-24T03:02:20Z",
+                "last_commit": "2026-10-25T02:56:25Z",
                 "open_issues": 1,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "NNBnh",
                 "repo": "bfetch",
-                "stars": 143,
+                "stars": 142,
                 "topics": [
                   "ascii",
                   "basher",
@@ -1391,7 +1391,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-19T13:06:36Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "kk376",
                 "repo": "kkfetch",
                 "stars": 4,
@@ -1912,7 +1912,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T17:02:34Z",
-                "open_issues": 8,
+                "open_issues": 11,
                 "owner": "LivacoNew",
                 "repo": "CrabFetch",
                 "stars": 44,
@@ -1990,7 +1990,7 @@
                 "open_issues": 1,
                 "owner": "tuna4ll",
                 "repo": "ratfetch",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2055,33 +2055,6 @@
             },
             {
               "node_type": "item",
-              "title": "gotcha",
-              "description": "Pretty system fetch.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "pretty system fetch",
-                "homepage": null,
-                "id": 1036417396,
-                "language": "Go",
-                "license": "CC0-1.0",
-                "last_commit": "2026-04-02T17:29:14Z",
-                "open_issues": 0,
-                "owner": "yehorovye",
-                "repo": "gotcha",
-                "stars": 16,
-                "topics": [
-                  "fetch",
-                  "information",
-                  "linux",
-                  "system",
-                  "unix"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
               "title": "pridefetch",
               "description": "Neofetch but gay.",
               "children": [],
@@ -2119,6 +2092,33 @@
                 "repo": "turbofetch",
                 "stars": 16,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
+              "title": "gotcha",
+              "description": "Pretty system fetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "pretty system fetch",
+                "homepage": null,
+                "id": 1036417396,
+                "language": "Go",
+                "license": "CC0-1.0",
+                "last_commit": "2026-04-02T17:29:14Z",
+                "open_issues": 0,
+                "owner": "yehorovye",
+                "repo": "gotcha",
+                "stars": 14,
+                "topics": [
+                  "fetch",
+                  "information",
+                  "linux",
+                  "system",
+                  "unix"
+                ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             },
@@ -2683,11 +2683,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-20T18:27:29Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-25T00:09:33Z",
+            "open_issues": 62,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12074,
+            "stars": 12073,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:21:38.641Z",
+    "last_updated": "2026-10-25T07:38:00.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
