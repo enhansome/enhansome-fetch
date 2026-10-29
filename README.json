@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-28T01:25:31Z",
-                "open_issues": 122,
+                "last_commit": "2026-10-29T06:43:51Z",
+                "open_issues": 124,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25184,
+                "stars": 25193,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -53,7 +53,7 @@
                 "open_issues": 163,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4074,
+                "stars": 4073,
                 "topics": [
                   "bash",
                   "desktop",
@@ -79,7 +79,7 @@
                 "open_issues": 10,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2135,
+                "stars": 2137,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 10,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2135,
+                "stars": 2137,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -213,7 +213,7 @@
                 "id": 602608913,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-26T18:44:13Z",
+                "last_commit": "2026-10-28T13:43:25Z",
                 "open_issues": 2,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
@@ -387,7 +387,7 @@
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "archlinux",
                   "fastfetch",
@@ -1653,7 +1653,7 @@
                 "open_issues": 24,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1798,
+                "stars": 1797,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -1739,7 +1739,7 @@
                 "open_issues": 2,
                 "owner": "iinsertNameHere",
                 "repo": "catnap",
-                "stars": 298,
+                "stars": 297,
                 "topics": [
                   "bsdfetch",
                   "good-first-contribution",
@@ -1766,8 +1766,8 @@
                 "id": 433994483,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T13:07:00Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-29T08:09:45Z",
+                "open_issues": 4,
                 "owner": "aflaag",
                 "repo": "pokemon-icat",
                 "stars": 151,
@@ -1881,7 +1881,7 @@
                 "open_issues": 1,
                 "owner": "Toni500github",
                 "repo": "customfetch",
-                "stars": 57,
+                "stars": 56,
                 "topics": [
                   "customfetch",
                   "customizable",
@@ -2683,8 +2683,8 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-27T18:23:45Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-28T23:11:51Z",
+            "open_issues": 65,
             "owner": "o2sh",
             "repo": "onefetch",
             "stars": 12080,
@@ -2715,7 +2715,7 @@
             "open_issues": 1,
             "owner": "Matars",
             "repo": "gitfetch",
-            "stars": 398,
+            "stars": 397,
             "topics": [
               "cli",
               "contribution-graph",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T08:38:32.224Z",
+    "last_updated": "2026-10-29T08:35:35.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
