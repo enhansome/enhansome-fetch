@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-30T00:55:38Z",
+                "last_commit": "2026-10-31T06:50:36Z",
                 "open_issues": 125,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25203,
+                "stars": 25212,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -50,10 +50,10 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-09T07:51:57Z",
-                "open_issues": 164,
+                "open_issues": 169,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4073,
+                "stars": 4072,
                 "topics": [
                   "bash",
                   "desktop",
@@ -131,7 +131,7 @@
                 "open_issues": 11,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1991,
+                "stars": 1992,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -217,7 +217,7 @@
                 "open_issues": 2,
                 "owner": "Gobidev",
                 "repo": "pfetch-rs",
-                "stars": 371,
+                "stars": 372,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -527,8 +527,8 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-29T19:20:23Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-31T04:03:07Z",
+                "open_issues": 1,
                 "owner": "alba4k",
                 "repo": "albafetch",
                 "stars": 73,
@@ -1013,27 +1013,6 @@
             },
             {
               "node_type": "item",
-              "title": "bfetch",
-              "description": "Fast system fetch written in brainf**k.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "BFetch - fast system fetch written in brainf**k",
-                "homepage": null,
-                "id": 834095001,
-                "language": "Brainfuck",
-                "license": null,
-                "last_commit": "2026-04-17T06:44:46Z",
-                "open_issues": 0,
-                "owner": "xlsft",
-                "repo": "bfetch",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
               "title": "rustor",
               "description": "A blazing fast fetch tool written in Rust.",
               "children": [],
@@ -1057,6 +1036,27 @@
                   "neofetch",
                   "terminal"
                 ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
+              "title": "bfetch",
+              "description": "Fast system fetch written in brainf**k.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "BFetch - fast system fetch written in brainf**k",
+                "homepage": null,
+                "id": 834095001,
+                "language": "Brainfuck",
+                "license": null,
+                "last_commit": "2026-04-17T06:44:46Z",
+                "open_issues": 0,
+                "owner": "xlsft",
+                "repo": "bfetch",
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             },
@@ -1390,8 +1390,8 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T20:27:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-30T20:17:48Z",
+                "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
                 "stars": 4,
@@ -1653,7 +1653,7 @@
                 "open_issues": 24,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1797,
+                "stars": 1796,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -2503,7 +2503,7 @@
             "open_issues": 35,
             "owner": "Dr-Noob",
             "repo": "gpufetch",
-            "stars": 203,
+            "stars": 202,
             "topics": [
               "amd",
               "amdgpu",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:42:24.960Z",
+    "last_updated": "2026-10-31T08:28:44.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
