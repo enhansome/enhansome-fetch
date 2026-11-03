@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-02T03:10:51Z",
-                "open_issues": 120,
+                "last_commit": "2026-11-03T02:48:09Z",
+                "open_issues": 121,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25236,
+                "stars": 25244,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 10,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2144,
+                "stars": 2146,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 10,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2144,
+                "stars": 2146,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 10,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1993,
+                "stars": 1994,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -387,7 +387,7 @@
                 "open_issues": 2,
                 "owner": "Andrew-Velox",
                 "repo": "animfetch",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "archlinux",
                   "fastfetch",
@@ -1653,7 +1653,7 @@
                 "open_issues": 24,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1794,
+                "stars": 1793,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -1735,7 +1735,7 @@
                 "id": 708104952,
                 "language": "Nim",
                 "license": "MIT",
-                "last_commit": "2026-07-01T14:12:41Z",
+                "last_commit": "2026-11-03T07:32:44Z",
                 "open_issues": 2,
                 "owner": "iinsertNameHere",
                 "repo": "catnap",
@@ -2534,7 +2534,7 @@
             "open_issues": 7,
             "owner": "ashish-kus",
             "repo": "batfetch",
-            "stars": 24,
+            "stars": 23,
             "topics": [
               "bash",
               "battery",
@@ -2687,7 +2687,7 @@
             "open_issues": 65,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12078,
+            "stars": 12079,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T09:35:03.119Z",
+    "last_updated": "2026-11-03T09:38:10.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3119,7 +3119,7 @@
       "open_issues": 8,
       "owner": "beucismis",
       "repo": "awesome-fetch",
-      "stars": 601,
+      "stars": 602,
       "topics": [
         "awesome",
         "awesome-list",
