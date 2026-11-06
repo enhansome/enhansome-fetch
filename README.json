@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-05T02:32:40Z",
-                "open_issues": 120,
+                "last_commit": "2026-11-06T03:13:38Z",
+                "open_issues": 123,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25275,
+                "stars": 25287,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -53,7 +53,7 @@
                 "open_issues": 169,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4073,
+                "stars": 4074,
                 "topics": [
                   "bash",
                   "desktop",
@@ -79,7 +79,7 @@
                 "open_issues": 6,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2147,
+                "stars": 2149,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 6,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2147,
+                "stars": 2149,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -531,7 +531,7 @@
                 "open_issues": 0,
                 "owner": "alba4k",
                 "repo": "albafetch",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "archlinux",
                   "fetch",
@@ -1739,7 +1739,7 @@
                 "open_issues": 2,
                 "owner": "iinsertNameHere",
                 "repo": "catnap",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "bsdfetch",
                   "good-first-contribution",
@@ -2309,8 +2309,8 @@
                 "id": 1305121321,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T00:29:56Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-05T14:42:41Z",
+                "open_issues": 0,
                 "owner": "r1w1s1",
                 "repo": "slackfetch",
                 "stars": 1,
@@ -2683,11 +2683,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-03T13:03:18Z",
+            "last_commit": "2026-11-05T18:15:22Z",
             "open_issues": 63,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12080,
+            "stars": 12081,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:33:36.569Z",
+    "last_updated": "2026-11-06T09:28:01.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
