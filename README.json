@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-07T03:28:03Z",
+                "last_commit": "2026-11-07T13:23:12Z",
                 "open_issues": 123,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25287,
+                "stars": 25300,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -131,7 +131,7 @@
                 "open_issues": 10,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1994,
+                "stars": 1995,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -527,8 +527,8 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-07T04:40:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-07T09:31:30Z",
+                "open_issues": 0,
                 "owner": "alba4k",
                 "repo": "albafetch",
                 "stars": 74,
@@ -1653,7 +1653,7 @@
                 "open_issues": 24,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1797,
+                "stars": 1795,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -2683,8 +2683,8 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-05T18:15:22Z",
-            "open_issues": 63,
+            "last_commit": "2026-11-07T18:40:25Z",
+            "open_issues": 64,
             "owner": "o2sh",
             "repo": "onefetch",
             "stars": 12082,
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:51:14.400Z",
+    "last_updated": "2026-11-08T09:04:11.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
