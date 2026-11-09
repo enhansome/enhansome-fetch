@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-07T13:23:12Z",
-                "open_issues": 123,
+                "last_commit": "2026-11-09T04:35:25Z",
+                "open_issues": 124,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25300,
+                "stars": 25314,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -53,7 +53,7 @@
                 "open_issues": 170,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4074,
+                "stars": 4076,
                 "topics": [
                   "bash",
                   "desktop",
@@ -79,7 +79,7 @@
                 "open_issues": 6,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2149,
+                "stars": 2154,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 6,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2149,
+                "stars": 2154,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 10,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1995,
+                "stars": 1998,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -527,7 +527,7 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-07T09:31:30Z",
+                "last_commit": "2026-11-08T18:06:29Z",
                 "open_issues": 0,
                 "owner": "alba4k",
                 "repo": "albafetch",
@@ -837,38 +837,6 @@
             },
             {
               "node_type": "item",
-              "title": "tuatara",
-              "description": "Ziggidy *nix system info fetcher targeting speed and concepts of disfetch.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Ziggidy *nix system info fetcher. WIP.",
-                "homepage": null,
-                "id": 402180398,
-                "language": "Zig",
-                "license": "Unlicense",
-                "last_commit": "2025-04-29T17:25:58Z",
-                "open_issues": 0,
-                "owner": "q60",
-                "repo": "tuatara",
-                "stars": 28,
-                "topics": [
-                  "fetch",
-                  "info",
-                  "neofetch",
-                  "pfetch",
-                  "system",
-                  "system-info",
-                  "zig",
-                  "zig-lang",
-                  "zig-programming-language",
-                  "ziglang"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
               "title": "rfetch",
               "description": "A fast and minimal fetch program.",
               "children": [],
@@ -883,11 +851,43 @@
                 "open_issues": 2,
                 "owner": "kamui-fin",
                 "repo": "rfetch",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "fetch",
                   "linux",
                   "systeminfo"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tuatara",
+              "description": "Ziggidy *nix system info fetcher targeting speed and concepts of disfetch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ziggidy *nix system info fetcher. WIP.",
+                "homepage": null,
+                "id": 402180398,
+                "language": "Zig",
+                "license": "Unlicense",
+                "last_commit": "2025-04-29T17:25:58Z",
+                "open_issues": 0,
+                "owner": "q60",
+                "repo": "tuatara",
+                "stars": 27,
+                "topics": [
+                  "fetch",
+                  "info",
+                  "neofetch",
+                  "pfetch",
+                  "system",
+                  "system-info",
+                  "zig",
+                  "zig-lang",
+                  "zig-programming-language",
+                  "ziglang"
                 ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -1653,7 +1653,7 @@
                 "open_issues": 24,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1795,
+                "stars": 1796,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -1715,7 +1715,7 @@
                 "language": "Nim",
                 "license": "MIT",
                 "last_commit": "2024-06-22T19:57:29Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "ssleert",
                 "repo": "nitch",
                 "stars": 650,
@@ -1800,7 +1800,7 @@
                 "open_issues": 5,
                 "owner": "q60",
                 "repo": "disfetch",
-                "stars": 69,
+                "stars": 68,
                 "topics": [
                   "fetch",
                   "info",
@@ -2208,7 +2208,7 @@
                 "open_issues": 0,
                 "owner": "agahemir",
                 "repo": "smfetch",
-                "stars": 6,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2472,7 +2472,7 @@
             "open_issues": 139,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2165,
+            "stars": 2166,
             "topics": [
               "amd",
               "android",
@@ -2503,7 +2503,7 @@
             "open_issues": 36,
             "owner": "Dr-Noob",
             "repo": "gpufetch",
-            "stars": 202,
+            "stars": 203,
             "topics": [
               "amd",
               "amdgpu",
@@ -2683,11 +2683,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-07T18:40:25Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-09T02:56:44Z",
+            "open_issues": 65,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12082,
+            "stars": 12085,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T09:04:11.185Z",
+    "last_updated": "2026-11-09T09:53:07.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
