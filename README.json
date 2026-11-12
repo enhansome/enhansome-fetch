@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-11-10T10:48:35Z",
-                "open_issues": 122,
+                "open_issues": 124,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25332,
+                "stars": 25344,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 8,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2155,
+                "stars": 2156,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 8,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2155,
+                "stars": 2156,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 10,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1998,
+                "stars": 1999,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -444,7 +444,7 @@
                 "open_issues": 7,
                 "owner": "M4cs",
                 "repo": "winfetch",
-                "stars": 152,
+                "stars": 151,
                 "topics": [
                   "command-line",
                   "golang",
@@ -1390,7 +1390,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T00:50:15Z",
+                "last_commit": "2026-11-11T23:40:03Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -1653,7 +1653,7 @@
                 "open_issues": 24,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1796,
+                "stars": 1797,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -2134,7 +2134,7 @@
                 "id": 1324414643,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-11-09T17:58:28Z",
+                "last_commit": "2026-11-11T15:49:05Z",
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
@@ -2687,7 +2687,7 @@
             "open_issues": 66,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12087,
+            "stars": 12088,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:30:11.804Z",
+    "last_updated": "2026-11-12T09:54:03.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3119,7 +3119,7 @@
       "open_issues": 8,
       "owner": "beucismis",
       "repo": "awesome-fetch",
-      "stars": 603,
+      "stars": 604,
       "topics": [
         "awesome",
         "awesome-list",
