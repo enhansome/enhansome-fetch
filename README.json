@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-11-10T10:48:35Z",
-                "open_issues": 124,
+                "open_issues": 127,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25344,
+                "stars": 25352,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -53,7 +53,7 @@
                 "open_issues": 170,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
-                "stars": 4076,
+                "stars": 4075,
                 "topics": [
                   "bash",
                   "desktop",
@@ -79,7 +79,7 @@
                 "open_issues": 8,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2156,
+                "stars": 2155,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 8,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2156,
+                "stars": 2155,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 10,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1999,
+                "stars": 1998,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -1390,7 +1390,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T23:40:03Z",
+                "last_commit": "2026-11-13T08:29:30Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -2687,7 +2687,7 @@
             "open_issues": 66,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12088,
+            "stars": 12089,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:54:03.683Z",
+    "last_updated": "2026-11-13T09:37:45.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
