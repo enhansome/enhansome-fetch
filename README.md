@@ -33,17 +33,17 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ### Cross Platform
 
-* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 25,372 | 🐛 129 | 🌐 C | 📅 2026-11-15 - Like neofetch, but much faster because written in C. `C`
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 25,380 | 🐛 127 | 🌐 C | 📅 2026-11-16 - Like neofetch, but much faster because written in C. `C`
 * [screenFetch](https://github.com/KittyKatt/screenFetch) ⭐ 4,077 | 🐛 170 | 🌐 Shell | 📅 2026-10-09 - Fetches system/theme information in terminal for Linux desktop screenshots. `Shell`
-* [hyfetch](https://github.com/hykilpikonna/hyfetch) ⭐ 2,160 | 🐛 7 | 🌐 Shell | 📅 2026-11-15 - Neofetch with LGBTQ+ pride flags. `Python`
-* [neowofetch](https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch) ⭐ 2,160 | 🐛 7 | 🌐 Shell | 📅 2026-11-15 - An updated, actively maintained fork of neofetch inside the HyFetch repo. `Shell`
+* [hyfetch](https://github.com/hykilpikonna/hyfetch) ⭐ 2,161 | 🐛 8 | 🌐 Shell | 📅 2026-11-15 - Neofetch with LGBTQ+ pride flags. `Python`
+* [neowofetch](https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch) ⭐ 2,161 | 🐛 8 | 🌐 Shell | 📅 2026-11-15 - An updated, actively maintained fork of neofetch inside the HyFetch repo. `Shell`
 * [macchina](https://github.com/Macchina-CLI/macchina) ⭐ 1,998 | 🐛 10 | 🌐 Rust | 📅 2025-03-08 - A system information fetcher, with an emphasis on performance and minimalism. `Rust`
 * [freshfetch](https://github.com/K4rakara/freshfetch) ⭐ 514 | 🐛 19 | 🌐 Rust | 📅 2024-06-05 - A fresh take on neofetch. `Rust`
 * [rxfetch](https://github.com/Mangeshrex/rxfetch) ⭐ 503 | 🐛 3 | 🌐 Shell | 📅 2025-07-25 - Custom system fetching tool which is made in bash script. `Shell`
 * [pfetch-rs](https://github.com/Gobidev/pfetch-rs) ⭐ 375 | 🐛 2 | 🌐 Rust | 📅 2026-10-28 - A pretty system information tool written in Rust. `Rust`
 * [archey4](https://github.com/HorlogeSkynet/archey4) ⭐ 345 | 🐛 4 | 🌐 Python | 📅 2026-10-23 - Maintained fork of the original Archey (Linux) system tool. `Python`
 * [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) ⭐ 311 | 🐛 0 | 🌐 Perl | 📅 2023-08-10 - Dilbert themed fetch tool written in Perl. `Perl`
-* [diyfetch](https://github.com/info-mono/diyfetch) ⭐ 255 | 🐛 0 | 🌐 Shell | 📅 2023-08-07 - The ultimate fetch tool template. `Shell`
+* [diyfetch](https://github.com/info-mono/diyfetch) ⭐ 254 | 🐛 0 | 🌐 Shell | 📅 2023-08-07 - The ultimate fetch tool template. `Shell`
 * [afetch](https://github.com/13-CF/afetch) ⭐ 242 | 🐛 30 | 🌐 C | 📅 2024-05-02 - Simple system info written in C. `C`
 * [bunnyfetch](https://github.com/Rosettea/bunnyfetch) ⭐ 192 | 🐛 1 | 🌐 Go | 📅 2025-01-14 - Tiny system info fetch utility. `Go`
 * [animfetch](https://github.com/Andrew-Velox/animfetch) ⭐ 171 | 🐛 2 | 🌐 Rust | 📅 2026-10-25 - Animated system fetch that stays pinned above your shell while you work. `Rust`
@@ -61,7 +61,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 * [rsftch](https://github.com/charklie/rsftch) ⭐ 44 | 🐛 0 | 🌐 Rust | 📅 2026-01-12 - Lightning fast hardware fetch written in rust. `Rust`
 * [mfetch](https://github.com/rachelambda/mfetch) ⭐ 35 | 🐛 0 | 🌐 Shell | 📅 2020-12-03 - Minimalist fetch. `Shell`
 * [yafetch](https://github.com/yrwq/yafetch) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2026-01-21 - Yet another fetch. `Rust`
-* [unifetch](https://github.com/nmimusic/unifetch) ⭐ 31 | 🐛 1 | 🌐 Shell | 📅 2026-10-11 - An unofficial inheritor of Neofetch. `Shell`
+* [unifetch](https://github.com/nmimusic/unifetch) ⭐ 32 | 🐛 1 | 🌐 Shell | 📅 2026-10-11 - An unofficial inheritor of Neofetch. `Shell`
 * [richfetch](https://github.com/Rizen54/richfetch) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2026-10-25 - A beautiful minimalistic fetch utility with a lot of dynamic features. `Python`
 * [rfetch](https://github.com/kamui-fin/rfetch) ⭐ 27 | 🐛 2 | 🌐 Rust | 📅 2024-02-05 - A fast and minimal fetch program. `Rust`
 * [tuatara](https://github.com/q60/tuatara) ⭐ 27 | 🐛 0 | 🌐 Zig | 📅 2025-04-29 - Ziggidy \*nix system info fetcher targeting speed and concepts of disfetch. `Zig`
@@ -102,7 +102,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ### Windows Only
 
-* [winfetch](https://github.com/lptstr/winfetch) ⭐ 1,797 | 🐛 24 | 🌐 PowerShell | 📅 2024-05-09 - A command-line system information utility written in PowerShell. Like Neofetch, but for Windows. `PowerShell`
+* [winfetch](https://github.com/lptstr/winfetch) ⭐ 1,796 | 🐛 24 | 🌐 PowerShell | 📅 2024-05-09 - A command-line system information utility written in PowerShell. Like Neofetch, but for Windows. `PowerShell`
 * [horizonfetch](https://github.com/horizonwiki/horizonfetch) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2026-02-12 - Forged in Rust, shaped by your style. `Rust`
 
 ### GNU/Linux Only
@@ -182,10 +182,10 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 * [fetchfetch](https://github.com/TheBicPen/fetchfetch) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2023-06-18 - A tool to fetch info about the fetches installed on your system. `Rust`
 * [gmod-fetch](https://github.com/garryspins/gmod-fetch) ⭐ 6 | 🐛 1 | 🌐 Lua | 📅 2020-11-21 - GFetch is a neofetch-clone for Garry's Mod. `Lua`
 * [webfetch](https://github.com/ensomnatt/webfetch) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2025-06-19 - Webfetch is a program that displays your system information on the web, running as a systemd unit. `Go`
-* [mtgfetch](https://github.com/monteluka/mtgfetch) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-11-15 - Magic: The Gathering card information fetcher. `C++`
+* [mtgfetch](https://github.com/monteluka/mtgfetch) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-11-16 - Magic: The Gathering card information fetcher. `C++`
 * [pokestats](https://github.com/mdatz/pokestats) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2026-04-15 - Terminal fetch tool for viewing pokemon stats and abilities. `Shell`
 * [qrcodefetch](https://codeberg.org/ldm/qrcodefetch) - Qrcode fetch bash script. `Shell`
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

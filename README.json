@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-15T04:08:23Z",
-                "open_issues": 129,
+                "last_commit": "2026-11-16T00:57:24Z",
+                "open_issues": 127,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25372,
+                "stars": 25380,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -76,10 +76,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-11-15T04:59:01Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2160,
+                "stars": 2161,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -102,10 +102,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-11-15T04:59:01Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2160,
+                "stars": 2161,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -309,7 +309,7 @@
                 "open_issues": 0,
                 "owner": "info-mono",
                 "repo": "diyfetch",
-                "stars": 255,
+                "stars": 254,
                 "topics": [
                   "cli",
                   "fetch",
@@ -801,7 +801,7 @@
                 "open_issues": 1,
                 "owner": "nmimusic",
                 "repo": "unifetch",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "neofetch",
                   "screenfetch"
@@ -1653,7 +1653,7 @@
                 "open_issues": 24,
                 "owner": "lptstr",
                 "repo": "winfetch",
-                "stars": 1797,
+                "stars": 1796,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -3056,7 +3056,7 @@
             "id": 886990824,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-15T08:54:14Z",
+            "last_commit": "2026-11-16T01:33:01Z",
             "open_issues": 0,
             "owner": "monteluka",
             "repo": "mtgfetch",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T09:31:33.129Z",
+    "last_updated": "2026-11-16T09:50:14.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
