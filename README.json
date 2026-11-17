@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-16T00:57:24Z",
-                "open_issues": 127,
+                "last_commit": "2026-11-17T07:27:35Z",
+                "open_issues": 129,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25380,
+                "stars": 25389,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -50,7 +50,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-09T07:51:57Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "KittyKatt",
                 "repo": "screenFetch",
                 "stars": 4077,
@@ -76,10 +76,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-11-15T04:59:01Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2161,
+                "stars": 2162,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -102,10 +102,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-11-15T04:59:01Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2161,
+                "stars": 2162,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -1325,6 +1325,37 @@
             },
             {
               "node_type": "item",
+              "title": "kkfetch",
+              "description": "A fast, lightweight cross-platform system information fetch CLI written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A fast, lightweight, zero-subprocess system information fetch tool written in Rust for Linux, Windows, macOS, and Android.",
+                "homepage": "https://github.com/kk376/kkfetch",
+                "id": 1335991268,
+                "language": "Rust",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-16T14:09:24Z",
+                "open_issues": 0,
+                "owner": "kk376",
+                "repo": "kkfetch",
+                "stars": 5,
+                "topics": [
+                  "cli",
+                  "fastfetch",
+                  "fetch",
+                  "kkfetch",
+                  "linux",
+                  "neofetch",
+                  "rust",
+                  "system-information",
+                  "termux"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "myfetch",
               "description": "My neofetch-like program.",
               "children": [],
@@ -1374,37 +1405,6 @@
                   "sysinfo",
                   "system",
                   "zsh"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "kkfetch",
-              "description": "A fast, lightweight cross-platform system information fetch CLI written in Rust.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A fast, lightweight, zero-subprocess system information fetch tool written in Rust for Linux, Windows, macOS, and Android.",
-                "homepage": "https://github.com/kk376/kkfetch",
-                "id": 1335991268,
-                "language": "Rust",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-13T17:41:33Z",
-                "open_issues": 0,
-                "owner": "kk376",
-                "repo": "kkfetch",
-                "stars": 4,
-                "topics": [
-                  "cli",
-                  "fastfetch",
-                  "fetch",
-                  "kkfetch",
-                  "linux",
-                  "neofetch",
-                  "rust",
-                  "system-information",
-                  "termux"
                 ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2687,7 +2687,7 @@
             "open_issues": 66,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12089,
+            "stars": 12086,
             "topics": [
               "cli",
               "command-line",
@@ -2715,7 +2715,7 @@
             "open_issues": 1,
             "owner": "Matars",
             "repo": "gitfetch",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "cli",
               "contribution-graph",
@@ -3056,7 +3056,7 @@
             "id": 886990824,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-16T01:33:01Z",
+            "last_commit": "2026-11-17T07:47:45Z",
             "open_issues": 0,
             "owner": "monteluka",
             "repo": "mtgfetch",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T09:50:14.496Z",
+    "last_updated": "2026-11-17T10:47:43.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
@@ -3119,7 +3119,7 @@
       "open_issues": 8,
       "owner": "beucismis",
       "repo": "awesome-fetch",
-      "stars": 605,
+      "stars": 606,
       "topics": [
         "awesome",
         "awesome-list",
