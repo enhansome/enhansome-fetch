@@ -17,11 +17,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-17T13:47:16Z",
-                "open_issues": 128,
+                "last_commit": "2026-11-19T03:08:03Z",
+                "open_issues": 132,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25401,
+                "stars": 25411,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -131,7 +131,7 @@
                 "open_issues": 10,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1998,
+                "stars": 1997,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -183,7 +183,7 @@
                 "open_issues": 3,
                 "owner": "mngshm",
                 "repo": "rxfetch",
-                "stars": 503,
+                "stars": 502,
                 "topics": [
                   "arch",
                   "bash",
@@ -2138,7 +2138,7 @@
                 "open_issues": 0,
                 "owner": "Sbinator-hub",
                 "repo": "Haxefetch",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2683,11 +2683,11 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T19:48:52Z",
-            "open_issues": 65,
+            "last_commit": "2026-11-19T07:29:22Z",
+            "open_issues": 66,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12085,
+            "stars": 12087,
             "topics": [
               "cli",
               "command-line",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:15:21.460Z",
+    "last_updated": "2026-11-19T10:26:37.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
