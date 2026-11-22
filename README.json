@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-11-21T01:43:01Z",
-                "open_issues": 130,
+                "open_issues": 131,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25423,
+                "stars": 25431,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -79,7 +79,7 @@
                 "open_issues": 8,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2162,
+                "stars": 2161,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -105,7 +105,7 @@
                 "open_issues": 8,
                 "owner": "hykilpikonna",
                 "repo": "hyfetch",
-                "stars": 2162,
+                "stars": 2161,
                 "topics": [
                   "hyfetch",
                   "neofetch",
@@ -131,7 +131,7 @@
                 "open_issues": 12,
                 "owner": "Macchina-CLI",
                 "repo": "macchina",
-                "stars": 1997,
+                "stars": 1998,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 0,
                 "owner": "info-mono",
                 "repo": "diyfetch",
-                "stars": 254,
+                "stars": 255,
                 "topics": [
                   "cli",
                   "fetch",
@@ -527,8 +527,8 @@
                 "id": 464107126,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-21T05:38:52Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-22T07:48:23Z",
+                "open_issues": 0,
                 "owner": "alba4k",
                 "repo": "albafetch",
                 "stars": 74,
@@ -569,37 +569,6 @@
             },
             {
               "node_type": "item",
-              "title": "Pokefetch",
-              "description": "Command-line tool similar to neofetch for looking up pokemon in the terminal.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🕹️ Command-line tool similar to neofetch for looking up pokemon in the terminal.",
-                "homepage": null,
-                "id": 86664514,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2019-09-16T18:31:01Z",
-                "open_issues": 2,
-                "owner": "rmccorm4",
-                "repo": "Pokefetch",
-                "stars": 62,
-                "topics": [
-                  "beautifulsoup",
-                  "catimg",
-                  "developer-tools",
-                  "development-environment",
-                  "neofetch",
-                  "pokemon",
-                  "screenfetch",
-                  "shiny",
-                  "sprites"
-                ]
-              },
-              "first_seen": "2026-08-28T14:23:48.317Z"
-            },
-            {
-              "node_type": "item",
               "title": "hayabusa",
               "description": "A daemonized fetch that is fully featured as well as fast.",
               "children": [],
@@ -614,8 +583,39 @@
                 "open_issues": 7,
                 "owner": "Notarin",
                 "repo": "hayabusa",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:48.317Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Pokefetch",
+              "description": "Command-line tool similar to neofetch for looking up pokemon in the terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🕹️ Command-line tool similar to neofetch for looking up pokemon in the terminal.",
+                "homepage": null,
+                "id": 86664514,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2019-09-16T18:31:01Z",
+                "open_issues": 2,
+                "owner": "rmccorm4",
+                "repo": "Pokefetch",
+                "stars": 61,
+                "topics": [
+                  "beautifulsoup",
+                  "catimg",
+                  "developer-tools",
+                  "development-environment",
+                  "neofetch",
+                  "pokemon",
+                  "screenfetch",
+                  "shiny",
+                  "sprites"
+                ]
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
             },
@@ -904,7 +904,7 @@
                 "id": 1316225919,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-01T13:49:57Z",
+                "last_commit": "2026-11-21T21:34:26Z",
                 "open_issues": 0,
                 "owner": "Yassine-Jemi01",
                 "repo": "SmartFetch",
@@ -1335,7 +1335,7 @@
                 "id": 1335991268,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T17:36:43Z",
+                "last_commit": "2026-11-21T22:08:50Z",
                 "open_issues": 0,
                 "owner": "kk376",
                 "repo": "kkfetch",
@@ -1718,7 +1718,7 @@
                 "open_issues": 31,
                 "owner": "ssleert",
                 "repo": "nitch",
-                "stars": 650,
+                "stars": 648,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:48.317Z"
@@ -2683,7 +2683,7 @@
             "id": 148829497,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-20T23:35:57Z",
+            "last_commit": "2026-11-21T20:03:27Z",
             "open_issues": 61,
             "owner": "o2sh",
             "repo": "onefetch",
@@ -3107,7 +3107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T09:54:30.122Z",
+    "last_updated": "2026-11-22T09:51:29.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of command-line fetch tools.",
